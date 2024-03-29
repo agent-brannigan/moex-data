@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+<data id="securities">
+<rows>
+<row SECID="ABIO" SECNAME="ПАО &quot;Артген&quot;" />
+<row SECID="ABRD" SECNAME="Абрау-Дюрсо ПАО ао" />
+<row SECID="ACKO" SECNAME="АСКО ПАО ао" />
+<row SECID="AFKS" SECNAME="АФК &quot;Система&quot; ПАО ао" />
+<row SECID="AFLT" SECNAME="Аэрофлот-росс.авиалин(ПАО)ао" />
+<row SECID="AGRO" SECNAME="ГДР ROS AGRO PLC ORD SHS" />
+<row SECID="AKRN" SECNAME="Акрон ПАО ао" />
+<row SECID="ALRS" SECNAME="АЛРОСА ПАО ао" />
+<row SECID="AMEZ" SECNAME="Ашинский метзавод ПАО ао" />
+<row SECID="APTK" SECNAME="ПАО &quot;Аптечная сеть 36,6&quot; ао" />
+<row SECID="AQUA" SECNAME="ПАО ИНАРКТИКА" />
+<row SECID="ARSA" SECNAME="УК Арсагера ПАО-ао" />
+<row SECID="ASSB" SECNAME="&quot;Астраханская ЭСК&quot; ПАО" />
+<row SECID="ASTR" SECNAME="Группа Астра ао" />
+<row SECID="AVAN" SECNAME="АКБ &quot;АВАНГАРД&quot; ПАО ао" />
+<row SECID="BANE" SECNAME="Башнефть АНК ао" />
+<row SECID="BANEP" SECNAME="Башнефть АНК ап" />
+<row SECID="BELU" SECNAME="НоваБев Групп ПАО ао" />
+<row SECID="BISVP" SECNAME="Башинформсвязь(ПАО) ап" />
+<row SECID="BLNG" SECNAME="Белон ОАО ао" />
+<row SECID="BRZL" SECNAME="Бурятзолото ПАО ао" />
+<row SECID="BSPB" SECNAME="ПАО &quot;Банк &quot;Санкт-Петербург&quot; ао" />
+<row SECID="BSPBP" SECNAME="Банк Санкт-Петербург ап" />
+<row SECID="CARM" SECNAME="СТГ ао" />
+<row SECID="CBOM" SECNAME="&quot;МКБ&quot; ПАО ао" />
+<row SECID="CHGZ" SECNAME="РН-Западная Сибирь ПАО ао" />
+<row SECID="CHKZ" SECNAME="&quot;ЧКПЗ&quot; ПАО ао" />
+<row SECID="CHMF" SECNAME="Северсталь (ПАО)ао" />
+<row SECID="CHMK" SECNAME="&quot;ЧМК&quot; ПАО ао" />
+<row SECID="CIAN" SECNAME="АДР Cian PLC ORD SHS" />
+<row SECID="CNTL" SECNAME="&quot;Центральный Телеграф&quot; ПАО ао" />
+<row SECID="CNTLP" SECNAME="&quot;Центральный Телеграф&quot; ПАО ап" />
+<row SECID="DELI" SECNAME="Каршеринг Руссия ао" />
+<row SECID="DIAS" SECNAME="Диасофт ао" />
+<row SECID="DIOD" SECNAME="Завод ДИОД ПАО ао" />
+<row SECID="DVEC" SECNAME="&quot;ДЭК&quot; ПАО ао" />
+<row SECID="DZRD" SECNAME="Донской завод радиодеталей ао" />
+<row SECID="DZRDP" SECNAME="Донской завод радиодеталей ап" />
+<row SECID="EELT" SECNAME="&quot;ЕвропЭлектротехника&quot; ПАО ао" />
+<row SECID="ELFV" SECNAME="&quot;ЭЛ5-Энерго&quot; ПАО" />
+<row SECID="ENPG" SECNAME="МКПАО ЭН+ ГРУП ао" />
+<row SECID="ETLN" SECNAME="ГДР ETALON GROUP PLC ORD SHS" />
+<row SECID="EUTR" SECNAME="ЕвроТранс ао" />
+<row SECID="FEES" SECNAME="&quot;ФСК - Россети&quot; ПАО" />
+<row SECID="FESH" SECNAME="ДВ морское пароходство ПАО ао" />
+<row SECID="FIVE" SECNAME="ГДР X5 RetailGroup N.V.ORD SHS" />
+<row SECID="FIXP" SECNAME="ГДР FixPrice Group PLC ORD SHS" />
+<row SECID="FLOT" SECNAME="Совкомфлот ао" />
+<row SECID="GAZC" SECNAME="ГАЗКОН (ПАО) ао" />
+<row SECID="GAZP" SECNAME="&quot;Газпром&quot; (ПАО) ао" />
+<row SECID="GAZS" SECNAME="ГАЗ-сервис (ПАО) ао" />
+<row SECID="GAZT" SECNAME="ГАЗ-Тек ПАО ао" />
+<row SECID="GCHE" SECNAME="Группа Черкизово ПАО-ао" />
+<row SECID="GECO" SECNAME="ЦГРМ ГЕНЕТИКО ао" />
+<row SECID="GEMA" SECNAME="ПАО ММЦБ ао" />
+<row SECID="GEMC" SECNAME="Юнайтед Медикал Груп ПАО" />
+<row SECID="GLTR" SECNAME="ГДР Globaltrans Invest ORD SHS" />
+<row SECID="GMKN" SECNAME="ГМК &quot;Нор.Никель&quot; ПАО ао" />
+<row SECID="GTRK" SECNAME="ПАО &quot;ГТМ&quot; ао" />
+<row SECID="HHRU" SECNAME="АДР HeadHunter Group ORD SHS" />
+<row SECID="HIMCP" SECNAME="Химпром ПАО ап" />
+<row SECID="HNFG" SECNAME="ХЭНДЕРСОН ао" />
+<row SECID="HYDR" SECNAME="ПАО &quot;РусГидро&quot;" />
+<row SECID="IGST" SECNAME="Ижсталь ПАО ао 2в." />
+<row SECID="IGSTP" SECNAME="Ижсталь ПАО ап" />
+<row SECID="INGR" SECNAME="ИНГРАД ПАО ао" />
+<row SECID="IRAO" SECNAME="&quot;Интер РАО&quot; ПАО ао" />
+<row SECID="IRKT" SECNAME="&quot;Яковлев&quot; ПАО ак.об.-3" />
+<row SECID="JNOS" SECNAME="Славнефть-ЯНОС (ПАО) ао" />
+<row SECID="JNOSP" SECNAME="Славнефть-ЯНОС (ПАО) ап" />
+<row SECID="KAZT" SECNAME="Куйбышевазот ПАО ао" />
+<row SECID="KAZTP" SECNAME="Куйбышевазот ПАО ап" />
+<row SECID="KBSB" SECNAME="ТНС энерго Кубань ПАО ао" />
+<row SECID="KCHE" SECNAME="Камчатскэнерго ПАО ао" />
+<row SECID="KCHEP" SECNAME="Камчатскэнерго ПАО ап" />
+<row SECID="KGKC" SECNAME="Курганская генер.комп.ПАО ао" />
+<row SECID="KGKCP" SECNAME="Курганская генер. комп. ПАО ап" />
+<row SECID="KLSB" SECNAME="ао&quot;Калужская сбыт.комп.&quot;ПАО" />
+<row SECID="KLVZ" SECNAME="Алкогольная Группа Кристалл" />
+<row SECID="KMAZ" SECNAME="КАМАЗ ПАО" />
+<row SECID="KMEZ" SECNAME="Ковровский механический завод" />
+<row SECID="KOGK" SECNAME="Коршуновский ГОК ПАО ао" />
+<row SECID="KRKN" SECNAME="Саратовский НПЗ ПАО ао" />
+<row SECID="KRKNP" SECNAME="Саратовский НПЗ ПАО ап" />
+<row SECID="KRKOP" SECNAME="ТКЗ Красный котельщик ПАО ап" />
+<row SECID="KROT" SECNAME="&quot;КрасныйОктябрь&quot; ПАО - ао" />
+<row SECID="KROTP" SECNAME="КрасныйОктябрь-1п" />
+<row SECID="KRSB" SECNAME="Красноярскэнергосбыт ао" />
+<row SECID="KRSBP" SECNAME="Красноярскэнергосбыт ап" />
+<row SECID="KUBE" SECNAME="&quot;Россети Кубань&quot; ПАО" />
+<row SECID="KUZB" SECNAME="Банк &quot;Кузнецкий&quot; ПАО ао" />
+<row SECID="KZOS" SECNAME="ПАО &quot;Органический синтез&quot; ао" />
+<row SECID="KZOSP" SECNAME="ПАО &quot;Органический синтез&quot; ап" />
+<row SECID="LEAS" SECNAME="ПАО «ЛК «Европлан»" />
+<row SECID="LENT" SECNAME="Лента МКПАО ао" />
+<row SECID="LKOH" SECNAME="НК ЛУКОЙЛ (ПАО) - ао" />
+<row SECID="LNZL" SECNAME="&quot;Лензолото&quot; ПАО ао" />
+<row SECID="LNZLP" SECNAME="&quot;Лензолото&quot; ПАО ап" />
+<row SECID="LSNG" SECNAME="Россети Ленэнерго ПАО-ао" />
+<row SECID="LSNGP" SECNAME="Россети Ленэнерго ПАО-ап" />
+<row SECID="LSRG" SECNAME="Группа ЛСР ПАО ао" />
+<row SECID="LVHK" SECNAME="Левенгук ПАО ао" />
+<row SECID="MAGE" SECNAME="&quot;Магаданэнерго&quot; ПАО ао" />
+<row SECID="MAGEP" SECNAME="&quot;Магаданэнерго&quot; ПАО ап" />
+<row SECID="MAGN" SECNAME="&quot;Магнитогорск.мет.комб&quot; ПАО ао" />
+<row SECID="MDMG" SECNAME="ГДР MD Medical Group Inv. PLC" />
+<row SECID="MFGS" SECNAME="ао &quot;Славнефть-Мегионнефтегаз&quot;" />
+<row SECID="MFGSP" SECNAME="ап Мегионнефтегаз" />
+<row SECID="MGKL" SECNAME="МГКЛ ао" />
+<row SECID="MGNT" SECNAME="&quot;Магнит&quot; ПАО ао" />
+<row SECID="MGNZ" SECNAME="Соликамский магн.завод(ОАО)ао" />
+<row SECID="MGTS" SECNAME="ПАО &quot;МГТС&quot; ао (5 в)" />
+<row SECID="MGTSP" SECNAME="ПАО &quot;МГТС&quot; ап (4 в)" />
+<row SECID="MISB" SECNAME="ТНС энерго Марий Эл ПАО ао" />
+<row SECID="MISBP" SECNAME="ТНС энерго Марий Эл ПАО ап" />
+<row SECID="MOEX" SECNAME="ПАО Московская Биржа" />
+<row SECID="MRKC" SECNAME="ПАО &quot;Россети Центр&quot; ао" />
+<row SECID="MRKK" SECNAME="Россети Сев. Кавказ ао" />
+<row SECID="MRKP" SECNAME="Россети Центр и Приволжье ао" />
+<row SECID="MRKS" SECNAME="Россети Сибирь ао" />
+<row SECID="MRKU" SECNAME="Россети Урал (ПАО) ао" />
+<row SECID="MRKV" SECNAME="Россети Волга ао" />
+<row SECID="MRKY" SECNAME="Россети Юг  (ПАО) ао" />
+<row SECID="MRKZ" SECNAME="ПАО Россети Северо-Запад ао" />
+<row SECID="MRSB" SECNAME="Мордовск.энергсбыт.комп.ПАО ао" />
+<row SECID="MSNG" SECNAME="МосЭнерго акции обыкн." />
+<row SECID="MSRS" SECNAME="ПАО Россети Моск.рег. ао" />
+<row SECID="MSTT" SECNAME="ПАО &quot;МОСТОТРЕСТ&quot; ао" />
+<row SECID="MTLR" SECNAME="Мечел ПАО ао" />
+<row SECID="MTLRP" SECNAME="Мечел ПАО ап" />
+<row SECID="MTSS" SECNAME="Мобильные ТелеСистемы ПАО ао" />
+<row SECID="MVID" SECNAME="&quot;М.видео&quot; ПАО ао" />
+<row SECID="NAUK" SECNAME="НПО Наука ао" />
+<row SECID="NFAZ" SECNAME="НЕФАЗ ПАО ао" />
+<row SECID="NKHP" SECNAME="НКХП ПАО ао" />
+<row SECID="NKNC" SECNAME="&quot;Нижнекамскнефтехим&quot; ПАО ао" />
+<row SECID="NKNCP" SECNAME="&quot;Нижнекамскнефтехим&quot; ПАО ап" />
+<row SECID="NKSH" SECNAME="Нижнекамскшина ПАО ао" />
+<row SECID="NLMK" SECNAME="ПАО &quot;НЛМК&quot; ао" />
+<row SECID="NMTP" SECNAME="НМТП (ПАО) ао" />
+<row SECID="NNSB" SECNAME="ТНС энерго Нижний Новг.ПАО ао" />
+<row SECID="NNSBP" SECNAME="ТНС энерго Нижний Новг.ПАО ап" />
+<row SECID="NSVZ" SECNAME="Наука-Связь ПАО ао" />
+<row SECID="NVTK" SECNAME="ПАО &quot;НОВАТЭК&quot; ао" />
+<row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" />
+<row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" />
+<row SECID="OMZZP" SECNAME="ап&quot;Объединён.  маш. заводы&quot;" />
+<row SECID="OZON" SECNAME="АДР Ozon Holdings PLC ORD SHS" />
+<row SECID="PHOR" SECNAME="ФосАгро ПАО ао" />
+<row SECID="PIKK" SECNAME="ПИК СЗ (ПАО) ао" />
+<row SECID="PLZL" SECNAME="Полюс ПАО ао" />
+<row SECID="PMSB" SECNAME="&quot;Пермэнергосбыт&quot; ПАО ао" />
+<row SECID="PMSBP" SECNAME="&quot;Пермэнергосбыт&quot; ПАО ап" />
+<row SECID="POLY" SECNAME="Polymetal International plc" />
+<row SECID="POSI" SECNAME="Группа Позитив ао" />
+<row SECID="PRFN" SECNAME="ЧЗПСН-Профнастил (ПАО) ао" />
+<row SECID="PRMB" SECNAME="АКБ &quot;Приморье&quot; ао" />
+<row SECID="QIWI" SECNAME="QIWI PLC" />
+<row SECID="RASP" SECNAME="ПАО Распадская ао" />
+<row SECID="RBCM" SECNAME="ГК РБК ПАО ао" />
+<row SECID="RDRB" SECNAME="РоссийскийДорож Банк ПАО ао" />
+<row SECID="RENI" SECNAME="Ренессанс Страхование ао" />
+<row SECID="RGSS" SECNAME="Росгосстрах СК ПАО ао" />
+<row SECID="RKKE" SECNAME="РКК Энергия им.С.П.Королева ао" />
+<row SECID="RNFT" SECNAME="РуссНефть НК ПАО ао" />
+<row SECID="ROLO" SECNAME="&quot;Русолово&quot; ПАО ао" />
+<row SECID="ROSB" SECNAME="РОСБАНК ПАО ао" />
+<row SECID="ROSN" SECNAME="ПАО НК Роснефть" />
+<row SECID="ROST" SECNAME="РОСИНТЕР РЕСТОРАНТС (ПАО)" />
+<row SECID="RTGZ" SECNAME="Газпром газорасп Р-н-Д ПАО ао" />
+<row SECID="RTKM" SECNAME="Ростелеком (ПАО) ао." />
+<row SECID="RTKMP" SECNAME="Ростелеком (ПАО) ап." />
+<row SECID="RTSB" SECNAME="ТНС энерго Ростов. ПАО ао" />
+<row SECID="RTSBP" SECNAME="ТНС энерго Ростов. ПАО ап" />
+<row SECID="RUAL" SECNAME="РУСАЛ ОК МКПАО ао" />
+<row SECID="RUSI" SECNAME="РУСС-ИНВЕСТ ИК ПАО ао" />
+<row SECID="RZSB" SECNAME="&quot;Рязанская энергосб.комп&quot; ПАО" />
+<row SECID="SAGO" SECNAME="Самараэнерго (ПАО) - ао" />
+<row SECID="SAGOP" SECNAME="Самараэнерго (ПАО) - ап" />
+<row SECID="SARE" SECNAME="Саратовэнерго(ПАО)-ао" />
+<row SECID="SAREP" SECNAME="Саратовэнерго(ПАО)-ап" />
+<row SECID="SBER" SECNAME="Сбербанк России ПАО ао" />
+<row SECID="SBERP" SECNAME="Сбербанк России ПАО ап" />
+<row SECID="SELG" SECNAME="ПАО &quot;Селигдар&quot;  ао" />
+<row SECID="SFIN" SECNAME="ЭсЭфАй ПАО ао" />
+<row SECID="SGZH" SECNAME="Сегежа ао" />
+<row SECID="SIBN" SECNAME="Газпром нефть ПАО ао" />
+<row SECID="SLEN" SECNAME="ПАО &quot;Сахалинэнерго&quot; ао" />
+<row SECID="SMLT" SECNAME="ГК Самолет ао" />
+<row SECID="SNGS" SECNAME="Сургутнефтегаз ПАО акции об." />
+<row SECID="SNGSP" SECNAME="Сургутнефтегаз ПАО ап" />
+<row SECID="SOFL" SECNAME="Софтлайн ао" />
+<row SECID="SPBE" SECNAME="СПБ Биржа ао" />
+<row SECID="STSB" SECNAME="Ставрополэнергосбыт ПАО ао" />
+<row SECID="STSBP" SECNAME="Ставрополэнергосбыт ПАО ап" />
+<row SECID="SVAV" SECNAME="ПАО &quot;СОЛЛЕРС&quot;" />
+<row SECID="SVCB" SECNAME="Совкомбанк ао" />
+<row SECID="SVET" SECNAME="Светофор Групп ао" />
+<row SECID="TASB" SECNAME="ао&quot;Тамбов.энергсбыт.комп.&quot;ПАО" />
+<row SECID="TASBP" SECNAME="ап&quot;Тамбов.энергсбыт.комп.&quot;ПАО" />
+<row SECID="TATN" SECNAME="ПАО &quot;Татнефть&quot; ао" />
+<row SECID="TATNP" SECNAME="ПАО &quot;Татнефть&quot; ап 3 вып." />
+<row SECID="TCSG" SECNAME="ТКС Холдинг МКПАО ао" />
+<row SECID="TGKA" SECNAME="ао ПАО &quot;ТГК-1&quot;" />
+<row SECID="TGKB" SECNAME="ао ПАО &quot;ТГК-2&quot;" />
+<row SECID="TGKBP" SECNAME="ап ПАО &quot;ТГК-2&quot;" />
+<row SECID="TGKN" SECNAME="ао ПАО &quot;ТГК-14&quot;" />
+<row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" />
+<row SECID="TORS" SECNAME="ао &quot;Томская распределит.комп.&quot;" />
+<row SECID="TORSP" SECNAME="ап &quot;Томская распределит.комп.&quot;" />
+<row SECID="TRMK" SECNAME="ПАО ТМК" />
+<row SECID="TRNFP" SECNAME="Транснефть ПАО акц.пр." />
+<row SECID="TTLK" SECNAME="&quot;Таттелеком&quot; ПАО ао" />
+<row SECID="TUZA" SECNAME="Туймаз. завод автобетоновозов" />
+<row SECID="UGLD" SECNAME="ЮГК" />
+<row SECID="UKUZ" SECNAME="Южный Кузбасс ПАО ао" />
+<row SECID="UNAC" SECNAME="Об.авиастр.корп. ПАО ао" />
+<row SECID="UNKL" SECNAME="Южно-Уральский никел. комб. ао" />
+<row SECID="UPRO" SECNAME="Юнипро ПАО ао" />
+<row SECID="URKZ" SECNAME="ПАО &quot;Уральская кузница&quot; ао" />
+<row SECID="USBN" SECNAME="БАНК УРАЛСИБ ПАО ао" />
+<row SECID="UTAR" SECNAME="Авиакомпания &quot;ЮТэйр&quot; (ПАО) ао" />
+<row SECID="VEON-RX" SECNAME="VEON Ltd. ORD SHS" />
+<row SECID="VGSB" SECNAME="&quot;Волгоград.энергосбыткомп&quot; ПАО" />
+<row SECID="VGSBP" SECNAME="&quot;Волгоград.энергосбыткомп&quot; ПАО" />
+<row SECID="VJGZ" SECNAME="ННК-Варьеганнефтегаз ПАО ао" />
+<row SECID="VJGZP" SECNAME="ННК-Варьеганнефтегаз ПАО ап" />
+<row SECID="VKCO" SECNAME="Международная компания ПАО ВК" />
+<row SECID="VLHZ" SECNAME="Владимирский химич.з-д(ПАО) ао" />
+<row SECID="VRSB" SECNAME="ТНС энерго Воронеж ПАО ао" />
+<row SECID="VRSBP" SECNAME="ТНС энерго Воронеж ПАО ап" />
+<row SECID="VSMO" SECNAME="Корп. ВСМПО-АВИСМА (ПАО) ао" />
+<row SECID="VSYD" SECNAME="Выборгский Суд.Завод ПАО ао" />
+<row SECID="VSYDP" SECNAME="Выборгский Суд.Завод ПАО ап" />
+<row SECID="VTBR" SECNAME="ао ПАО Банк ВТБ" />
+<row SECID="WTCM" SECNAME="&quot;Центр междун. торговли&quot;ПАО ао" />
+<row SECID="WTCMP" SECNAME="&quot;Центр междун. торговли&quot;ПАО ап" />
+<row SECID="WUSH" SECNAME="ВУШ Холдинг ао" />
+<row SECID="YAKG" SECNAME="Якутская топл.-энерг. комп. ао" />
+<row SECID="YKEN" SECNAME="АК &quot;Якутскэнерго&quot; (ПАО) ао" />
+<row SECID="YKENP" SECNAME="АК &quot;Якутскэнерго&quot; (ПАО) ап" />
+<row SECID="YNDX" SECNAME="PLLC Yandex N.V. class A shs" />
+<row SECID="YRSB" SECNAME="ТНС энерго Ярославль ПАО ао" />
+<row SECID="YRSBP" SECNAME="ТНС энерго Ярославль ПАО ап" />
+<row SECID="ZILL" SECNAME="Завод им. И.А.Лихачева ПАО ао" />
+<row SECID="ZVEZ" SECNAME="ЗВЕЗДА ПАО ао" />
+</rows>
+</data>
+</document>
