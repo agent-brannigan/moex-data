@@ -85,48 +85,26 @@
 <row SECID="TUSD" SECNAME="БПИФ ТИНЬКОФФ ВЕЧНЫЙ ПОРТФ США" />
 <row SECID="YUAN" SECNAME="БПИФ Облигации в юанях" />
 <row SECID="FXBC" SECNAME="Finex FXBC" />
-<row SECID="FXBC" SECNAME="Finex FXBC" />
-<row SECID="FXEM" SECNAME="Finex FXEM" />
 <row SECID="FXEM" SECNAME="Finex FXEM" />
 <row SECID="FXRE" SECNAME="Finex FXRE" />
-<row SECID="FXRE" SECNAME="Finex FXRE" />
-<row SECID="FXRD" SECNAME="Finex FXRD" />
 <row SECID="FXRD" SECNAME="Finex FXRD" />
 <row SECID="FXES" SECNAME="Finex FXES" />
-<row SECID="FXES" SECNAME="Finex FXES" />
-<row SECID="FXIP" SECNAME="Finex FXIP" />
 <row SECID="FXIP" SECNAME="Finex FXIP" />
 <row SECID="FXTP" SECNAME="Finex FXTP" />
-<row SECID="FXTP" SECNAME="Finex FXTP" />
-<row SECID="FXFA" SECNAME="Finex FXFA" />
 <row SECID="FXFA" SECNAME="Finex FXFA" />
 <row SECID="FXDM" SECNAME="Finex FXDM" />
-<row SECID="FXDM" SECNAME="Finex FXDM" />
-<row SECID="FXGD" SECNAME="Finex FXGD" />
 <row SECID="FXGD" SECNAME="Finex FXGD" />
 <row SECID="FXWO" SECNAME="Finex FXWO" />
-<row SECID="FXWO" SECNAME="Finex FXWO" />
-<row SECID="FXRW" SECNAME="Finex FXRW" />
 <row SECID="FXRW" SECNAME="Finex FXRW" />
 <row SECID="FXTB" SECNAME="Finex FXTB" />
-<row SECID="FXTB" SECNAME="Finex FXTB" />
-<row SECID="FXMM" SECNAME="Finex FXMM" />
 <row SECID="FXMM" SECNAME="Finex FXMM" />
 <row SECID="FXRL" SECNAME="Finex FXRL" />
-<row SECID="FXRL" SECNAME="Finex FXRL" />
-<row SECID="FXIM" SECNAME="Finex FXIM" />
 <row SECID="FXIM" SECNAME="Finex FXIM" />
 <row SECID="FXIT" SECNAME="Finex FXIT" />
-<row SECID="FXIT" SECNAME="Finex FXIT" />
-<row SECID="FXUS" SECNAME="Finex FXUS" />
 <row SECID="FXUS" SECNAME="Finex FXUS" />
 <row SECID="FXRU" SECNAME="Finex FXRU" />
-<row SECID="FXRU" SECNAME="Finex FXRU" />
-<row SECID="FXDE" SECNAME="Finex FXDE" />
 <row SECID="FXDE" SECNAME="Finex FXDE" />
 <row SECID="FXCN" SECNAME="Finex FXCN" />
-<row SECID="FXCN" SECNAME="Finex FXCN" />
-<row SECID="FXKZ" SECNAME="Finex FXKZ" />
 <row SECID="FXKZ" SECNAME="Finex FXKZ" />
 </rows>
 </data>
