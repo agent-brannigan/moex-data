@@ -29,7 +29,7 @@
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="142.2" ACCRUEDINT="0.0" />
 <row SECID="OPNB" SECNAME="БПИФ Открытие - Облигации РФ" MARKETPRICE="93.02" ACCRUEDINT="0.0" />
 <row SECID="OPNR" SECNAME="БПИФ Открытие - Акции РФ" MARKETPRICE="106.18" ACCRUEDINT="0.0" />
-<row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="860" ACCRUEDINT="0.0" />
+<row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="855" ACCRUEDINT="0.0" />
 <row SECID="RCGL" SECNAME="БПИФ Райффайзен - Золото" MARKETPRICE="2055" ACCRUEDINT="0.0" />
 <row SECID="RCHY" SECNAME="БПИФ Райф Высокодох. облигации" MARKETPRICE="124.55" ACCRUEDINT="0.0" />
 <row SECID="RCMB" SECNAME="БПИФ Райф Еврооблигации" MARKETPRICE="947" ACCRUEDINT="0.0" />
@@ -409,7 +409,7 @@
 <row SECID="SU52004RMFS7" SECNAME="ОФЗ-ИН 52004 17/03/32" MARKETPRICE="1037.87" ACCRUEDINT="2.95" />
 <row SECID="SU52005RMFS4" SECNAME="ОФЗ-ИН 52005 11/05/33" MARKETPRICE="869.48" ACCRUEDINT="11.92" />
 <row />
-<row SECID="KG000A3LSC78" SECNAME="Республика Кыргызстан 01" MARKETPRICE="92.1" ACCRUEDINT="1.557381" />
+<row SECID="KG000A3LSC78" SECNAME="Республика Кыргызстан 01" MARKETPRICE="100.0" ACCRUEDINT="1.557381" />
 <row SECID="KG000A3LSJ06" SECNAME="Республика Кыргызстан 02" MARKETPRICE="98.95" ACCRUEDINT="1.369444" />
 <row SECID="RU000A0JQ7Z2" SECNAME="&quot;Российские ЖД&quot; ОАО 19 обл." MARKETPRICE="985.4" ACCRUEDINT="24.3" />
 <row SECID="RU000A0JQAM6" SECNAME="ДОМ.РФ (АО) обл. сер. А15" MARKETPRICE="1064.8" ACCRUEDINT="23.32" />
