@@ -29,7 +29,7 @@
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="142.7" ACCRUEDINT="0.0" />
 <row SECID="OPNB" SECNAME="БПИФ Открытие - Облигации РФ" MARKETPRICE="93.02" ACCRUEDINT="0.0" />
 <row SECID="OPNR" SECNAME="БПИФ Открытие - Акции РФ" MARKETPRICE="106.24" ACCRUEDINT="0.0" />
-<row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="853" ACCRUEDINT="0.0" />
 <row SECID="RCGL" SECNAME="БПИФ Райффайзен - Золото" MARKETPRICE="2056" ACCRUEDINT="0.0" />
 <row SECID="RCHY" SECNAME="БПИФ Райф Высокодох. облигации" MARKETPRICE="124.85" ACCRUEDINT="0.0" />
 <row SECID="RCMB" SECNAME="БПИФ Райф Еврооблигации" MARKETPRICE="935" ACCRUEDINT="0.0" />
@@ -103,5 +103,5 @@
 <row SECID="FXRU" SECNAME="Finex FXRU" MARKETPRICE="53.24" ACCRUEDINT="0.0" />
 <row SECID="FXDE" SECNAME="Finex FXDE" MARKETPRICE="38.02" ACCRUEDINT="0.0" />
 <row SECID="FXCN" SECNAME="Finex FXCN" MARKETPRICE="2829.33" ACCRUEDINT="0.0" />
-<row SECID="FXKZ" SECNAME="Finex FXKZ" MARKETPRICE="585.81" ACCRUEDINT="0.0" />
+<row SECID="FXKZ" SECNAME="Finex FXKZ" MARKETPRICE="581.44" ACCRUEDINT="0.0" />
 </rows></data></document>
