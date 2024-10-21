@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document><data id="marketdata"><rows><row />
-<row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="99.95" ACCRUEDINT="0.0" />
+<row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="100.09" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="191.28" ACCRUEDINT="0.0" />
 <row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="977.12" ACCRUEDINT="0.0" />
 <row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.3496" ACCRUEDINT="0.0" />
@@ -1276,7 +1276,7 @@
 <row SECID="RU000A103539" SECNAME="СберИОС 001Р-445R 5Y СМШ" MARKETPRICE="856.8" ACCRUEDINT="0" />
 <row SECID="RU000A103588" SECNAME="СберИОС 001Р-446R 5Г SBRIF ИНД" MARKETPRICE="0.0" ACCRUEDINT="0" />
 <row SECID="RU000A103596" SECNAME="СберИОС 001Р-447R 7Г РБЧ" MARKETPRICE="578.9" ACCRUEDINT="0" />
-<row SECID="RU000A1035H1" SECNAME="РЕСО-Лизинг ООО БО-П-01" MARKETPRICE="891.9" ACCRUEDINT="32.44" />
+<row SECID="RU000A1035H1" SECNAME="РЕСО-Лизинг ООО БО-П-01" MARKETPRICE="914.2" ACCRUEDINT="32.44" />
 <row SECID="RU000A1035Y6" SECNAME="ПАО ОТКРЫТИЕ ФК Банк БО-П08" MARKETPRICE="743.0" ACCRUEDINT="0.04" />
 <row SECID="RU000A103604" SECNAME="ЭНЕРГОНИКА 001Р-02" MARKETPRICE="357.72" ACCRUEDINT="7.98" />
 <row SECID="RU000A103661" SECNAME="Сбербанк ПАО 001Р-SBER27" MARKETPRICE="851.0" ACCRUEDINT="25.75" />
