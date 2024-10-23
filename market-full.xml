@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document><data id="marketdata"><rows><row />
-<row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="99.25" ACCRUEDINT="0.0" />
-<row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="100.13" ACCRUEDINT="0.0" />
+<row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="99.38" ACCRUEDINT="0.0" />
+<row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="100.38" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="195.26" ACCRUEDINT="0.0" />
 <row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="980.95" ACCRUEDINT="0.0" />
 <row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.3458" ACCRUEDINT="0.0" />
@@ -2449,7 +2449,7 @@
 <row SECID="RU000A1092T7" SECNAME="Омега БО-01" MARKETPRICE="965.1" ACCRUEDINT="1.26" />
 <row SECID="RU000A1092X9" SECNAME="Сбербанк ПАО 002Р-SBER47" MARKETPRICE="1031.8" ACCRUEDINT="40.98" />
 <row SECID="RU000A109312" SECNAME="Мобильные ТелеСистемы 002P-06" MARKETPRICE="982.1" ACCRUEDINT="0" />
-<row SECID="RU000A1093G2" SECNAME="ДОМ.РФ Ипотечный агент БО 1P46" MARKETPRICE="0.0" ACCRUEDINT="0" />
+<row SECID="RU000A1093G2" SECNAME="ДОМ.РФ Ипотечный агент БО 1P46" MARKETPRICE="902.5" ACCRUEDINT="0" />
 <row SECID="RU000A1093H0" SECNAME="СберИОС 001Р-636R 5Г AC Яндекс" MARKETPRICE="934.0" ACCRUEDINT="0" />
 <row SECID="RU000A1093J6" SECNAME="СберИОС 001Р-637R 5Г AC СБЕР" MARKETPRICE="821.5" ACCRUEDINT="0" />
 <row SECID="RU000A1093K4" SECNAME="СберИОС 001Р-638R 5Г AC MOEXFN" MARKETPRICE="868.1" ACCRUEDINT="0" />
