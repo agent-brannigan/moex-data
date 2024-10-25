@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document><data id="marketdata"><rows><row />
 <row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="99.96" ACCRUEDINT="0.0" />
-<row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="100.2" ACCRUEDINT="0.0" />
+<row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="100.19" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="194.58" ACCRUEDINT="0.0" />
 <row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="975.32" ACCRUEDINT="0.0" />
 <row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.3432" ACCRUEDINT="0.0" />
@@ -78,7 +78,7 @@
 <row SECID="FXEM" SECNAME="Finex FXEM" MARKETPRICE="95.38" ACCRUEDINT="0.0" />
 <row SECID="FXRE" SECNAME="Finex FXRE" MARKETPRICE="94.58" ACCRUEDINT="0.0" />
 <row SECID="FXRD" SECNAME="Finex FXRD" MARKETPRICE="69.67" ACCRUEDINT="0.0" />
-<row SECID="FXES" SECNAME="Finex FXES" MARKETPRICE="105.17" ACCRUEDINT="0.0" />
+<row SECID="FXES" SECNAME="Finex FXES" MARKETPRICE="105.73" ACCRUEDINT="0.0" />
 <row SECID="FXIP" SECNAME="Finex FXIP" MARKETPRICE="71.14" ACCRUEDINT="0.0" />
 <row SECID="FXTP" SECNAME="Finex FXTP" MARKETPRICE="93.25" ACCRUEDINT="0.0" />
 <row SECID="FXFA" SECNAME="Finex FXFA" MARKETPRICE="101.33" ACCRUEDINT="0.0" />
