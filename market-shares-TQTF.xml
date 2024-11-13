@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document><data id="marketdata"><rows><row />
-<row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="98.11" ACCRUEDINT="0.0" />
-<row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="99.61" ACCRUEDINT="0.0" />
-<row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="191.42" ACCRUEDINT="0.0" />
-<row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="100.38" ACCRUEDINT="0.0" />
-<row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="999.27" ACCRUEDINT="0.0" />
-<row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.3244" ACCRUEDINT="0.0" />
-<row SECID="AKME" SECNAME="БПИФ Альфа Управляем Акции" MARKETPRICE="177" ACCRUEDINT="0.0" />
-<row SECID="AKMM" SECNAME="БПИФ Альфа Денежный рынок" MARKETPRICE="130.15" ACCRUEDINT="0.0" />
-<row SECID="AKQU" SECNAME="БПИФ Альфа Капитал Квант" MARKETPRICE="75.47" ACCRUEDINT="0.0" />
-<row SECID="AKUP" SECNAME="Альфа-Капитал Умный портфель" MARKETPRICE="10.58" ACCRUEDINT="0.0" />
-<row SECID="AMNR" SECNAME="АТОН – Накопительный в рублях" MARKETPRICE="114.303" ACCRUEDINT="0.0" />
-<row SECID="AMNY" SECNAME="АТОН - Накопительный в юанях" MARKETPRICE="1412.53" ACCRUEDINT="0.0" />
-<row SECID="AMRE" SECNAME="БПИФ АТОН – Российские акции +" MARKETPRICE="99.3" ACCRUEDINT="0.0" />
+<row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="98.2" ACCRUEDINT="0.0" />
+<row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="99.66" ACCRUEDINT="0.0" />
+<row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="187.06" ACCRUEDINT="0.0" />
+<row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="1002.11" ACCRUEDINT="0.0" />
+<row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.323" ACCRUEDINT="0.0" />
+<row SECID="AKME" SECNAME="БПИФ Альфа Управляем Акции" MARKETPRICE="174.82" ACCRUEDINT="0.0" />
+<row SECID="AKMM" SECNAME="БПИФ Альфа Денежный рынок" MARKETPRICE="130.22" ACCRUEDINT="0.0" />
+<row SECID="AKQU" SECNAME="БПИФ Альфа Капитал Квант" MARKETPRICE="74.27" ACCRUEDINT="0.0" />
+<row SECID="AKUP" SECNAME="Альфа-Капитал Умный портфель" MARKETPRICE="10.5" ACCRUEDINT="0.0" />
+<row SECID="AMNR" SECNAME="АТОН – Накопительный в рублях" MARKETPRICE="114.371" ACCRUEDINT="0.0" />
+<row SECID="AMNY" SECNAME="АТОН - Накопительный в юанях" MARKETPRICE="1407.06" ACCRUEDINT="0.0" />
+<row SECID="AMRE" SECNAME="БПИФ АТОН – Российские акции +" MARKETPRICE="98.7" ACCRUEDINT="0.0" />
 <row SECID="AMRH" SECNAME="БПИФ АТОН Высокодох. рос. обл." MARKETPRICE="119.3" ACCRUEDINT="0.0" />
-<row SECID="BCSB" SECNAME="БКС Облигации повыш доход" MARKETPRICE="11.34" ACCRUEDINT="0.0" />
-<row SECID="BCSD" SECNAME="БПИФ БКС Денежный рынок" MARKETPRICE="10.504" ACCRUEDINT="0.0" />
-<row SECID="BOND" SECNAME="ДОХОДЪ Сбондс Корп. обл. РФ" MARKETPRICE="1113.2" ACCRUEDINT="0.0" />
-<row SECID="CASH" SECNAME="ААА БПИФ Ежедневный процент" MARKETPRICE="10.032" ACCRUEDINT="0.0" />
-<row SECID="CNYM" SECNAME="Ликвидность. Юань" MARKETPRICE="154.95" ACCRUEDINT="0.0" />
-<row SECID="DIVD" SECNAME="БПИФ ДОХОДЪ Инд дивид акций" MARKETPRICE="1098.4" ACCRUEDINT="0.0" />
-<row SECID="EQMX" SECNAME="БПИФ Индекс МосБиржи УК ВИМ" MARKETPRICE="131.4" ACCRUEDINT="0.0" />
-<row SECID="ESGE" SECNAME="БПИФ УстойчРазвРоссКомп УК ВИМ" MARKETPRICE="80.97" ACCRUEDINT="0.0" />
-<row SECID="ESGR" SECNAME="БПИФ РСХБ-МосБиржа-РСПП Вектор" MARKETPRICE="1127" ACCRUEDINT="0.0" />
+<row SECID="BCSB" SECNAME="БКС Облигации повыш доход" MARKETPRICE="11.366" ACCRUEDINT="0.0" />
+<row SECID="BCSD" SECNAME="БПИФ БКС Денежный рынок" MARKETPRICE="10.509" ACCRUEDINT="0.0" />
+<row SECID="BOND" SECNAME="ДОХОДЪ Сбондс Корп. обл. РФ" MARKETPRICE="1115.4" ACCRUEDINT="0.0" />
+<row SECID="CASH" SECNAME="ААА БПИФ Ежедневный процент" MARKETPRICE="10.0394" ACCRUEDINT="0.0" />
+<row SECID="CNYM" SECNAME="Ликвидность. Юань" MARKETPRICE="154.88" ACCRUEDINT="0.0" />
+<row SECID="DIVD" SECNAME="БПИФ ДОХОДЪ Инд дивид акций" MARKETPRICE="1091.8" ACCRUEDINT="0.0" />
+<row SECID="EQMX" SECNAME="БПИФ Индекс МосБиржи УК ВИМ" MARKETPRICE="130.45" ACCRUEDINT="0.0" />
+<row SECID="ESGE" SECNAME="БПИФ УстойчРазвРоссКомп УК ВИМ" MARKETPRICE="81.22" ACCRUEDINT="0.0" />
+<row SECID="ESGR" SECNAME="БПИФ РСХБ-МосБиржа-РСПП Вектор" MARKETPRICE="1127.5" ACCRUEDINT="0.0" />
 <row SECID="FINC" SECNAME="ФИНСТАР Денежный рынок +" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="FMMM" SECNAME="БПИФ Финам Денежный рынок" MARKETPRICE="10.167" ACCRUEDINT="0.0" />
-<row SECID="GOLD" SECNAME="БПИФ Золото.Биржевой УК ВИМ" MARKETPRICE="2.0905" ACCRUEDINT="0.0" />
-<row SECID="GROD" SECNAME="БПИФ ДОХОДЪ Инд акций роста" MARKETPRICE="778" ACCRUEDINT="0.0" />
-<row SECID="INFL" SECNAME="БПИФ Ингосстрах Инфляционный" MARKETPRICE="95.82" ACCRUEDINT="0.0" />
-<row SECID="INGO" SECNAME="БПИФ Ингосстрах Корп облигации" MARKETPRICE="117" ACCRUEDINT="0.0" />
-<row SECID="LQDT" SECNAME="БПИФ Ликвидность УК ВИМ" MARKETPRICE="1.5194" ACCRUEDINT="0.0" />
+<row SECID="FMMM" SECNAME="БПИФ Финам Денежный рынок" MARKETPRICE="10.174" ACCRUEDINT="0.0" />
+<row SECID="GOLD" SECNAME="БПИФ Золото.Биржевой УК ВИМ" MARKETPRICE="2.0445" ACCRUEDINT="0.0" />
+<row SECID="GROD" SECNAME="БПИФ ДОХОДЪ Инд акций роста" MARKETPRICE="777.5" ACCRUEDINT="0.0" />
+<row SECID="INFL" SECNAME="БПИФ Ингосстрах Инфляционный" MARKETPRICE="95.58" ACCRUEDINT="0.0" />
+<row SECID="INGO" SECNAME="БПИФ Ингосстрах Корп облигации" MARKETPRICE="117.05" ACCRUEDINT="0.0" />
+<row SECID="LQDT" SECNAME="БПИФ Ликвидность УК ВИМ" MARKETPRICE="1.5204" ACCRUEDINT="0.0" />
 <row SECID="MKBD" SECNAME="БПИФ МКБ Российские Див. Акции" MARKETPRICE="978" ACCRUEDINT="0.0" />
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="142.66" ACCRUEDINT="0.0" />
-<row SECID="OPNB" SECNAME="БПИФ Открытие - Облигации РФ" MARKETPRICE="82.9" ACCRUEDINT="0.0" />
-<row SECID="OPNR" SECNAME="БПИФ Открытие - Акции РФ" MARKETPRICE="87.84" ACCRUEDINT="0.0" />
-<row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="909" ACCRUEDINT="0.0" />
-<row SECID="PSMM" SECNAME="БПИФ РФИ ПСБ–Денежный рынок" MARKETPRICE="10.726" ACCRUEDINT="0.0" />
+<row SECID="OPNB" SECNAME="БПИФ Открытие - Облигации РФ" MARKETPRICE="82.92" ACCRUEDINT="0.0" />
+<row SECID="OPNR" SECNAME="БПИФ Открытие - Акции РФ" MARKETPRICE="88.46" ACCRUEDINT="0.0" />
+<row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="PSMM" SECNAME="БПИФ РФИ ПСБ–Денежный рынок" MARKETPRICE="10.733" ACCRUEDINT="0.0" />
 <row SECID="RCGL" SECNAME="БПИФ Райффайзен - Золото" MARKETPRICE="2365" ACCRUEDINT="0.0" />
 <row SECID="RCHY" SECNAME="БПИФ Райф Высокодох. облигации" MARKETPRICE="123.7" ACCRUEDINT="0.0" />
 <row SECID="RCMB" SECNAME="БПИФ Райф Еврооблигации" MARKETPRICE="966" ACCRUEDINT="0.0" />
 <row SECID="RCMX" SECNAME="БПИФ Райф Индекс МосБиржи 15" MARKETPRICE="1253.5" ACCRUEDINT="0.0" />
-<row SECID="RSHU" SECNAME="БПИФ РСХБ Корп обл смарт бета" MARKETPRICE="112.88" ACCRUEDINT="0.0" />
-<row SECID="SBBY" SECNAME="БПИФ Фонд Инструменты в юанях" MARKETPRICE="10.808" ACCRUEDINT="0.0" />
-<row SECID="SBCB" SECNAME="БПИФ Первая Фонд валютн. облиг" MARKETPRICE="1370" ACCRUEDINT="0.0" />
-<row SECID="SBCN" SECNAME="БПИФ Первая Сберегат. в юанях" MARKETPRICE="14.473" ACCRUEDINT="0.0" />
-<row SECID="SBCS" SECNAME="БПИФ Первая Консерватив смарт" MARKETPRICE="13.48" ACCRUEDINT="0.0" />
-<row SECID="SBDS" SECNAME="БПИФ Первая Динамичный смарт" MARKETPRICE="2.995" ACCRUEDINT="0.0" />
-<row SECID="SBFR" SECNAME="БПИФ Первая Облигации флоатеры" MARKETPRICE="11.138" ACCRUEDINT="0.0" />
-<row SECID="SBGB" SECNAME="БПИФ Первая Гос. облигации" MARKETPRICE="11.047" ACCRUEDINT="0.0" />
-<row SECID="SBGD" SECNAME="БПИФ Первая Доступное золото" MARKETPRICE="24.55" ACCRUEDINT="0.0" />
-<row SECID="SBHI" SECNAME="БПИФ Первая Халяльные инвест" MARKETPRICE="8.152" ACCRUEDINT="0.0" />
-<row SECID="SBLB" SECNAME="БПИФПервая Долгосроч.гособлиг." MARKETPRICE="9.23" ACCRUEDINT="0.0" />
-<row SECID="SBMM" SECNAME="БПИФ Первая Сберегательный" MARKETPRICE="14.127" ACCRUEDINT="0.0" />
-<row SECID="SBMX" SECNAME="БПИФ Первая Топ Рос. акций" MARKETPRICE="17.15" ACCRUEDINT="0.0" />
-<row SECID="SBPS" SECNAME="БПИФ Первая Прогрессив смарт" MARKETPRICE="2.35" ACCRUEDINT="0.0" />
-<row SECID="SBRB" SECNAME="БПИФ  Первая Корп облигации" MARKETPRICE="13.223" ACCRUEDINT="0.0" />
-<row SECID="SBRI" SECNAME="БПИФ Первая Ответствен инвест" MARKETPRICE="11.46" ACCRUEDINT="0.0" />
+<row SECID="RSHU" SECNAME="БПИФ РСХБ Корп обл смарт бета" MARKETPRICE="113.74" ACCRUEDINT="0.0" />
+<row SECID="SBBY" SECNAME="БПИФ Фонд Инструменты в юанях" MARKETPRICE="10.872" ACCRUEDINT="0.0" />
+<row SECID="SBCB" SECNAME="БПИФ Первая Фонд валютн. облиг" MARKETPRICE="1400" ACCRUEDINT="0.0" />
+<row SECID="SBCN" SECNAME="БПИФ Первая Сберегат. в юанях" MARKETPRICE="14.433" ACCRUEDINT="0.0" />
+<row SECID="SBCS" SECNAME="БПИФ Первая Консерватив смарт" MARKETPRICE="13.475" ACCRUEDINT="0.0" />
+<row SECID="SBDS" SECNAME="БПИФ Первая Динамичный смарт" MARKETPRICE="3.02" ACCRUEDINT="0.0" />
+<row SECID="SBFR" SECNAME="БПИФ Первая Облигации флоатеры" MARKETPRICE="11.164" ACCRUEDINT="0.0" />
+<row SECID="SBGB" SECNAME="БПИФ Первая Гос. облигации" MARKETPRICE="10.993" ACCRUEDINT="0.0" />
+<row SECID="SBGD" SECNAME="БПИФ Первая Доступное золото" MARKETPRICE="24.14" ACCRUEDINT="0.0" />
+<row SECID="SBHI" SECNAME="БПИФ Первая Халяльные инвест" MARKETPRICE="8.096" ACCRUEDINT="0.0" />
+<row SECID="SBLB" SECNAME="БПИФПервая Долгосроч.гособлиг." MARKETPRICE="9.164" ACCRUEDINT="0.0" />
+<row SECID="SBMM" SECNAME="БПИФ Первая Сберегательный" MARKETPRICE="14.135" ACCRUEDINT="0.0" />
+<row SECID="SBMX" SECNAME="БПИФ Первая Топ Рос. акций" MARKETPRICE="16.978" ACCRUEDINT="0.0" />
+<row SECID="SBPS" SECNAME="БПИФ Первая Прогрессив смарт" MARKETPRICE="2.36" ACCRUEDINT="0.0" />
+<row SECID="SBRB" SECNAME="БПИФ  Первая Корп облигации" MARKETPRICE="13.236" ACCRUEDINT="0.0" />
+<row SECID="SBRI" SECNAME="БПИФ Первая Ответствен инвест" MARKETPRICE="11.442" ACCRUEDINT="0.0" />
 <row SECID="SBRS" SECNAME="БПИФ Первая Осторожный смарт" MARKETPRICE="10.655" ACCRUEDINT="0.0" />
-<row SECID="SBSC" SECNAME="БПИФ Первая Акции ср.и мал.кап" MARKETPRICE="8.247" ACCRUEDINT="0.0" />
+<row SECID="SBSC" SECNAME="БПИФ Первая Акции ср.и мал.кап" MARKETPRICE="8.285" ACCRUEDINT="0.0" />
 <row SECID="SBWS" SECNAME="БПИФ Первая Взвешенный смарт" MARKETPRICE="3.38" ACCRUEDINT="0.0" />
-<row SECID="SCFT" SECNAME="БПИФ Технологии будущего" MARKETPRICE="4.316" ACCRUEDINT="0.0" />
-<row SECID="SCLI" SECNAME="БПИФ Ликвидный" MARKETPRICE="5.2785" ACCRUEDINT="0.0" />
-<row SECID="SIPO" SECNAME="БПИФ Первая Индекс IPO" MARKETPRICE="8.082" ACCRUEDINT="0.0" />
+<row SECID="SCFT" SECNAME="БПИФ Технологии будущего" MARKETPRICE="4.322" ACCRUEDINT="0.0" />
+<row SECID="SCLI" SECNAME="БПИФ Ликвидный" MARKETPRICE="5.28" ACCRUEDINT="0.0" />
+<row SECID="SIPO" SECNAME="БПИФ Первая Индекс IPO" MARKETPRICE="8.147" ACCRUEDINT="0.0" />
 <row SECID="SUGB" SECNAME="БПИФ МКБ – ОФЗ 1-3 г" MARKETPRICE="1076.5" ACCRUEDINT="0.0" />
-<row SECID="TBEU" SECNAME="БПИФ ТКАПИТАЛ ОБЛИГАЦИИ Е" MARKETPRICE="8.53" ACCRUEDINT="0.0" />
-<row SECID="TBRU" SECNAME="БПИФ Т-Капитал ОБЛИГАЦИИ" MARKETPRICE="5.7" ACCRUEDINT="0.0" />
-<row SECID="TDIV" SECNAME="Т-Капитал ДИВИДЕНДНЫЕ АКЦИИ" MARKETPRICE="9.52" ACCRUEDINT="0.0" />
-<row SECID="TEUR" SECNAME="БПИФ ТКАПИТАЛ ВЕЧНЫЙ ПОРТФ Е" MARKETPRICE="5.12" ACCRUEDINT="0.0" />
-<row SECID="TGLD" SECNAME="БПИФ Т-Капитал ЗОЛОТО" MARKETPRICE="10.53" ACCRUEDINT="0.0" />
-<row SECID="TITR" SECNAME="Т-Капитал Российские Технологи" MARKETPRICE="7.23" ACCRUEDINT="0.0" />
-<row SECID="TLCB" SECNAME="Т-КАПИТАЛ ВАЛЮТНЫЕ ОБЛИГАЦИИ" MARKETPRICE="10.27" ACCRUEDINT="0.0" />
-<row SECID="TMON" SECNAME="T-КАПИТАЛ ДЕНЕЖНЫЙ РЫНОК" MARKETPRICE="121.72" ACCRUEDINT="0.0" />
-<row SECID="TMOS" SECNAME="БПИФ ТИНЬКОФФ ИНДЕКС МОСБИРЖИ" MARKETPRICE="5.98" ACCRUEDINT="0.0" />
-<row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="97.25" ACCRUEDINT="0.0" />
-<row SECID="TRUR" SECNAME="БПИФ Т-Кап ВЕЧНЫЙ ПОРТФ РУБ" MARKETPRICE="8.15" ACCRUEDINT="0.0" />
-<row SECID="TUSD" SECNAME="БПИФ ТКАПИТАЛ ВЕЧНЫЙ ПОРТФ Д" MARKETPRICE="5.31" ACCRUEDINT="0.0" />
-<row SECID="YUAN" SECNAME="БПИФ Облигации в юанях" MARKETPRICE="113.79" ACCRUEDINT="0.0" />
+<row SECID="TBEU" SECNAME="БПИФ ТКАПИТАЛ ОБЛИГАЦИИ Е" MARKETPRICE="8.54" ACCRUEDINT="0.0" />
+<row SECID="TBRU" SECNAME="БПИФ Т-Капитал ОБЛИГАЦИИ" MARKETPRICE="5.71" ACCRUEDINT="0.0" />
+<row SECID="TDIV" SECNAME="Т-Капитал ДИВИДЕНДНЫЕ АКЦИИ" MARKETPRICE="9.44" ACCRUEDINT="0.0" />
+<row SECID="TEUR" SECNAME="БПИФ ТКАПИТАЛ ВЕЧНЫЙ ПОРТФ Е" MARKETPRICE="5.13" ACCRUEDINT="0.0" />
+<row SECID="TGLD" SECNAME="БПИФ Т-Капитал ЗОЛОТО" MARKETPRICE="10.28" ACCRUEDINT="0.0" />
+<row SECID="TITR" SECNAME="Т-Капитал Российские Технологи" MARKETPRICE="7.21" ACCRUEDINT="0.0" />
+<row SECID="TLCB" SECNAME="Т-КАПИТАЛ ВАЛЮТНЫЕ ОБЛИГАЦИИ" MARKETPRICE="10.28" ACCRUEDINT="0.0" />
+<row SECID="TMON" SECNAME="T-КАПИТАЛ ДЕНЕЖНЫЙ РЫНОК" MARKETPRICE="121.87" ACCRUEDINT="0.0" />
+<row SECID="TMOS" SECNAME="БПИФ ТИНЬКОФФ ИНДЕКС МОСБИРЖИ" MARKETPRICE="5.93" ACCRUEDINT="0.0" />
+<row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="97.54" ACCRUEDINT="0.0" />
+<row SECID="TRUR" SECNAME="БПИФ Т-Кап ВЕЧНЫЙ ПОРТФ РУБ" MARKETPRICE="8.04" ACCRUEDINT="0.0" />
+<row SECID="TUSD" SECNAME="БПИФ ТКАПИТАЛ ВЕЧНЫЙ ПОРТФ Д" MARKETPRICE="5.32" ACCRUEDINT="0.0" />
+<row SECID="YUAN" SECNAME="БПИФ Облигации в юанях" MARKETPRICE="113.75" ACCRUEDINT="0.0" />
 <row SECID="FXBC" SECNAME="Finex FXBC" MARKETPRICE="92.94" ACCRUEDINT="0.0" />
 <row SECID="FXEM" SECNAME="Finex FXEM" MARKETPRICE="92.92" ACCRUEDINT="0.0" />
 <row SECID="FXRE" SECNAME="Finex FXRE" MARKETPRICE="92.69" ACCRUEDINT="0.0" />
