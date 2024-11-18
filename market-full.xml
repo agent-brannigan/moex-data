@@ -3,7 +3,7 @@
 <row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="98.64" ACCRUEDINT="0.0" />
 <row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="99.2" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="186.36" ACCRUEDINT="0.0" />
-<row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="98.28" ACCRUEDINT="0.0" />
+<row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="98.35" ACCRUEDINT="0.0" />
 <row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="993.99" ACCRUEDINT="0.0" />
 <row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.3422" ACCRUEDINT="0.0" />
 <row SECID="AKME" SECNAME="БПИФ Альфа Управляем Акции" MARKETPRICE="172.8" ACCRUEDINT="0.0" />
@@ -35,7 +35,7 @@
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="142.5" ACCRUEDINT="0.0" />
 <row SECID="OPNB" SECNAME="БПИФ Открытие - Облигации РФ" MARKETPRICE="83" ACCRUEDINT="0.0" />
 <row SECID="OPNR" SECNAME="БПИФ Открытие - Акции РФ" MARKETPRICE="88.82" ACCRUEDINT="0.0" />
-<row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="932" ACCRUEDINT="0.0" />
 <row SECID="PSMM" SECNAME="БПИФ РФИ ПСБ–Денежный рынок" MARKETPRICE="10.759" ACCRUEDINT="0.0" />
 <row SECID="RCGL" SECNAME="БПИФ Райффайзен - Золото" MARKETPRICE="2365" ACCRUEDINT="0.0" />
 <row SECID="RCHY" SECNAME="БПИФ Райф Высокодох. облигации" MARKETPRICE="123.7" ACCRUEDINT="0.0" />
@@ -98,7 +98,7 @@
 <row SECID="FXRU" SECNAME="Finex FXRU" MARKETPRICE="58.09" ACCRUEDINT="0.0" />
 <row SECID="FXDE" SECNAME="Finex FXDE" MARKETPRICE="41.59" ACCRUEDINT="0.0" />
 <row SECID="FXCN" SECNAME="Finex FXCN" MARKETPRICE="3228.65" ACCRUEDINT="0.0" />
-<row SECID="FXKZ" SECNAME="Finex FXKZ" MARKETPRICE="627.34" ACCRUEDINT="0.0" />
+<row SECID="FXKZ" SECNAME="Finex FXKZ" MARKETPRICE="629.43" ACCRUEDINT="0.0" />
 <row />
 <row SECID="ABIO" SECNAME="ПАО &quot;Артген&quot;" MARKETPRICE="0.09" ACCRUEDINT="0.0" />
 <row SECID="ABRD" SECNAME="Абрау-Дюрсо ПАО ао" MARKETPRICE="1.9" ACCRUEDINT="0.0" />
@@ -533,8 +533,8 @@
 <row SECID="RU000A0JWD57" SECNAME="&quot;Российские ЖД&quot; ОАО БО-05" MARKETPRICE="0.0" ACCRUEDINT="11.72" />
 <row SECID="RU000A0JWDN6" SECNAME="РУСАЛ Братский алюм. з-д БО-01" MARKETPRICE="752.1" ACCRUEDINT="0.01" />
 <row SECID="RU000A0JWGD0" SECNAME="ПАО &quot;АНК &quot;Башнефть&quot; БО-08" MARKETPRICE="963.2" ACCRUEDINT="5.97" />
-<row SECID="RU000A0JWGS8" SECNAME="РОСБАНК ПАО обл. БО-20" MARKETPRICE="780.2" ACCRUEDINT="0.03" />
-<row SECID="RU000A0JWGV2" SECNAME="Почта России (АО) БО-02" MARKETPRICE="951.6" ACCRUEDINT="3.78" />
+<row SECID="RU000A0JWGS8" SECNAME="РОСБАНК ПАО обл. БО-20" MARKETPRICE="829.4" ACCRUEDINT="0.03" />
+<row SECID="RU000A0JWGV2" SECNAME="Почта России (АО) БО-02" MARKETPRICE="969.8" ACCRUEDINT="3.78" />
 <row SECID="RU000A0JWH87" SECNAME="ПАО &quot;АНК &quot;Башнефть&quot; БО-02" MARKETPRICE="0.0" ACCRUEDINT="4.22" />
 <row SECID="RU000A0JWHA4" SECNAME="ГОВОЗ РФ 12840077V (RU)" MARKETPRICE="180666.6" ACCRUEDINT="453875.837219" />
 <row SECID="RU000A0JWHU2" SECNAME="&quot;Российские ЖД&quot; ОАО БО-17" MARKETPRICE="813.4" ACCRUEDINT="1.08" />
@@ -669,7 +669,7 @@
 <row SECID="RU000A0ZYLC4" SECNAME="&quot;Газпром нефть&quot; ПАО 001P-04R" MARKETPRICE="993.1" ACCRUEDINT="33.54" />
 <row SECID="RU000A0ZYLG5" SECNAME="ПАО НК Роснефть 002P-03" MARKETPRICE="899.5" ACCRUEDINT="40.51" />
 <row SECID="RU000A0ZYLK7" SECNAME="Верхбак цемент завод 1P-1R" MARKETPRICE="972.3" ACCRUEDINT="1.38" />
-<row SECID="RU000A0ZYLQ4" SECNAME="&quot;Газпром нефть&quot; ПАО 001P-05R" MARKETPRICE="999.9" ACCRUEDINT="32.7" />
+<row SECID="RU000A0ZYLQ4" SECNAME="&quot;Газпром нефть&quot; ПАО 001P-05R" MARKETPRICE="993.0" ACCRUEDINT="32.7" />
 <row SECID="RU000A0ZYLU6" SECNAME="ДОМ.РФ (АО) БО 001P-01R" MARKETPRICE="999.0" ACCRUEDINT="33.93" />
 <row SECID="RU000A0ZYLX0" SECNAME="ДОМ РФ ИА 03" MARKETPRICE="65.37" ACCRUEDINT="0" />
 <row SECID="RU000A0ZYM47" SECNAME="Ямало-Ненецкий АО об 2017 - 2" MARKETPRICE="4087.0" ACCRUEDINT="2.38" />
