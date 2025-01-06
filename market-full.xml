@@ -11,7 +11,7 @@
 <row SECID="AKQU" SECNAME="БПИФ Альфа Капитал Квант" MARKETPRICE="75.62" ACCRUEDINT="0.0" />
 <row SECID="AKUP" SECNAME="Альфа-Капитал Умный портфель" MARKETPRICE="10.94" ACCRUEDINT="0.0" />
 <row SECID="AMFL" SECNAME="БПИФ АТОН – Флоатеры" MARKETPRICE="100.32" ACCRUEDINT="0.0" />
-<row SECID="AMGB" SECNAME="БПИФ АТОН - Длинные ОФЗ" MARKETPRICE="100.7" ACCRUEDINT="0.0" />
+<row SECID="AMGB" SECNAME="БПИФ АТОН - Длинные ОФЗ" MARKETPRICE="100.68" ACCRUEDINT="0.0" />
 <row SECID="AMNR" SECNAME="АТОН – Накопительный в рублях" MARKETPRICE="117.889" ACCRUEDINT="0.0" />
 <row SECID="AMNY" SECNAME="АТОН - Накопительный в юанях" MARKETPRICE="1446.53" ACCRUEDINT="0.0" />
 <row SECID="AMRE" SECNAME="БПИФ АТОН – Российские акции +" MARKETPRICE="101.9" ACCRUEDINT="0.0" />
@@ -443,7 +443,7 @@
 <row SECID="RU000A0JT403" SECNAME="ВЭБ.РФ об. сер. 18" MARKETPRICE="1002.6" ACCRUEDINT="52.4" />
 <row SECID="RU000A0JT6B2" SECNAME="ВЭБ.РФ об. сер. 19" MARKETPRICE="949.7" ACCRUEDINT="37.76" />
 <row SECID="RU000A0JT7T2" SECNAME="ФСК Россети(ПАО)-обл. сер.21" MARKETPRICE="0.0" ACCRUEDINT="29.92" />
-<row SECID="RU000A0JTB96" SECNAME="Главная дорога АО об.сер. 07" MARKETPRICE="0.0" ACCRUEDINT="12.15" />
+<row SECID="RU000A0JTB96" SECNAME="Главная дорога АО об.сер. 07" MARKETPRICE="708.06" ACCRUEDINT="12.15" />
 <row SECID="RU000A0JTFB2" SECNAME="Главная дорога АО об.сер. 06" MARKETPRICE="0.0" ACCRUEDINT="6.38" />
 <row SECID="RU000A0JTU85" SECNAME="&quot;Российские ЖД&quot; ОАО 28 обл." MARKETPRICE="989.6" ACCRUEDINT="43.56" />
 <row SECID="RU000A0JTW83" SECNAME="ДОМ.РФ (АО) обл. сер.А25" MARKETPRICE="0.0" ACCRUEDINT="1.75" />
@@ -464,7 +464,7 @@
 <row SECID="RU000A0JUG72" SECNAME="Международный инвест. банк 02" MARKETPRICE="0.0" ACCRUEDINT="0.02" />
 <row SECID="RU000A0JUG98" SECNAME="Международный инвест. банк 04" MARKETPRICE="0.0" ACCRUEDINT="0.02" />
 <row SECID="RU000A0JUKX4" SECNAME="ДОМ.РФ (АО) обл. сер. А30" MARKETPRICE="0.0" ACCRUEDINT="14.63" />
-<row SECID="RU000A0JUT85" SECNAME="АКБ ПАО &quot;ПЕРЕСВЕТ&quot; БО-02" MARKETPRICE="0.0" ACCRUEDINT="38.75" />
+<row SECID="RU000A0JUT85" SECNAME="АКБ ПАО &quot;ПЕРЕСВЕТ&quot; БО-02" MARKETPRICE="220.1" ACCRUEDINT="38.75" />
 <row SECID="RU000A0JV0T3" SECNAME="Ситиматик АО обл.02" MARKETPRICE="0.0" ACCRUEDINT="11.04" />
 <row SECID="RU000A0JV0U1" SECNAME="Альфа-Банк АО обл. БО-15" MARKETPRICE="0.0" ACCRUEDINT="21.85" />
 <row SECID="RU000A0JV4R9" SECNAME="ДОМ.РФ (АО) обл. сер. А31" MARKETPRICE="0.0" ACCRUEDINT="61.37" />
