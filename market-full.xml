@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document><data id="marketdata"><rows><row />
-<row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="102.35" ACCRUEDINT="0.0" />
+<row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="101.23" ACCRUEDINT="0.0" />
 <row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="92.25" ACCRUEDINT="0.0" />
 <row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="107.66" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="191.08" ACCRUEDINT="0.0" />
-<row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="92.32" ACCRUEDINT="0.0" />
-<row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="966.22" ACCRUEDINT="0.0" />
+<row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="92.24" ACCRUEDINT="0.0" />
+<row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="959.62" ACCRUEDINT="0.0" />
 <row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.577" ACCRUEDINT="0.0" />
-<row SECID="AKME" SECNAME="БПИФ Альфа Управляем Акции" MARKETPRICE="177.32" ACCRUEDINT="0.0" />
+<row SECID="AKME" SECNAME="БПИФ Альфа Управляем Акции" MARKETPRICE="177.44" ACCRUEDINT="0.0" />
 <row SECID="AKMM" SECNAME="БПИФ Альфа Денежный рынок" MARKETPRICE="141.24" ACCRUEDINT="0.0" />
 <row SECID="AKMP" SECNAME="БПИФ Альфа Денежный рынок Плюс" MARKETPRICE="1.024" ACCRUEDINT="0.0" />
 <row SECID="AKPP" SECNAME="БПИФ Альфа Платина-Палладий" MARKETPRICE="92.5" ACCRUEDINT="0.0" />
-<row SECID="AKQU" SECNAME="БПИФ Альфа Капитал Квант" MARKETPRICE="71.63" ACCRUEDINT="0.0" />
+<row SECID="AKQU" SECNAME="БПИФ Альфа Капитал Квант" MARKETPRICE="71.35" ACCRUEDINT="0.0" />
 <row SECID="AKUP" SECNAME="Альфа-Капитал Умный портфель" MARKETPRICE="11.06" ACCRUEDINT="0.0" />
-<row SECID="AMFL" SECNAME="БПИФ АТОН – Флоатеры" MARKETPRICE="104.78" ACCRUEDINT="0.0" />
+<row SECID="AMFL" SECNAME="БПИФ АТОН – Флоатеры" MARKETPRICE="104.58" ACCRUEDINT="0.0" />
 <row SECID="AMGB" SECNAME="БПИФ АТОН - Длинные ОФЗ" MARKETPRICE="104" ACCRUEDINT="0.0" />
 <row SECID="AMNR" SECNAME="АТОН – Накопительный в рублях" MARKETPRICE="124.243" ACCRUEDINT="0.0" />
 <row SECID="AMNY" SECNAME="АТОН - Накопительный в юанях" MARKETPRICE="1216.6" ACCRUEDINT="0.0" />
-<row SECID="AMRE" SECNAME="БПИФ АТОН – Российские акции +" MARKETPRICE="104" ACCRUEDINT="0.0" />
+<row SECID="AMRE" SECNAME="БПИФ АТОН – Российские акции +" MARKETPRICE="103.5" ACCRUEDINT="0.0" />
 <row SECID="AMRH" SECNAME="БПИФ АТОН Высокодох. рос. обл." MARKETPRICE="129.9" ACCRUEDINT="0.0" />
-<row SECID="BCSB" SECNAME="БКС Облигации повыш доход" MARKETPRICE="12.688" ACCRUEDINT="0.0" />
+<row SECID="BCSB" SECNAME="БКС Облигации повыш доход" MARKETPRICE="12.634" ACCRUEDINT="0.0" />
 <row SECID="BCSD" SECNAME="БПИФ БКС Денежный рынок" MARKETPRICE="11.403" ACCRUEDINT="0.0" />
-<row SECID="BCSR" SECNAME="БПИФ БКС Индекс Росс рынка" MARKETPRICE="10.86" ACCRUEDINT="0.0" />
-<row SECID="BOND" SECNAME="ДОХОДЪ Сбондс Корп. обл. РФ" MARKETPRICE="1258.6" ACCRUEDINT="0.0" />
+<row SECID="BCSR" SECNAME="БПИФ БКС Индекс Росс рынка" MARKETPRICE="10.84" ACCRUEDINT="0.0" />
+<row SECID="BOND" SECNAME="ДОХОДЪ Сбондс Корп. обл. РФ" MARKETPRICE="1255.6" ACCRUEDINT="0.0" />
 <row SECID="CASH" SECNAME="ААА БПИФ Ежедневный процент" MARKETPRICE="10.8857" ACCRUEDINT="0.0" />
 <row SECID="CNYM" SECNAME="Ликвидность. Юань" MARKETPRICE="1528.53" ACCRUEDINT="0.0" />
 <row SECID="DIVD" SECNAME="БПИФ ДОХОДЪ Инд дивид акций" MARKETPRICE="1107" ACCRUEDINT="0.0" />
-<row SECID="EQMX" SECNAME="БПИФ Индекс МосБиржи УК ВИМ" MARKETPRICE="132.2" ACCRUEDINT="0.0" />
-<row SECID="ESGE" SECNAME="БПИФ УстойчРазвРоссКомп УК ВИМ" MARKETPRICE="82" ACCRUEDINT="0.0" />
+<row SECID="EQMX" SECNAME="БПИФ Индекс МосБиржи УК ВИМ" MARKETPRICE="131.95" ACCRUEDINT="0.0" />
+<row SECID="ESGE" SECNAME="БПИФ УстойчРазвРоссКомп УК ВИМ" MARKETPRICE="81.91" ACCRUEDINT="0.0" />
 <row SECID="ESGR" SECNAME="БПИФ РСХБ-МосБиржа-РСПП Вектор" MARKETPRICE="1159" ACCRUEDINT="0.0" />
 <row SECID="FINC" SECNAME="ФИНСТАР Денежный рынок +" MARKETPRICE="1120" ACCRUEDINT="0.0" />
 <row SECID="FMMM" SECNAME="БПИФ Финам Денежный рынок" MARKETPRICE="11.012" ACCRUEDINT="0.0" />
@@ -39,12 +39,12 @@
 <row SECID="LQDT" SECNAME="БПИФ Ликвидность УК ВИМ" MARKETPRICE="1.6504" ACCRUEDINT="0.0" />
 <row SECID="MKBD" SECNAME="БПИФ МКБ Российские Див. Акции" MARKETPRICE="964" ACCRUEDINT="0.0" />
 <row SECID="MONY" SECNAME="БПИФ АК БАРС Денежный рынок" MARKETPRICE="105.45" ACCRUEDINT="0.0" />
-<row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="158.16" ACCRUEDINT="0.0" />
+<row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="158.06" ACCRUEDINT="0.0" />
 <row SECID="OPNB" SECNAME="БПИФ Открытие - Облигации РФ" MARKETPRICE="93.1" ACCRUEDINT="0.0" />
 <row SECID="OPNR" SECNAME="БПИФ Открытие - Акции РФ" MARKETPRICE="97.5" ACCRUEDINT="0.0" />
 <row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="903" ACCRUEDINT="0.0" />
 <row SECID="PSMM" SECNAME="БПИФ РФИ ПСБ–Денежный рынок" MARKETPRICE="11.673" ACCRUEDINT="0.0" />
-<row SECID="PSRB" SECNAME="ПСБ  Рублевые облигации" MARKETPRICE="10.523" ACCRUEDINT="0.0" />
+<row SECID="PSRB" SECNAME="ПСБ  Рублевые облигации" MARKETPRICE="10.717" ACCRUEDINT="0.0" />
 <row SECID="RSHU" SECNAME="БПИФ РСХБ Корп обл смарт бета" MARKETPRICE="123.44" ACCRUEDINT="0.0" />
 <row SECID="SBBY" SECNAME="БПИФ Фонд Инструменты в юанях" MARKETPRICE="10.368" ACCRUEDINT="0.0" />
 <row SECID="SBCB" SECNAME="БПИФ Первая Фонд валютн. облиг" MARKETPRICE="1419" ACCRUEDINT="0.0" />
@@ -56,7 +56,7 @@
 <row SECID="SBGD" SECNAME="БПИФ Первая Доступное золото" MARKETPRICE="24.855" ACCRUEDINT="0.0" />
 <row SECID="SBHI" SECNAME="БПИФ Первая Халяльные инвест" MARKETPRICE="7.776" ACCRUEDINT="0.0" />
 <row SECID="SBLB" SECNAME="БПИФПервая Долгосроч.гособлиг." MARKETPRICE="9.968" ACCRUEDINT="0.0" />
-<row SECID="SBMM" SECNAME="БПИФ Первая Сберегательный" MARKETPRICE="15.34" ACCRUEDINT="0.0" />
+<row SECID="SBMM" SECNAME="БПИФ Первая Сберегательный" MARKETPRICE="15.341" ACCRUEDINT="0.0" />
 <row SECID="SBMX" SECNAME="БПИФ Первая Топ Рос. акций" MARKETPRICE="17.406" ACCRUEDINT="0.0" />
 <row SECID="SBPS" SECNAME="БПИФ Первая Фонд Моя цель 2035" MARKETPRICE="2.53" ACCRUEDINT="0.0" />
 <row SECID="SBRB" SECNAME="БПИФ  Первая Корп облигации" MARKETPRICE="14.791" ACCRUEDINT="0.0" />
@@ -79,8 +79,8 @@
 <row SECID="TMON" SECNAME="T-КАПИТАЛ ДЕНЕЖНЫЙ РЫНОК" MARKETPRICE="131.71" ACCRUEDINT="0.0" />
 <row SECID="TMOS" SECNAME="БПИФ Т-КАПИТАЛ ИНДЕКС МОСБИРЖИ" MARKETPRICE="6" ACCRUEDINT="0.0" />
 <row SECID="TOFZ" SECNAME="БПИФ Т-Капитал ОФЗ" MARKETPRICE="11.38" ACCRUEDINT="0.0" />
-<row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="94.53" ACCRUEDINT="0.0" />
-<row SECID="TRND" SECNAME="БПИФ Т-Капитал Трендовые акции" MARKETPRICE="8.68" ACCRUEDINT="0.0" />
+<row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="94.52" ACCRUEDINT="0.0" />
+<row SECID="TRND" SECNAME="БПИФ Т-Капитал Трендовые акции" MARKETPRICE="8.71" ACCRUEDINT="0.0" />
 <row SECID="TRUR" SECNAME="БПИФ Т-Кап ВЕЧНЫЙ ПОРТФ РУБ" MARKETPRICE="8.44" ACCRUEDINT="0.0" />
 <row SECID="TUSD" SECNAME="БПИФ ТКАПИТАЛ ВЕЧНЫЙ ПОРТФ Д" MARKETPRICE="5.75" ACCRUEDINT="0.0" />
 <row SECID="YUAN" SECNAME="БПИФ Облигации в юанях" MARKETPRICE="112.16" ACCRUEDINT="0.0" />
@@ -117,18 +117,18 @@
 <row SECID="AMEZ" SECNAME="Ашинский метзавод ПАО ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="APRI" SECNAME="АПРИ" MARKETPRICE="0.14" ACCRUEDINT="0.0" />
 <row SECID="APTK" SECNAME="ПАО &quot;Аптечная сеть 36,6&quot; ао" MARKETPRICE="0.06" ACCRUEDINT="0.0" />
-<row SECID="AQUA" SECNAME="ПАО ИНАРКТИКА" MARKETPRICE="654.5" ACCRUEDINT="0.0" />
+<row SECID="AQUA" SECNAME="ПАО ИНАРКТИКА" MARKETPRICE="651.5" ACCRUEDINT="0.0" />
 <row SECID="ARSA" SECNAME="УК Арсагера ПАО-ао" MARKETPRICE="0.1" ACCRUEDINT="0.0" />
 <row SECID="ASSB" SECNAME="&quot;Астраханская ЭСК&quot; ПАО" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="ASTR" SECNAME="Группа Астра ао" MARKETPRICE="0.2" ACCRUEDINT="0.0" />
 <row SECID="AVAN" SECNAME="АКБ &quot;АВАНГАРД&quot; ПАО ао" MARKETPRICE="223.5" ACCRUEDINT="0.0" />
-<row SECID="BANE" SECNAME="Башнефть АНК ао" MARKETPRICE="20.63" ACCRUEDINT="0.0" />
-<row SECID="BANEP" SECNAME="Башнефть АНК ап" MARKETPRICE="11.09" ACCRUEDINT="0.0" />
-<row SECID="BELU" SECNAME="НоваБев Групп ПАО ао" MARKETPRICE="482.0" ACCRUEDINT="0.0" />
+<row SECID="BANE" SECNAME="Башнефть АНК ао" MARKETPRICE="20.5" ACCRUEDINT="0.0" />
+<row SECID="BANEP" SECNAME="Башнефть АНК ап" MARKETPRICE="11.03" ACCRUEDINT="0.0" />
+<row SECID="BELU" SECNAME="НоваБев Групп ПАО ао" MARKETPRICE="480.5" ACCRUEDINT="0.0" />
 <row SECID="BISVP" SECNAME="Башинформсвязь(ПАО) ап" MARKETPRICE="0.09" ACCRUEDINT="0.0" />
 <row SECID="BLNG" SECNAME="Белон ОАО ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="BRZL" SECNAME="Бурятзолото ПАО ао" MARKETPRICE="0.43" ACCRUEDINT="0.0" />
-<row SECID="BSPB" SECNAME="ПАО &quot;Банк &quot;Санкт-Петербург&quot; ао" MARKETPRICE="3.78" ACCRUEDINT="0.0" />
+<row SECID="BSPB" SECNAME="ПАО &quot;Банк &quot;Санкт-Петербург&quot; ао" MARKETPRICE="3.77" ACCRUEDINT="0.0" />
 <row SECID="BSPBP" SECNAME="Банк Санкт-Петербург ап" MARKETPRICE="0.7" ACCRUEDINT="0.0" />
 <row SECID="CARM" SECNAME="СТГ ао" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
 <row SECID="CBOM" SECNAME="&quot;МКБ&quot; ПАО ао" MARKETPRICE="0.08" ACCRUEDINT="0.0" />
@@ -154,7 +154,7 @@
 <row SECID="EUTR" SECNAME="ЕвроТранс ао" MARKETPRICE="0.06" ACCRUEDINT="0.0" />
 <row SECID="FEES" SECNAME="&quot;ФСК - Россети&quot; ПАО" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="FESH" SECNAME="ДВ морское пароходство ПАО ао" MARKETPRICE="0.53" ACCRUEDINT="0.0" />
-<row SECID="FIXP" SECNAME="ГДР FixPrice Group PLC ORD SHS" MARKETPRICE="155" ACCRUEDINT="0.0" />
+<row SECID="FIXP" SECNAME="ГДР FixPrice Group PLC ORD SHS" MARKETPRICE="154.7" ACCRUEDINT="0.0" />
 <row SECID="FLOT" SECNAME="Совкомфлот ао" MARKETPRICE="0.82" ACCRUEDINT="0.0" />
 <row SECID="GAZA" SECNAME="ГАЗ ПАО ао" MARKETPRICE="6.58" ACCRUEDINT="0.0" />
 <row SECID="GAZAP" SECNAME="ГАЗ ПАО ап" MARKETPRICE="4.11" ACCRUEDINT="0.0" />
@@ -167,7 +167,7 @@
 <row SECID="GEMA" SECNAME="ПАО ММЦБ ао" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
 <row SECID="GEMC" SECNAME="Юнайтед Медикал Груп ПАО" MARKETPRICE="0.28" ACCRUEDINT="0.0" />
 <row SECID="GMKN" SECNAME="ГМК &quot;Нор.Никель&quot; ПАО ао" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
-<row SECID="GTRK" SECNAME="ПАО &quot;ГТМ&quot; ао" MARKETPRICE="212.7" ACCRUEDINT="0.0" />
+<row SECID="GTRK" SECNAME="ПАО &quot;ГТМ&quot; ао" MARKETPRICE="213.0" ACCRUEDINT="0.0" />
 <row SECID="HEAD" SECNAME="МКПАО Хэдхантер" MARKETPRICE="30.4" ACCRUEDINT="0.0" />
 <row SECID="HIMCP" SECNAME="Химпром ПАО ап" MARKETPRICE="0.21" ACCRUEDINT="0.0" />
 <row SECID="HNFG" SECNAME="ХЭНДЕРСОН ао" MARKETPRICE="288.55" ACCRUEDINT="0.0" />
@@ -189,7 +189,7 @@
 <row SECID="KGKCP" SECNAME="Курганская генер. комп. ПАО ап" MARKETPRICE="3.44" ACCRUEDINT="0.0" />
 <row SECID="KLSB" SECNAME="ао&quot;Калужская сбыт.комп.&quot;ПАО" MARKETPRICE="0.04" ACCRUEDINT="0.0" />
 <row SECID="KLVZ" SECNAME="Алкогольная Группа Кристалл" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="KMAZ" SECNAME="КАМАЗ ПАО" MARKETPRICE="51.25" ACCRUEDINT="0.0" />
+<row SECID="KMAZ" SECNAME="КАМАЗ ПАО" MARKETPRICE="51.1" ACCRUEDINT="0.0" />
 <row SECID="KMEZ" SECNAME="Ковровский механический завод" MARKETPRICE="2800.0" ACCRUEDINT="0.0" />
 <row SECID="KOGK" SECNAME="Коршуновский ГОК ПАО ао" MARKETPRICE="386.0" ACCRUEDINT="0.0" />
 <row SECID="KRKN" SECNAME="Саратовский НПЗ ПАО ао" MARKETPRICE="90.0" ACCRUEDINT="0.0" />
@@ -202,7 +202,7 @@
 <row SECID="KUZB" SECNAME="Банк &quot;Кузнецкий&quot; ПАО ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="KZOS" SECNAME="ПАО &quot;Органический синтез&quot; ао" MARKETPRICE="0.82" ACCRUEDINT="0.0" />
 <row SECID="KZOSP" SECNAME="ПАО &quot;Органический синтез&quot; ап" MARKETPRICE="0.2" ACCRUEDINT="0.0" />
-<row SECID="LEAS" SECNAME="ПАО «ЛК «Европлан»" MARKETPRICE="6.58" ACCRUEDINT="0.0" />
+<row SECID="LEAS" SECNAME="ПАО «ЛК «Европлан»" MARKETPRICE="6.57" ACCRUEDINT="0.0" />
 <row SECID="LENT" SECNAME="Лента МКПАО ао" MARKETPRICE="1.29" ACCRUEDINT="0.0" />
 <row SECID="LIFE" SECNAME="Фармсинтез ПАО ао" MARKETPRICE="0.18" ACCRUEDINT="0.0" />
 <row SECID="LKOH" SECNAME="НК ЛУКОЙЛ (ПАО) - ао" MARKETPRICE="1.59" ACCRUEDINT="0.0" />
@@ -242,16 +242,16 @@
 <row SECID="MSRS" SECNAME="ПАО Россети Моск.рег. ао" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
 <row SECID="MSTT" SECNAME="ПАО &quot;МОСТОТРЕСТ&quot; ао" MARKETPRICE="0.17" ACCRUEDINT="0.0" />
 <row SECID="MTLR" SECNAME="Мечел ПАО ао" MARKETPRICE="9.39" ACCRUEDINT="0.0" />
-<row SECID="MTLRP" SECNAME="Мечел ПАО ап" MARKETPRICE="9.6" ACCRUEDINT="0.0" />
+<row SECID="MTLRP" SECNAME="Мечел ПАО ап" MARKETPRICE="9.61" ACCRUEDINT="0.0" />
 <row SECID="MTSS" SECNAME="Мобильные ТелеСистемы ПАО ао" MARKETPRICE="0.2" ACCRUEDINT="0.0" />
-<row SECID="MVID" SECNAME="&quot;М.видео&quot; ПАО ао" MARKETPRICE="10.51" ACCRUEDINT="0.0" />
+<row SECID="MVID" SECNAME="&quot;М.видео&quot; ПАО ао" MARKETPRICE="10.48" ACCRUEDINT="0.0" />
 <row SECID="NAUK" SECNAME="НПО Наука ао" MARKETPRICE="0.97" ACCRUEDINT="0.0" />
 <row SECID="NFAZ" SECNAME="НЕФАЗ ПАО ао" MARKETPRICE="3.42" ACCRUEDINT="0.0" />
 <row SECID="NKHP" SECNAME="НКХП ПАО ао" MARKETPRICE="8.03" ACCRUEDINT="0.0" />
 <row SECID="NKNC" SECNAME="&quot;Нижнекамскнефтехим&quot; ПАО ао" MARKETPRICE="0.9" ACCRUEDINT="0.0" />
 <row SECID="NKNCP" SECNAME="&quot;Нижнекамскнефтехим&quot; ПАО ап" MARKETPRICE="0.7" ACCRUEDINT="0.0" />
 <row SECID="NKSH" SECNAME="Нижнекамскшина ПАО ао" MARKETPRICE="0.45" ACCRUEDINT="0.0" />
-<row SECID="NLMK" SECNAME="ПАО &quot;НЛМК&quot; ао" MARKETPRICE="1.24" ACCRUEDINT="0.0" />
+<row SECID="NLMK" SECNAME="ПАО &quot;НЛМК&quot; ао" MARKETPRICE="1.25" ACCRUEDINT="0.0" />
 <row SECID="NMTP" SECNAME="НМТП (ПАО) ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="NNSB" SECNAME="ТНС энерго Нижний Новг.ПАО ао" MARKETPRICE="407.48" ACCRUEDINT="0.0" />
 <row SECID="NNSBP" SECNAME="ТНС энерго Нижний Новг.ПАО ап" MARKETPRICE="141.37" ACCRUEDINT="0.0" />
@@ -260,24 +260,24 @@
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="30.01" ACCRUEDINT="0.0" />
 <row SECID="OMZZP" SECNAME="ап&quot;Объединён.  маш. заводы&quot;" MARKETPRICE="12.06" ACCRUEDINT="0.0" />
-<row SECID="OZON" SECNAME="АДР Ozon Holdings PLC ORD SHS" MARKETPRICE="3476.5" ACCRUEDINT="0.0" />
+<row SECID="OZON" SECNAME="АДР Ozon Holdings PLC ORD SHS" MARKETPRICE="3470" ACCRUEDINT="0.0" />
 <row SECID="OZPH" SECNAME="Озон Фармацевтика" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
 <row SECID="PAZA" SECNAME="Павловский автобус ПАО ао" MARKETPRICE="46978.0" ACCRUEDINT="0.0" />
-<row SECID="PHOR" SECNAME="ФосАгро ПАО ао" MARKETPRICE="149.78" ACCRUEDINT="0.0" />
-<row SECID="PIKK" SECNAME="ПИК СЗ (ПАО) ао" MARKETPRICE="295.88" ACCRUEDINT="0.0" />
+<row SECID="PHOR" SECNAME="ФосАгро ПАО ао" MARKETPRICE="149.9" ACCRUEDINT="0.0" />
+<row SECID="PIKK" SECNAME="ПИК СЗ (ПАО) ао" MARKETPRICE="295.31" ACCRUEDINT="0.0" />
 <row SECID="PLZL" SECNAME="Полюс ПАО ао" MARKETPRICE="1.73" ACCRUEDINT="0.0" />
 <row SECID="PMSB" SECNAME="&quot;Пермэнергосбыт&quot; ПАО ао" MARKETPRICE="7.51" ACCRUEDINT="0.0" />
 <row SECID="PMSBP" SECNAME="&quot;Пермэнергосбыт&quot; ПАО ап" MARKETPRICE="8.15" ACCRUEDINT="0.0" />
-<row SECID="POSI" SECNAME="Группа Позитив ао" MARKETPRICE="6.38" ACCRUEDINT="0.0" />
+<row SECID="POSI" SECNAME="Группа Позитив ао" MARKETPRICE="6.39" ACCRUEDINT="0.0" />
 <row SECID="PRFN" SECNAME="ЧЗПСН-Профнастил (ПАО) ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="PRMB" SECNAME="АКБ &quot;Приморье&quot; ао" MARKETPRICE="304000.0" ACCRUEDINT="0.0" />
 <row SECID="PRMD" SECNAME="ПРОМОМЕД" MARKETPRICE="3.72" ACCRUEDINT="0.0" />
-<row SECID="QIWI" SECNAME="NanduQ PLC" MARKETPRICE="154.8" ACCRUEDINT="0.0" />
+<row SECID="QIWI" SECNAME="NanduQ PLC" MARKETPRICE="153.8" ACCRUEDINT="0.0" />
 <row SECID="RAGR" SECNAME="Группа Русагро" MARKETPRICE="3.25" ACCRUEDINT="0.0" />
 <row SECID="RASP" SECNAME="ПАО Распадская ао" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
 <row SECID="RBCM" SECNAME="ГК РБК ПАО ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RDRB" SECNAME="РоссийскийДорож Банк ПАО ао" MARKETPRICE="179.18" ACCRUEDINT="0.0" />
-<row SECID="RENI" SECNAME="Ренессанс Страхование ао" MARKETPRICE="10.91" ACCRUEDINT="0.0" />
+<row SECID="RENI" SECNAME="Ренессанс Страхование ао" MARKETPRICE="10.83" ACCRUEDINT="0.0" />
 <row SECID="RGSS" SECNAME="Росгосстрах СК ПАО ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RKKE" SECNAME="РКК Энергия им.С.П.Королева ао" MARKETPRICE="251800.0" ACCRUEDINT="0.0" />
 <row SECID="RNFT" SECNAME="РуссНефть НК ПАО ао" MARKETPRICE="0.6" ACCRUEDINT="0.0" />
@@ -297,27 +297,27 @@
 <row SECID="SARE" SECNAME="Саратовэнерго(ПАО)-ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="SAREP" SECNAME="Саратовэнерго(ПАО)-ап" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="SBER" SECNAME="Сбербанк России ПАО ао" MARKETPRICE="8.63" ACCRUEDINT="0.0" />
-<row SECID="SBERP" SECNAME="Сбербанк России ПАО ап" MARKETPRICE="8.61" ACCRUEDINT="0.0" />
+<row SECID="SBERP" SECNAME="Сбербанк России ПАО ап" MARKETPRICE="8.6" ACCRUEDINT="0.0" />
 <row SECID="SELG" SECNAME="ПАО &quot;Селигдар&quot;  ао" MARKETPRICE="0.45" ACCRUEDINT="0.0" />
-<row SECID="SFIN" SECNAME="ЭсЭфАй ПАО ао" MARKETPRICE="8.86" ACCRUEDINT="0.0" />
+<row SECID="SFIN" SECNAME="ЭсЭфАй ПАО ао" MARKETPRICE="8.82" ACCRUEDINT="0.0" />
 <row SECID="SGZH" SECNAME="Сегежа ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="SIBN" SECNAME="Газпром нефть ПАО ао" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
 <row SECID="SLEN" SECNAME="ПАО &quot;Сахалинэнерго&quot; ао" MARKETPRICE="0.32" ACCRUEDINT="0.0" />
-<row SECID="SMLT" SECNAME="ГК Самолет ао" MARKETPRICE="267.12" ACCRUEDINT="0.0" />
-<row SECID="SNGS" SECNAME="Сургутнефтегаз ПАО акции об." MARKETPRICE="0.22" ACCRUEDINT="0.0" />
+<row SECID="SMLT" SECNAME="ГК Самолет ао" MARKETPRICE="266.75" ACCRUEDINT="0.0" />
+<row SECID="SNGS" SECNAME="Сургутнефтегаз ПАО акции об." MARKETPRICE="0.23" ACCRUEDINT="0.0" />
 <row SECID="SNGSP" SECNAME="Сургутнефтегаз ПАО ап" MARKETPRICE="0.51" ACCRUEDINT="0.0" />
 <row SECID="SOFL" SECNAME="Софтлайн ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="SPBE" SECNAME="СПБ Биржа ао" MARKETPRICE="8.85" ACCRUEDINT="0.0" />
+<row SECID="SPBE" SECNAME="СПБ Биржа ао" MARKETPRICE="8.87" ACCRUEDINT="0.0" />
 <row SECID="STSB" SECNAME="Ставрополэнергосбыт ПАО ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="STSBP" SECNAME="Ставрополэнергосбыт ПАО ап" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="SVAV" SECNAME="ПАО &quot;СОЛЛЕРС&quot;" MARKETPRICE="79.62" ACCRUEDINT="0.0" />
+<row SECID="SVAV" SECNAME="ПАО &quot;СОЛЛЕРС&quot;" MARKETPRICE="79.75" ACCRUEDINT="0.0" />
 <row SECID="SVCB" SECNAME="Совкомбанк ао" MARKETPRICE="0.02" ACCRUEDINT="0.0" />
 <row SECID="SVET" SECNAME="Светофор Групп ао" MARKETPRICE="0.16" ACCRUEDINT="0.0" />
 <row SECID="SVETP" SECNAME="Светофор Групп ап" MARKETPRICE="0.22" ACCRUEDINT="0.0" />
-<row SECID="T" SECNAME="Т-Технологии МКПАО ао" MARKETPRICE="112.47" ACCRUEDINT="0.0" />
+<row SECID="T" SECNAME="Т-Технологии МКПАО ао" MARKETPRICE="112.7" ACCRUEDINT="0.0" />
 <row SECID="TASB" SECNAME="ао&quot;Тамбов.энергсбыт.комп.&quot;ПАО" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="TASBP" SECNAME="ап&quot;Тамбов.энергсбыт.комп.&quot;ПАО" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="TATN" SECNAME="ПАО &quot;Татнефть&quot; ао" MARKETPRICE="6.35" ACCRUEDINT="0.0" />
+<row SECID="TATN" SECNAME="ПАО &quot;Татнефть&quot; ао" MARKETPRICE="6.36" ACCRUEDINT="0.0" />
 <row SECID="TATNP" SECNAME="ПАО &quot;Татнефть&quot; ап 3 вып." MARKETPRICE="6.12" ACCRUEDINT="0.0" />
 <row SECID="TGKA" SECNAME="ао ПАО &quot;ТГК-1&quot;" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="TGKB" SECNAME="ао ПАО &quot;ТГК-2&quot;" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
@@ -326,7 +326,7 @@
 <row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" MARKETPRICE="21.55" ACCRUEDINT="0.0" />
 <row SECID="TORS" SECNAME="ао ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="TORSP" SECNAME="ап ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="TRMK" SECNAME="ПАО ТМК" MARKETPRICE="10.5" ACCRUEDINT="0.0" />
+<row SECID="TRMK" SECNAME="ПАО ТМК" MARKETPRICE="10.53" ACCRUEDINT="0.0" />
 <row SECID="TRNFP" SECNAME="Транснефть ПАО акц.пр." MARKETPRICE="0.12" ACCRUEDINT="0.0" />
 <row SECID="TTLK" SECNAME="&quot;Таттелеком&quot; ПАО ао" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="TUZA" SECNAME="Туймаз. завод автобетоновозов" MARKETPRICE="18.2" ACCRUEDINT="0.0" />
@@ -349,16 +349,16 @@
 <row SECID="VRSB" SECNAME="ТНС энерго Воронеж ПАО ао" MARKETPRICE="1.53" ACCRUEDINT="0.0" />
 <row SECID="VRSBP" SECNAME="ТНС энерго Воронеж ПАО ап" MARKETPRICE="0.51" ACCRUEDINT="0.0" />
 <row SECID="VSEH" SECNAME="ВИ.ру" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
-<row SECID="VSMO" SECNAME="Корп. ВСМПО-АВИСМА (ПАО) ао" MARKETPRICE="296.4" ACCRUEDINT="0.0" />
+<row SECID="VSMO" SECNAME="Корп. ВСМПО-АВИСМА (ПАО) ао" MARKETPRICE="296.6" ACCRUEDINT="0.0" />
 <row SECID="VSYD" SECNAME="Выборгский Суд.Завод ПАО ао" MARKETPRICE="57.0" ACCRUEDINT="0.0" />
 <row SECID="VSYDP" SECNAME="Выборгский Суд.Завод ПАО ап" MARKETPRICE="39.75" ACCRUEDINT="0.0" />
-<row SECID="VTBR" SECNAME="ао ПАО Банк ВТБ" MARKETPRICE="35.48" ACCRUEDINT="0.0" />
+<row SECID="VTBR" SECNAME="ао ПАО Банк ВТБ" MARKETPRICE="35.45" ACCRUEDINT="0.0" />
 <row SECID="WTCM" SECNAME="&quot;Центр междун. торговли&quot;ПАО ао" MARKETPRICE="0.12" ACCRUEDINT="0.0" />
 <row SECID="WTCMP" SECNAME="&quot;Центр междун. торговли&quot;ПАО ап" MARKETPRICE="0.12" ACCRUEDINT="0.0" />
 <row SECID="WUSH" SECNAME="ВУШ Холдинг ао" MARKETPRICE="0.02" ACCRUEDINT="0.0" />
-<row SECID="X5" SECNAME="Корпоративный центр ИКС 5" MARKETPRICE="37553.21" ACCRUEDINT="0.0" />
+<row SECID="X5" SECNAME="Корпоративный центр ИКС 5" MARKETPRICE="37570.67" ACCRUEDINT="0.0" />
 <row SECID="YAKG" SECNAME="Якутская топл.-энерг. комп. ао" MARKETPRICE="0.58" ACCRUEDINT="0.0" />
-<row SECID="YDEX" SECNAME="МКПАО ЯНДЕКС" MARKETPRICE="16.27" ACCRUEDINT="0.0" />
+<row SECID="YDEX" SECNAME="МКПАО ЯНДЕКС" MARKETPRICE="16.28" ACCRUEDINT="0.0" />
 <row SECID="YKEN" SECNAME="АК &quot;Якутскэнерго&quot; (ПАО) ао" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
 <row SECID="YKENP" SECNAME="АК &quot;Якутскэнерго&quot; (ПАО) ап" MARKETPRICE="0.01" ACCRUEDINT="0.0" />
 <row SECID="YRSB" SECNAME="ТНС энерго Ярославль ПАО ао" MARKETPRICE="7.34" ACCRUEDINT="0.0" />
@@ -374,11 +374,11 @@
 <row SECID="SU26219RMFS4" SECNAME="ОФЗ-ПД 26219 16/09/26" MARKETPRICE="891.04" ACCRUEDINT="4.25" />
 <row SECID="SU26221RMFS0" SECNAME="ОФЗ-ПД 26221 23/03/33" MARKETPRICE="641.81" ACCRUEDINT="1.27" />
 <row SECID="SU26224RMFS4" SECNAME="ОФЗ-ПД 26224 23/05/29" MARKETPRICE="734.1" ACCRUEDINT="24.96" />
-<row SECID="SU26225RMFS1" SECNAME="ОФЗ-ПД 26225 10/05/34" MARKETPRICE="596.59" ACCRUEDINT="27.61" />
-<row SECID="SU26226RMFS9" SECNAME="ОФЗ-ПД 26226 07/10/26" MARKETPRICE="890.58" ACCRUEDINT="39.42" />
+<row SECID="SU26225RMFS1" SECNAME="ОФЗ-ПД 26225 10/05/34" MARKETPRICE="596.58" ACCRUEDINT="27.61" />
+<row SECID="SU26226RMFS9" SECNAME="ОФЗ-ПД 26226 07/10/26" MARKETPRICE="891.0" ACCRUEDINT="39.42" />
 <row SECID="SU26228RMFS5" SECNAME="ОФЗ-ПД 26228 10/04/30" MARKETPRICE="726.9" ACCRUEDINT="36.47" />
-<row SECID="SU26229RMFS3" SECNAME="ОФЗ-ПД 26229 12/11/25" MARKETPRICE="935.69" ACCRUEDINT="28.6" />
-<row SECID="SU26230RMFS1" SECNAME="ОФЗ-ПД 26230 16/03/39" MARKETPRICE="559.56" ACCRUEDINT="1.27" />
+<row SECID="SU26229RMFS3" SECNAME="ОФЗ-ПД 26229 12/11/25" MARKETPRICE="935.68" ACCRUEDINT="28.6" />
+<row SECID="SU26230RMFS1" SECNAME="ОФЗ-ПД 26230 16/03/39" MARKETPRICE="559.95" ACCRUEDINT="1.27" />
 <row SECID="SU26231RMFS9" SECNAME="ОФЗ-ПД 26231 20/07/44" MARKETPRICE="0.0" ACCRUEDINT="0.38" />
 <row SECID="SU26232RMFS7" SECNAME="ОФЗ-ПД 26232 06/10/27" MARKETPRICE="798.15" ACCRUEDINT="29.76" />
 <row SECID="SU26233RMFS5" SECNAME="ОФЗ-ПД 26233 18/07/2035" MARKETPRICE="518.75" ACCRUEDINT="11.53" />
@@ -386,17 +386,17 @@
 <row SECID="SU26235RMFS0" SECNAME="ОФЗ-ПД 26235 12/03/2031" MARKETPRICE="626.23" ACCRUEDINT="3.23" />
 <row SECID="SU26236RMFS8" SECNAME="ОФЗ-ПД 26236 17/05/2028" MARKETPRICE="751.99" ACCRUEDINT="21.71" />
 <row SECID="SU26237RMFS6" SECNAME="ОФЗ-ПД 26237 14/03/2029" MARKETPRICE="733.9" ACCRUEDINT="3.67" />
-<row SECID="SU26238RMFS4" SECNAME="ОФЗ-ПД 26238 15/05/2041" MARKETPRICE="517.26" ACCRUEDINT="24.31" />
+<row SECID="SU26238RMFS4" SECNAME="ОФЗ-ПД 26238 15/05/2041" MARKETPRICE="517.49" ACCRUEDINT="24.31" />
 <row SECID="SU26239RMFS2" SECNAME="ОФЗ-ПД 26239 23/07/2031" MARKETPRICE="652.01" ACCRUEDINT="13.05" />
 <row SECID="SU26240RMFS0" SECNAME="ОФЗ-ПД 26240 30/07/2036" MARKETPRICE="551.84" ACCRUEDINT="10.55" />
-<row SECID="SU26241RMFS8" SECNAME="ОФЗ-ПД 26241 17/11/32" MARKETPRICE="724.17" ACCRUEDINT="34.36" />
+<row SECID="SU26241RMFS8" SECNAME="ОФЗ-ПД 26241 17/11/32" MARKETPRICE="723.93" ACCRUEDINT="34.36" />
 <row SECID="SU26242RMFS6" SECNAME="ОФЗ-ПД 26242 29/08/29" MARKETPRICE="782.53" ACCRUEDINT="8.38" />
-<row SECID="SU26243RMFS4" SECNAME="ОФЗ-ПД 26243 19/05/38" MARKETPRICE="673.11" ACCRUEDINT="33.56" />
-<row SECID="SU26244RMFS2" SECNAME="ОФЗ-ПД 26244 15/03/34" MARKETPRICE="788.53" ACCRUEDINT="4.01" />
+<row SECID="SU26243RMFS4" SECNAME="ОФЗ-ПД 26243 19/05/38" MARKETPRICE="672.84" ACCRUEDINT="33.56" />
+<row SECID="SU26244RMFS2" SECNAME="ОФЗ-ПД 26244 15/03/34" MARKETPRICE="788.71" ACCRUEDINT="4.01" />
 <row SECID="SU26245RMFS9" SECNAME="ОФЗ-ПД 26245 26/09/35" MARKETPRICE="811.02" ACCRUEDINT="59.51" />
 <row SECID="SU26246RMFS7" SECNAME="ОФЗ-ПД 26246 12/03/36" MARKETPRICE="807.25" ACCRUEDINT="4.27" />
-<row SECID="SU26247RMFS5" SECNAME="ОФЗ-ПД 26247 11/05/39" MARKETPRICE="803.45" ACCRUEDINT="44.3" />
-<row SECID="SU26248RMFS3" SECNAME="ОФЗ-ПД 26248 16/05/40" MARKETPRICE="800.76" ACCRUEDINT="41.95" />
+<row SECID="SU26247RMFS5" SECNAME="ОФЗ-ПД 26247 11/05/39" MARKETPRICE="803.46" ACCRUEDINT="44.3" />
+<row SECID="SU26248RMFS3" SECNAME="ОФЗ-ПД 26248 16/05/40" MARKETPRICE="800.75" ACCRUEDINT="41.95" />
 <row SECID="SU29007RMFS0" SECNAME="ОФЗ-ПК 29007 03/03/27" MARKETPRICE="1031.48" ACCRUEDINT="19.93" />
 <row SECID="SU29008RMFS8" SECNAME="ОФЗ-ПК 29008 03/10/29" MARKETPRICE="1036.5" ACCRUEDINT="89.65" />
 <row SECID="SU29009RMFS6" SECNAME="ОФЗ-ПК 29009 05/05/32" MARKETPRICE="1039.16" ACCRUEDINT="75.4" />
@@ -1622,7 +1622,7 @@
 <row SECID="RU000A105R96" SECNAME="СберИОС 001Р-551R 3Г РОСН" MARKETPRICE="0.0" ACCRUEDINT="0" />
 <row SECID="RU000A105RF6" SECNAME="Лизинг-Трейд 001P-06" MARKETPRICE="768.9" ACCRUEDINT="0" />
 <row SECID="RU000A105RG4" SECNAME="Газпром капитал ООО ЗО26-1-Д" MARKETPRICE="1010.59" ACCRUEDINT="686.86081" />
-<row SECID="RU000A105RH2" SECNAME="Газпром капитал ООО ЗО37-1-Д" MARKETPRICE="995.0" ACCRUEDINT="887.441022" />
+<row SECID="RU000A105RH2" SECNAME="Газпром капитал ООО ЗО37-1-Д" MARKETPRICE="992.0" ACCRUEDINT="887.441022" />
 <row SECID="RU000A105RQ3" SECNAME="Банк ВТБ (ПАО) Б-1-321" MARKETPRICE="879.5" ACCRUEDINT="0.02" />
 <row SECID="RU000A105RU5" SECNAME="Мосрегионлифт БО-01" MARKETPRICE="474.7" ACCRUEDINT="6.16" />
 <row SECID="RU000A105RW1" SECNAME="ППК РЭО, обл.01" MARKETPRICE="0.0" ACCRUEDINT="7.01" />
@@ -1991,7 +1991,7 @@
 <row SECID="RU000A107C00" SECNAME="ИСТРИНСКАЯ СЫРОВАРНЯ БО-03" MARKETPRICE="847.2" ACCRUEDINT="3.95" />
 <row SECID="RU000A107C26" SECNAME="Газпром капитал 003Б-01" MARKETPRICE="0.0" ACCRUEDINT="191952.05" />
 <row SECID="RU000A107C34" SECNAME="АйДи Коллект 06" MARKETPRICE="883.3" ACCRUEDINT="3.95" />
-<row SECID="RU000A107C59" SECNAME="Совкомбанк СЗО-02" MARKETPRICE="936.56" ACCRUEDINT="1125.10329" />
+<row SECID="RU000A107C59" SECNAME="Совкомбанк СЗО-02" MARKETPRICE="938.0" ACCRUEDINT="1125.10329" />
 <row SECID="RU000A107C67" SECNAME="ГМК Норильский никель ЗО26-Д" MARKETPRICE="963.6" ACCRUEDINT="1055.153048" />
 <row SECID="RU000A107C75" SECNAME="Инвестиционные облигации 01" MARKETPRICE="899.9" ACCRUEDINT="0.05" />
 <row SECID="RU000A107C91" SECNAME="МСБ-Лизинг 003P-02" MARKETPRICE="605.1" ACCRUEDINT="2.17" />
@@ -2264,7 +2264,7 @@
 <row SECID="RU000A108JC4" SECNAME="АВТОБАН-Финанс АО БО-П05" MARKETPRICE="0.0" ACCRUEDINT="48.9" />
 <row SECID="RU000A108JD2" SECNAME="АВТОБАН-Финанс АО БО-П06" MARKETPRICE="965.0" ACCRUEDINT="43.56" />
 <row SECID="RU000A108JH3" SECNAME="Акрон (ПАО) БО-001P-04" MARKETPRICE="998.33" ACCRUEDINT="113.374988" />
-<row SECID="RU000A108JQ4" SECNAME="АЛЬФА-БАНК ЗО-350" MARKETPRICE="840.01" ACCRUEDINT="2085.86565" />
+<row SECID="RU000A108JQ4" SECNAME="АЛЬФА-БАНК ЗО-350" MARKETPRICE="847.63" ACCRUEDINT="2085.86565" />
 <row SECID="RU000A108JV4" SECNAME="Газпром капитал БО-003Р-02" MARKETPRICE="950.1" ACCRUEDINT="9.14" />
 <row SECID="RU000A108K25" SECNAME="СберИОС 001Р-623R 5Г AC MOEXIT" MARKETPRICE="0.0" ACCRUEDINT="0" />
 <row SECID="RU000A108KK5" SECNAME="СОБИ-ЛИЗИНГ 001Р-05" MARKETPRICE="711.06" ACCRUEDINT="5.8" />
