@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <document><data id="marketdata"><rows><row />
 <row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="103.32" ACCRUEDINT="0.0" />
-<row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="89.1" ACCRUEDINT="0.0" />
+<row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="90.2" ACCRUEDINT="0.0" />
 <row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="107.84" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="191.7" ACCRUEDINT="0.0" />
 <row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="93.81" ACCRUEDINT="0.0" />
@@ -105,5 +105,5 @@
 <row SECID="FXRU" SECNAME="Finex FXRU" MARKETPRICE="49.65" ACCRUEDINT="0.0" />
 <row SECID="FXDE" SECNAME="Finex FXDE" MARKETPRICE="38.64" ACCRUEDINT="0.0" />
 <row SECID="FXCN" SECNAME="Finex FXCN" MARKETPRICE="2870.97" ACCRUEDINT="0.0" />
-<row SECID="FXKZ" SECNAME="Finex FXKZ" MARKETPRICE="524.51" ACCRUEDINT="0.0" />
+<row SECID="FXKZ" SECNAME="Finex FXKZ" MARKETPRICE="515.96" ACCRUEDINT="0.0" />
 </rows></data></document>
