@@ -53,7 +53,7 @@
 <row SECID="PSGM" SECNAME="БПИФ ПСБ Золотой рынок" MARKETPRICE="9.693" ACCRUEDINT="0.0" />
 <row SECID="PSMM" SECNAME="БПИФ РФИ ПСБ–Денежный рынок" MARKETPRICE="12.338" ACCRUEDINT="0.0" />
 <row SECID="PSRB" SECNAME="ПСБ  Рублевые облигации" MARKETPRICE="12.361" ACCRUEDINT="0.0" />
-<row SECID="PSRE" SECNAME="БПИФ ПСБ - Российские акции" MARKETPRICE="10.089" ACCRUEDINT="0.0" />
+<row SECID="PSRE" SECNAME="БПИФ ПСБ - Российские акции" MARKETPRICE="10.09" ACCRUEDINT="0.0" />
 <row SECID="RSHU" SECNAME="БПИФ РСХБ Корп обл смарт бета" MARKETPRICE="120.92" ACCRUEDINT="0.0" />
 <row SECID="SBBC" SECNAME="БПИФ Первая Голубые фишки" MARKETPRICE="10.228" ACCRUEDINT="0.0" />
 <row SECID="SBBY" SECNAME="БПИФ Фонд Инструменты в юанях" MARKETPRICE="9.974" ACCRUEDINT="0.0" />
@@ -548,7 +548,7 @@
 <row SECID="RU000A0JWRV9" SECNAME="Мобильные ТелеСистемы ПАО БО-2" MARKETPRICE="930.9" ACCRUEDINT="26.03" />
 <row SECID="RU000A0JWST1" SECNAME="ГосТранспортЛизингКомп БО-08" MARKETPRICE="975.2" ACCRUEDINT="0.39" />
 <row SECID="RU000A0JWT91" SECNAME="Удмуртская респ. обл. 2016" MARKETPRICE="968.4" ACCRUEDINT="9.25" />
-<row SECID="RU000A0JWTL6" SECNAME="Почта России (АО) БО-03" MARKETPRICE="1189.8" ACCRUEDINT="68.71" />
+<row SECID="RU000A0JWTL6" SECNAME="Почта России (АО) БО-03" MARKETPRICE="1169.8" ACCRUEDINT="68.71" />
 <row SECID="RU000A0JWTN2" SECNAME="Ростелеком ПАО 001P-01R" MARKETPRICE="1042.4" ACCRUEDINT="69.62" />
 <row SECID="RU000A0JWTV5" SECNAME="ГосТранспортЛизингКомп 001P-01" MARKETPRICE="0.0" ACCRUEDINT="5.19" />
 <row SECID="RU000A0JWU23" SECNAME="ООО Трансп.Концесс.Комп. кл.Б" MARKETPRICE="0.0" ACCRUEDINT="94.03" />
