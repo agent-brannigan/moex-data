@@ -4,7 +4,7 @@
 <row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="100.1" ACCRUEDINT="0.0" />
 <row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="117" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="193.52" ACCRUEDINT="0.0" />
-<row SECID="AKGP" SECNAME="БПИФ Альфа Капитал Золото Плюс" MARKETPRICE="1.004" ACCRUEDINT="0.0" />
+<row SECID="AKGP" SECNAME="БПИФ Альфа Капитал Золото Плюс" MARKETPRICE="1.006" ACCRUEDINT="0.0" />
 <row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="104.1" ACCRUEDINT="0.0" />
 <row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="1055.6" ACCRUEDINT="0.0" />
 <row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.7508" ACCRUEDINT="0.0" />
@@ -53,7 +53,7 @@
 <row SECID="PSGM" SECNAME="БПИФ ПСБ Золотой рынок" MARKETPRICE="9.695" ACCRUEDINT="0.0" />
 <row SECID="PSMM" SECNAME="БПИФ РФИ ПСБ–Денежный рынок" MARKETPRICE="12.373" ACCRUEDINT="0.0" />
 <row SECID="PSRB" SECNAME="ПСБ  Рублевые облигации" MARKETPRICE="12.361" ACCRUEDINT="0.0" />
-<row SECID="PSRE" SECNAME="БПИФ ПСБ - Российские акции" MARKETPRICE="10.089" ACCRUEDINT="0.0" />
+<row SECID="PSRE" SECNAME="БПИФ ПСБ - Российские акции" MARKETPRICE="10.088" ACCRUEDINT="0.0" />
 <row SECID="RSHU" SECNAME="БПИФ РСХБ Корп обл смарт бета" MARKETPRICE="120.66" ACCRUEDINT="0.0" />
 <row SECID="SBBC" SECNAME="БПИФ Первая Голубые фишки" MARKETPRICE="10.263" ACCRUEDINT="0.0" />
 <row SECID="SBBY" SECNAME="БПИФ Фонд Инструменты в юанях" MARKETPRICE="10.162" ACCRUEDINT="0.0" />
@@ -105,7 +105,7 @@
 <row SECID="FXTP" SECNAME="Finex FXTP" MARKETPRICE="78.55" ACCRUEDINT="0.0" />
 <row SECID="FXFA" SECNAME="Finex FXFA" MARKETPRICE="84.73" ACCRUEDINT="0.0" />
 <row SECID="FXDM" SECNAME="Finex FXDM" MARKETPRICE="108.55" ACCRUEDINT="0.0" />
-<row SECID="FXGD" SECNAME="Finex FXGD" MARKETPRICE="175.55" ACCRUEDINT="0.0" />
+<row SECID="FXGD" SECNAME="Finex FXGD" MARKETPRICE="174.38" ACCRUEDINT="0.0" />
 <row SECID="FXWO" SECNAME="Finex FXWO" MARKETPRICE="2.64" ACCRUEDINT="0.0" />
 <row SECID="FXRW" SECNAME="Finex FXRW" MARKETPRICE="1.0" ACCRUEDINT="0.0" />
 <row SECID="FXTB" SECNAME="Finex FXTB" MARKETPRICE="91.59" ACCRUEDINT="0.0" />
