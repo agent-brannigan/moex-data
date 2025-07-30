@@ -4,7 +4,7 @@
 <row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="97.3" ACCRUEDINT="0.0" />
 <row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="117.56" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="197.26" ACCRUEDINT="0.0" />
-<row SECID="AKGP" SECNAME="БПИФ Альфа Капитал Золото Плюс" MARKETPRICE="1.013" ACCRUEDINT="0.0" />
+<row SECID="AKGP" SECNAME="БПИФ Альфа Капитал Золото Плюс" MARKETPRICE="1.017" ACCRUEDINT="0.0" />
 <row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="100.84" ACCRUEDINT="0.0" />
 <row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="1020.81" ACCRUEDINT="0.0" />
 <row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.7584" ACCRUEDINT="0.0" />
@@ -53,7 +53,7 @@
 <row SECID="PSGM" SECNAME="БПИФ ПСБ Золотой рынок" MARKETPRICE="9.844" ACCRUEDINT="0.0" />
 <row SECID="PSMM" SECNAME="БПИФ РФИ ПСБ–Денежный рынок" MARKETPRICE="12.414" ACCRUEDINT="0.0" />
 <row SECID="PSRB" SECNAME="ПСБ  Рублевые облигации" MARKETPRICE="12.425" ACCRUEDINT="0.0" />
-<row SECID="PSRE" SECNAME="БПИФ ПСБ - Российские акции" MARKETPRICE="9.769" ACCRUEDINT="0.0" />
+<row SECID="PSRE" SECNAME="БПИФ ПСБ - Российские акции" MARKETPRICE="9.763" ACCRUEDINT="0.0" />
 <row SECID="RSHU" SECNAME="БПИФ РСХБ Корп обл смарт бета" MARKETPRICE="126.56" ACCRUEDINT="0.0" />
 <row SECID="SBBC" SECNAME="БПИФ Первая Голубые фишки" MARKETPRICE="10.006" ACCRUEDINT="0.0" />
 <row SECID="SBBY" SECNAME="БПИФ Фонд Инструменты в юанях" MARKETPRICE="10.46" ACCRUEDINT="0.0" />
@@ -3057,7 +3057,7 @@
 <row SECID="RU000A10C725" SECNAME="МЕТАЛЛОИНВЕСТ 002P-01" MARKETPRICE="998.5" ACCRUEDINT="1.78" />
 <row SECID="RU000A10C741" SECNAME="Кокс ПАО 001P-04" MARKETPRICE="1000.8" ACCRUEDINT="1.15" />
 <row SECID="RU000A10C758" SECNAME="ТД РКС 002Р-06" MARKETPRICE="1002.0" ACCRUEDINT="1.37" />
-<row SECID="RU000A10C7C2" SECNAME="Алтимейт Эдьюкейшн БО-П01" MARKETPRICE="1005.5" ACCRUEDINT="0.54" />
+<row SECID="RU000A10C7C2" SECNAME="Алтимейт Эдьюкейшн БО-П01" MARKETPRICE="1005.9" ACCRUEDINT="0.54" />
 <row SECID="XS0088543193" SECNAME="ГОВОЗ РФ МК-0-СМ-119 (XS)" MARKETPRICE="1250.0" ACCRUEDINT="1048.301175" />
 <row SECID="XS0114288789" SECNAME="ГОВОЗ РФ SK-0-CM-128 (XS)" MARKETPRICE="0.05" ACCRUEDINT="0.102775" />
 <row SECID="XS0559915961" SECNAME="VEB FINANCE LIMITED 6.8 22/11/" MARKETPRICE="1016.8" ACCRUEDINT="1056.066332" />
