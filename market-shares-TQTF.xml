@@ -4,7 +4,7 @@
 <row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="97.2" ACCRUEDINT="0.0" />
 <row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="117.56" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="196.6" ACCRUEDINT="0.0" />
-<row SECID="AKGP" SECNAME="БПИФ Альфа Капитал Золото Плюс" MARKETPRICE="1.01" ACCRUEDINT="0.0" />
+<row SECID="AKGP" SECNAME="БПИФ Альфа Капитал Золото Плюс" MARKETPRICE="1.006" ACCRUEDINT="0.0" />
 <row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="100.52" ACCRUEDINT="0.0" />
 <row SECID="AKIE" SECNAME="БПИФ Альфа Упр Акции с доходом" MARKETPRICE="1018.95" ACCRUEDINT="0.0" />
 <row SECID="AKMB" SECNAME="БПИФ Альфа Управляем облигации" MARKETPRICE="1.7588" ACCRUEDINT="0.0" />
@@ -117,5 +117,5 @@
 <row SECID="FXRU" SECNAME="Finex FXRU" MARKETPRICE="47.54" ACCRUEDINT="0.0" />
 <row SECID="FXDE" SECNAME="Finex FXDE" MARKETPRICE="46.27" ACCRUEDINT="0.0" />
 <row SECID="FXCN" SECNAME="Finex FXCN" MARKETPRICE="3442.76" ACCRUEDINT="0.0" />
-<row SECID="FXKZ" SECNAME="Finex FXKZ" MARKETPRICE="596.06" ACCRUEDINT="0.0" />
+<row SECID="FXKZ" SECNAME="Finex FXKZ" MARKETPRICE="591.06" ACCRUEDINT="0.0" />
 </rows></data></document>
