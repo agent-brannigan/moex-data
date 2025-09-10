@@ -2,9 +2,9 @@
 <document><data id="marketdata"><rows><row />
 <row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="111.82" ACCRUEDINT="0.0" />
 <row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="104" ACCRUEDINT="0.0" />
-<row SECID="AKCN" SECNAME="БПИФ Альфа Индекс потреб сект" MARKETPRICE="101.4" ACCRUEDINT="0.0" />
+<row SECID="AKCN" SECNAME="БПИФ Альфа Индекс потреб сект" MARKETPRICE="101.3" ACCRUEDINT="0.0" />
 <row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="120.56" ACCRUEDINT="0.0" />
-<row SECID="AKFN" SECNAME="БПИФ Альфа Индекс финансов" MARKETPRICE="101.2" ACCRUEDINT="0.0" />
+<row SECID="AKFN" SECNAME="БПИФ Альфа Индекс финансов" MARKETPRICE="101" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="220.6" ACCRUEDINT="0.0" />
 <row SECID="AKGP" SECNAME="БПИФ АльфаКап Управ валют обл" MARKETPRICE="1.149" ACCRUEDINT="0.0" />
 <row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="105.42" ACCRUEDINT="0.0" />
@@ -584,7 +584,7 @@
 <row SECID="RU000A0JXJP6" SECNAME="ПАО &quot;ПСБ&quot; обл.03" MARKETPRICE="0.0" ACCRUEDINT="54.25" />
 <row SECID="RU000A0JXK99" SECNAME="ТрансФин-М ПАО 001P-02" MARKETPRICE="1042.1" ACCRUEDINT="9.9" />
 <row SECID="RU000A0JXLU2" SECNAME="СФО Локосервис финанс ООО 01" MARKETPRICE="0.0" ACCRUEDINT="0" />
-<row SECID="RU000A0JXMP0" SECNAME="Почта России (АО) БО-04" MARKETPRICE="1019.7" ACCRUEDINT="66.53" />
+<row SECID="RU000A0JXMP0" SECNAME="Почта России (АО) БО-04" MARKETPRICE="1019.4" ACCRUEDINT="66.53" />
 <row SECID="RU000A0JXN05" SECNAME="&quot;Российские ЖД&quot; БО-001P-01R" MARKETPRICE="1090.0" ACCRUEDINT="53.94" />
 <row SECID="RU000A0JXN21" SECNAME="АФК &quot;Система&quot; ПАО БО-001P-06" MARKETPRICE="924.6" ACCRUEDINT="48.04" />
 <row SECID="RU000A0JXPG2" SECNAME="ГосТранспортЛизингКомп 001P-04" MARKETPRICE="964.7" ACCRUEDINT="19.59" />
