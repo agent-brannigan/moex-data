@@ -4,7 +4,7 @@
 <row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="100.1" ACCRUEDINT="0.0" />
 <row SECID="AKCN" SECNAME="БПИФ Альфа Индекс потреб сект" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="AKFB" SECNAME="БПИФ Альфа Обл с перем купоном" MARKETPRICE="121.16" ACCRUEDINT="0.0" />
-<row SECID="AKFN" SECNAME="БПИФ Альфа Индекс финансов" MARKETPRICE="95" ACCRUEDINT="0.0" />
+<row SECID="AKFN" SECNAME="БПИФ Альфа Индекс финансов" MARKETPRICE="94" ACCRUEDINT="0.0" />
 <row SECID="AKGD" SECNAME="БПИФ Альфа Капитал Золото" MARKETPRICE="219.2" ACCRUEDINT="0.0" />
 <row SECID="AKGP" SECNAME="БПИФ АльфаКап Управ валют обл" MARKETPRICE="1.145" ACCRUEDINT="0.0" />
 <row SECID="AKHT" SECNAME="БПИФ Альфа Капитал ИТ Лидеры" MARKETPRICE="100.61" ACCRUEDINT="0.0" />
@@ -2513,7 +2513,7 @@
 <row SECID="RU000A10AG22" SECNAME="ЕвроСибЭнерго-Гидро 001РС-06" MARKETPRICE="1043.7" ACCRUEDINT="0.6" />
 <row SECID="RU000A10AG30" SECNAME="ГПБ (АО) БО 004Р-15" MARKETPRICE="0.0" ACCRUEDINT="0.06" />
 <row SECID="RU000A10AG48" SECNAME="АПРИ БО-002Р-08" MARKETPRICE="1061.2" ACCRUEDINT="0.93" />
-<row SECID="RU000A10AGA5" SECNAME="ИНК-Капитал 001Р-02" MARKETPRICE="0.0" ACCRUEDINT="0" />
+<row SECID="RU000A10AGA5" SECNAME="ИНК-Капитал 001Р-02" MARKETPRICE="0.0" ACCRUEDINT="0.59" />
 <row SECID="RU000A10AHA3" SECNAME="ИКС 5 ФИНАНС 003P-07" MARKETPRICE="996.8" ACCRUEDINT="0" />
 <row SECID="RU000A10AHB1" SECNAME="Новые технологии 001Р-01" MARKETPRICE="1042.1" ACCRUEDINT="0" />
 <row SECID="RU000A10AHC9" SECNAME="РЕСО-Лизинг ООО БО-П-23" MARKETPRICE="1106.9" ACCRUEDINT="0" />
