@@ -44,7 +44,7 @@
 <row SECID="FLOW" SECNAME="БПИФ Первая Ежемесячный доход" MARKETPRICE="1020.2" ACCRUEDINT="0.0" />
 <row SECID="FMBR" SECNAME="БПИФ Финам Облигац. с выплатой" MARKETPRICE="11.006" ACCRUEDINT="0.0" />
 <row SECID="FMMM" SECNAME="БПИФ Финам Денежный рынок" MARKETPRICE="13.387" ACCRUEDINT="0.0" />
-<row SECID="FMSA" SECNAME="БПИФ Финам Активное управление" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="FMSA" SECNAME="БПИФ Финам Активное управление" MARKETPRICE="10.089" ACCRUEDINT="0.0" />
 <row SECID="GOLD" SECNAME="БПИФ Золото.Биржевой УК ВИМ" MARKETPRICE="2.572" ACCRUEDINT="0.0" />
 <row SECID="GOOD" SECNAME="ДОХОДЪ Стратегии денеж. рынка" MARKETPRICE="1360.2" ACCRUEDINT="0.0" />
 <row SECID="GROD" SECNAME="БПИФ ДОХОДЪ Инд акций роста" MARKETPRICE="780.5" ACCRUEDINT="0.0" />
