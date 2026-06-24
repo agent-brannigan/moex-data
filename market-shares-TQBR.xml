@@ -120,7 +120,7 @@
 <row SECID="HYDR" SECNAME="ПАО &quot;РусГидро&quot;" MARKETPRICE="0.3248" ACCRUEDINT="0.0" />
 <row SECID="IGST" SECNAME="Ижсталь ПАО ао 2в." MARKETPRICE="4000" ACCRUEDINT="0.0" />
 <row SECID="IGSTP" SECNAME="Ижсталь ПАО ап" MARKETPRICE="2860" ACCRUEDINT="0.0" />
-<row SECID="INCB" SECNAME="Инкаб Холдинг" MARKETPRICE="91.84" ACCRUEDINT="0.0" />
+<row SECID="INCB" SECNAME="Инкаб Холдинг" MARKETPRICE="90.38" ACCRUEDINT="0.0" />
 <row SECID="INFL" SECNAME="БПИФ Ингосстрах Инфляционный" MARKETPRICE="142.56" ACCRUEDINT="0.0" />
 <row SECID="INGO" SECNAME="БПИФ Ингосстрах Корп облигации" MARKETPRICE="162.25" ACCRUEDINT="0.0" />
 <row SECID="IRAO" SECNAME="&quot;Интер РАО&quot; ПАО ао" MARKETPRICE="2.6125" ACCRUEDINT="0.0" />
@@ -199,7 +199,7 @@
 <row SECID="MVID" SECNAME="&quot;М.видео&quot; ПАО ао" MARKETPRICE="57.65" ACCRUEDINT="0.0" />
 <row SECID="NAUK" SECNAME="НПО Наука ао" MARKETPRICE="493.5" ACCRUEDINT="0.0" />
 <row SECID="NFAZ" SECNAME="НЕФАЗ ПАО ао" MARKETPRICE="181.5" ACCRUEDINT="0.0" />
-<row SECID="NFKL" SECNAME="БПИФ НФК-Сбереж-Ликвид" MARKETPRICE="100.04" ACCRUEDINT="0.0" />
+<row SECID="NFKL" SECNAME="БПИФ НФК-Сбереж-Ликвид" MARKETPRICE="100.12" ACCRUEDINT="0.0" />
 <row SECID="NKHP" SECNAME="НКХП ПАО ао" MARKETPRICE="394.5" ACCRUEDINT="0.0" />
 <row SECID="NKNC" SECNAME="&quot;Нижнекамскнефтехим&quot; ПАО ао" MARKETPRICE="49.95" ACCRUEDINT="0.0" />
 <row SECID="NKNCP" SECNAME="&quot;Нижнекамскнефтехим&quot; ПАО ап" MARKETPRICE="38.72" ACCRUEDINT="0.0" />
