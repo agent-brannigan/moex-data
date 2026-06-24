@@ -199,7 +199,7 @@
 <row SECID="MVID" SECNAME="&quot;М.видео&quot; ПАО ао" MARKETPRICE="57.65" ACCRUEDINT="0.0" />
 <row SECID="NAUK" SECNAME="НПО Наука ао" MARKETPRICE="493.5" ACCRUEDINT="0.0" />
 <row SECID="NFAZ" SECNAME="НЕФАЗ ПАО ао" MARKETPRICE="181.5" ACCRUEDINT="0.0" />
-<row SECID="NFKL" SECNAME="БПИФ НФК-Сбереж-Ликвид" MARKETPRICE="100.12" ACCRUEDINT="0.0" />
+<row SECID="NFKL" SECNAME="БПИФ НФК-Сбереж-Ликвид" MARKETPRICE="100.04" ACCRUEDINT="0.0" />
 <row SECID="NKHP" SECNAME="НКХП ПАО ао" MARKETPRICE="394.5" ACCRUEDINT="0.0" />
 <row SECID="NKNC" SECNAME="&quot;Нижнекамскнефтехим&quot; ПАО ао" MARKETPRICE="49.95" ACCRUEDINT="0.0" />
 <row SECID="NKNCP" SECNAME="&quot;Нижнекамскнефтехим&quot; ПАО ап" MARKETPRICE="38.72" ACCRUEDINT="0.0" />
@@ -466,7 +466,7 @@
 <row SECID="X5" SECNAME="Корпоративный центр ИКС 5" MARKETPRICE="2237.5" ACCRUEDINT="0.0" />
 <row SECID="XACCSK" SECNAME="ЗПИФ Акцент 5" MARKETPRICE="982" ACCRUEDINT="0.0" />
 <row SECID="XCREDI" SECNAME="ЗПИФ РЕКОРД Кредитный ресурс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="XEQTRU" SECNAME="ИПИФ Астра Рос акции 120/80" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="XEQTRU" SECNAME="ИПИФ Астра Рос акции 120/80" MARKETPRICE="1312" ACCRUEDINT="0.0" />
 <row SECID="XFMAGR" SECNAME="Финам Алгоритм роста" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XFMAGY" SECNAME="Финам Алгоритм роста в юанях" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XFMAIN" SECNAME="Финам Абсолютный доход" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
