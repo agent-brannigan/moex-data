@@ -32,8 +32,8 @@
 <row SECID="AMNY" SECNAME="АТОН - Накопительный в юанях" MARKETPRICE="1182.62" ACCRUEDINT="0.0" />
 <row SECID="AMRE" SECNAME="БПИФ АТОН – Российские акции +" MARKETPRICE="98.9" ACCRUEDINT="0.0" />
 <row SECID="AMRH" SECNAME="БПИФ АТОН Рублевые облигации" MARKETPRICE="161" ACCRUEDINT="0.0" />
-<row SECID="AMVD" SECNAME="АТОН – Облигации в долларах" MARKETPRICE="758" ACCRUEDINT="0.0" />
-<row SECID="AMVY" SECNAME="АТОН – Облигации в юанях" MARKETPRICE="1141" ACCRUEDINT="0.0" />
+<row SECID="AMVD" SECNAME="АТОН – Облигации в долларах" MARKETPRICE="773" ACCRUEDINT="0.0" />
+<row SECID="AMVY" SECNAME="АТОН – Облигации в юанях" MARKETPRICE="1144" ACCRUEDINT="0.0" />
 <row SECID="APRI" SECNAME="АПРИ" MARKETPRICE="16.31" ACCRUEDINT="0.0" />
 <row SECID="APTK" SECNAME="ПАО &quot;Аптечная сеть 36,6&quot; ао" MARKETPRICE="4.666" ACCRUEDINT="0.0" />
 <row SECID="AQUA" SECNAME="ПАО ИНАРКТИКА" MARKETPRICE="309.1" ACCRUEDINT="0.0" />
@@ -215,7 +215,7 @@
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="204.62" ACCRUEDINT="0.0" />
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.1995" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="41.51" ACCRUEDINT="0.0" />
-<row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.17" ACCRUEDINT="0.0" />
+<row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.16" ACCRUEDINT="0.0" />
 <row SECID="OMZZP" SECNAME="ап&quot;Объединён.  маш. заводы&quot;" MARKETPRICE="10020" ACCRUEDINT="0.0" />
 <row SECID="OZON" SECNAME="МКПАО Озон" MARKETPRICE="3471" ACCRUEDINT="0.0" />
 <row SECID="OZPH" SECNAME="Озон Фармацевтика" MARKETPRICE="39.97" ACCRUEDINT="0.0" />
