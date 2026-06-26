@@ -33,7 +33,7 @@
 <row SECID="AMRE" SECNAME="БПИФ АТОН – Российские акции +" MARKETPRICE="98.9" ACCRUEDINT="0.0" />
 <row SECID="AMRH" SECNAME="БПИФ АТОН Рублевые облигации" MARKETPRICE="161" ACCRUEDINT="0.0" />
 <row SECID="AMVD" SECNAME="АТОН – Облигации в долларах" MARKETPRICE="758" ACCRUEDINT="0.0" />
-<row SECID="AMVY" SECNAME="АТОН – Облигации в юанях" MARKETPRICE="1136" ACCRUEDINT="0.0" />
+<row SECID="AMVY" SECNAME="АТОН – Облигации в юанях" MARKETPRICE="1141" ACCRUEDINT="0.0" />
 <row SECID="APRI" SECNAME="АПРИ" MARKETPRICE="16.31" ACCRUEDINT="0.0" />
 <row SECID="APTK" SECNAME="ПАО &quot;Аптечная сеть 36,6&quot; ао" MARKETPRICE="4.666" ACCRUEDINT="0.0" />
 <row SECID="AQUA" SECNAME="ПАО ИНАРКТИКА" MARKETPRICE="309.1" ACCRUEDINT="0.0" />
@@ -267,7 +267,7 @@
 <row SECID="RU000A0JR2C1" SECNAME="ОПИФ ВИМ Казначейский" MARKETPRICE="108.9" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JRHC0" SECNAME="ПИФ АТРИУМ УК ВЕЛЕС ТР" MARKETPRICE="2910" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JRUQ3" SECNAME="ОПИФ ТКБИП Сбалансированный" MARKETPRICE="9200" ACCRUEDINT="0.0" />
-<row SECID="RU000A0JUR61" SECNAME="УК ПЕРАМО ИН ПИФ КОНСЕРВАТОРия" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="RU000A0JUR61" SECNAME="УК ПЕРАМО ИН ПИФ КОНСЕРВАТОРия" MARKETPRICE="2200" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JUYB1" SECNAME="ЗПИФ Лофтинвест" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JVJ29" SECNAME="ОПИФ БКС Драгоценные Металлы" MARKETPRICE="260.5" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JWCE7" SECNAME="ЗПИФ Недвижимости Перловский" MARKETPRICE="1320" ACCRUEDINT="0.0" />
@@ -476,7 +476,7 @@
 <row SECID="XFMOMB" SECNAME="Финам Омега Баланс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XHEDGE" SECNAME="ИПИФ ГПБ-Тактические решения" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XHOUSE" SECNAME="ЗПИФ Инвестиции в недв" MARKETPRICE="817" ACCRUEDINT="0.0" />
-<row SECID="XKLUCH" SECNAME="ИПИФ Ключевой актив" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="XKLUCH" SECNAME="ИПИФ Ключевой актив" MARKETPRICE="10.471" ACCRUEDINT="0.0" />
 <row SECID="XNIRUM" SECNAME="КЗПИФ НИРУМ капитал" MARKETPRICE="1012.2" ACCRUEDINT="0.0" />
 <row SECID="XQUANT" SECNAME="ИПИФ РЕКОРД КАПИТАЛ КВАНТ" MARKETPRICE="1213.4" ACCRUEDINT="0.0" />
 <row SECID="XSBORA" SECNAME="ЗПИФ Термы Бора-Бора" MARKETPRICE="6100.7" ACCRUEDINT="0.0" />
