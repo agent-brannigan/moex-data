@@ -32,7 +32,7 @@
 <row SECID="AMNY" SECNAME="АТОН - Накопительный в юанях" MARKETPRICE="1207.28" ACCRUEDINT="0.0" />
 <row SECID="AMRE" SECNAME="БПИФ АТОН – Российские акции +" MARKETPRICE="100.2" ACCRUEDINT="0.0" />
 <row SECID="AMRH" SECNAME="БПИФ АТОН Рублевые облигации" MARKETPRICE="160.9" ACCRUEDINT="0.0" />
-<row SECID="AMVD" SECNAME="АТОН – Облигации в долларах" MARKETPRICE="780" ACCRUEDINT="0.0" />
+<row SECID="AMVD" SECNAME="АТОН – Облигации в долларах" MARKETPRICE="778" ACCRUEDINT="0.0" />
 <row SECID="AMVY" SECNAME="АТОН – Облигации в юанях" MARKETPRICE="1111" ACCRUEDINT="0.0" />
 <row SECID="APRI" SECNAME="АПРИ" MARKETPRICE="16.48" ACCRUEDINT="0.0" />
 <row SECID="APTK" SECNAME="ПАО &quot;Аптечная сеть 36,6&quot; ао" MARKETPRICE="4.456" ACCRUEDINT="0.0" />
@@ -215,7 +215,7 @@
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="203.98" ACCRUEDINT="0.0" />
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.1927" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="41.46" ACCRUEDINT="0.0" />
-<row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.2" ACCRUEDINT="0.0" />
+<row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.19" ACCRUEDINT="0.0" />
 <row SECID="OMZZP" SECNAME="ап&quot;Объединён.  маш. заводы&quot;" MARKETPRICE="9960" ACCRUEDINT="0.0" />
 <row SECID="OZON" SECNAME="МКПАО Озон" MARKETPRICE="3400.5" ACCRUEDINT="0.0" />
 <row SECID="OZPH" SECNAME="Озон Фармацевтика" MARKETPRICE="39.65" ACCRUEDINT="0.0" />
