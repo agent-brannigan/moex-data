@@ -32,7 +32,7 @@
 <row SECID="AMNY" SECNAME="АТОН - Накопительный в юанях" MARKETPRICE="1207.28" ACCRUEDINT="0.0" />
 <row SECID="AMRE" SECNAME="БПИФ АТОН – Российские акции +" MARKETPRICE="100.2" ACCRUEDINT="0.0" />
 <row SECID="AMRH" SECNAME="БПИФ АТОН Рублевые облигации" MARKETPRICE="160.9" ACCRUEDINT="0.0" />
-<row SECID="AMVD" SECNAME="АТОН – Облигации в долларах" MARKETPRICE="777" ACCRUEDINT="0.0" />
+<row SECID="AMVD" SECNAME="АТОН – Облигации в долларах" MARKETPRICE="767" ACCRUEDINT="0.0" />
 <row SECID="AMVY" SECNAME="АТОН – Облигации в юанях" MARKETPRICE="1111" ACCRUEDINT="0.0" />
 <row SECID="APRI" SECNAME="АПРИ" MARKETPRICE="16.48" ACCRUEDINT="0.0" />
 <row SECID="APTK" SECNAME="ПАО &quot;Аптечная сеть 36,6&quot; ао" MARKETPRICE="4.456" ACCRUEDINT="0.0" />
@@ -215,7 +215,7 @@
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="203.98" ACCRUEDINT="0.0" />
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.1927" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="41.46" ACCRUEDINT="0.0" />
-<row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.2" ACCRUEDINT="0.0" />
+<row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.19" ACCRUEDINT="0.0" />
 <row SECID="OMZZP" SECNAME="ап&quot;Объединён.  маш. заводы&quot;" MARKETPRICE="9960" ACCRUEDINT="0.0" />
 <row SECID="OZON" SECNAME="МКПАО Озон" MARKETPRICE="3400.5" ACCRUEDINT="0.0" />
 <row SECID="OZPH" SECNAME="Озон Фармацевтика" MARKETPRICE="39.65" ACCRUEDINT="0.0" />
@@ -317,7 +317,7 @@
 <row SECID="RU000A106LC4" SECNAME="Атон Максимум возможностей" MARKETPRICE="1075" ACCRUEDINT="0.0" />
 <row SECID="RU000A106MG3" SECNAME="ИПИФ Астра Хедж-фонд Д5" MARKETPRICE="1350" ACCRUEDINT="0.0" />
 <row SECID="RU000A106N57" SECNAME="ИПИФ Атон – Облигации 2.0" MARKETPRICE="1110" ACCRUEDINT="0.0" />
-<row SECID="RU000A106SA3" SECNAME="ИПИФ Телескоп А" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="RU000A106SA3" SECNAME="ИПИФ Телескоп А" MARKETPRICE="7160" ACCRUEDINT="0.0" />
 <row SECID="RU000A106XE5" SECNAME="ИПИФ Саммит" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RU000A1075T2" SECNAME="ЗПИФ Газпромбанк – Рубин" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RU000A107860" SECNAME="ИПИФ Астра Хедж-фонд Ю5" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
@@ -474,7 +474,7 @@
 <row SECID="XFMAGY" SECNAME="Финам Алгоритм роста в юанях" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XFMAIN" SECNAME="Финам Абсолютный доход" MARKETPRICE="2025000" ACCRUEDINT="0.0" />
 <row SECID="XFMOMB" SECNAME="Финам Омега Баланс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="XHEDGE" SECNAME="ИПИФ ГПБ-Тактические решения" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="XHEDGE" SECNAME="ИПИФ ГПБ-Тактические решения" MARKETPRICE="258.55" ACCRUEDINT="0.0" />
 <row SECID="XHOUSE" SECNAME="ЗПИФ Инвестиции в недв" MARKETPRICE="816" ACCRUEDINT="0.0" />
 <row SECID="XKLUCH" SECNAME="ИПИФ Ключевой актив" MARKETPRICE="3.771" ACCRUEDINT="0.0" />
 <row SECID="XNIRUM" SECNAME="КЗПИФ НИРУМ капитал" MARKETPRICE="1012.2" ACCRUEDINT="0.0" />
