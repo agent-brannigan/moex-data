@@ -476,9 +476,9 @@
 <row SECID="XFMAGY" SECNAME="Финам Алгоритм роста в юанях" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XFMAIN" SECNAME="Финам Абсолютный доход" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XFMOMB" SECNAME="Финам Омега Баланс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="XHEDGE" SECNAME="ИПИФ ГПБ-Тактические решения" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="XHEDGE" SECNAME="ИПИФ ГПБ-Тактические решения" MARKETPRICE="259.5" ACCRUEDINT="0.0" />
 <row SECID="XHOUSE" SECNAME="ЗПИФ Инвестиции в недв" MARKETPRICE="844" ACCRUEDINT="0.0" />
-<row SECID="XKLUCH" SECNAME="ИПИФ Ключевой актив" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="XKLUCH" SECNAME="ИПИФ Ключевой актив" MARKETPRICE="10.5" ACCRUEDINT="0.0" />
 <row SECID="XNIRUM" SECNAME="КЗПИФ НИРУМ капитал" MARKETPRICE="1012.2" ACCRUEDINT="0.0" />
 <row SECID="XQUANT" SECNAME="ИПИФ РЕКОРД КАПИТАЛ КВАНТ" MARKETPRICE="1213.4" ACCRUEDINT="0.0" />
 <row SECID="XSBORA" SECNAME="ЗПИФ Термы Бора-Бора" MARKETPRICE="6028.1" ACCRUEDINT="0.0" />
