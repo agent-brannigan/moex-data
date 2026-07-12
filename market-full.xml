@@ -454,7 +454,7 @@
 <row SECID="TMOS" SECNAME="БПИФ Т-КАПИТАЛ ИНДЕКС МОСБИРЖИ" MARKETPRICE="5.22" ACCRUEDINT="0.0" />
 <row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" MARKETPRICE="2695" ACCRUEDINT="0.0" />
 <row SECID="TOFZ" SECNAME="БПИФ Т-Капитал ОФЗ" MARKETPRICE="13.52" ACCRUEDINT="0.0" />
-<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="99.29" ACCRUEDINT="0.0" />
+<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="99.18" ACCRUEDINT="0.0" />
 <row SECID="TORS" SECNAME="ао ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.658" ACCRUEDINT="0.0" />
 <row SECID="TORSP" SECNAME="ап ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.493" ACCRUEDINT="0.0" />
 <row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="101.35" ACCRUEDINT="0.0" />
@@ -993,7 +993,7 @@
 <row SECID="RU000A102FV5" SECNAME="Минфин Челябинской обл 35001" MARKETPRICE="377.28" ACCRUEDINT="2.76" />
 <row SECID="RU000A102G35" SECNAME="МЭФ Московской области 35016" MARKETPRICE="139.77" ACCRUEDINT="1.03" />
 <row SECID="RU000A102GA7" SECNAME="РЖД 001Б-07" MARKETPRICE="0.0" ACCRUEDINT="57926.3" />
-<row SECID="RU000A102GD1" SECNAME="ДОМ.РФ Ипотечный агент БО 1P3" MARKETPRICE="167.93" ACCRUEDINT="0.56" />
+<row SECID="RU000A102GD1" SECNAME="ДОМ.РФ Ипотечный агент БО 1P3" MARKETPRICE="177.67" ACCRUEDINT="0.56" />
 <row SECID="RU000A102GJ8" SECNAME="ГПБ (АО) БО 001Р-19Р" MARKETPRICE="979.2" ACCRUEDINT="11.53" />
 <row SECID="RU000A102GV3" SECNAME="ДОМ.РФ Ипотечный агент БО 1P1" MARKETPRICE="0.0" ACCRUEDINT="4.25" />
 <row SECID="RU000A102H34" SECNAME="Ставропольский край 35004" MARKETPRICE="236.28" ACCRUEDINT="1.49" />
