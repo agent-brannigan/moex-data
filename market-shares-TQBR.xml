@@ -137,7 +137,7 @@
 <row SECID="KCHE" SECNAME="Камчатскэнерго ПАО ао" MARKETPRICE="0.263" ACCRUEDINT="0.0" />
 <row SECID="KCHEP" SECNAME="Камчатскэнерго ПАО ап" MARKETPRICE="0.56" ACCRUEDINT="0.0" />
 <row SECID="KFBA" SECNAME="ИНГРАД ПАО ао" MARKETPRICE="1750" ACCRUEDINT="0.0" />
-<row SECID="KGKC" SECNAME="Курганская генер.комп.ПАО ао" MARKETPRICE="34.2" ACCRUEDINT="0.0" />
+<row SECID="KGKC" SECNAME="Курганская генер.комп.ПАО ао" MARKETPRICE="35.8" ACCRUEDINT="0.0" />
 <row SECID="KGKCP" SECNAME="Курганская генер. комп. ПАО ап" MARKETPRICE="41" ACCRUEDINT="0.0" />
 <row SECID="KLSB" SECNAME="ао&quot;Калужская сбыт.комп.&quot;ПАО" MARKETPRICE="19.11" ACCRUEDINT="0.0" />
 <row SECID="KLVZ" SECNAME="Алкогольная Группа Кристалл" MARKETPRICE="1.714" ACCRUEDINT="0.0" />
@@ -214,7 +214,7 @@
 <row SECID="NSVZ" SECNAME="Наука-Связь ПАО ао" MARKETPRICE="202.5" ACCRUEDINT="0.0" />
 <row SECID="NVTK" SECNAME="ПАО &quot;НОВАТЭК&quot; ао" MARKETPRICE="943.5" ACCRUEDINT="0.0" />
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="204.32" ACCRUEDINT="0.0" />
-<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="100.09" ACCRUEDINT="0.0" />
+<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="99.1" ACCRUEDINT="0.0" />
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.1825" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="40.65" ACCRUEDINT="0.0" />
 <row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.67" ACCRUEDINT="0.0" />
@@ -433,7 +433,7 @@
 <row SECID="TMOS" SECNAME="БПИФ Т-КАПИТАЛ ИНДЕКС МОСБИРЖИ" MARKETPRICE="5.15" ACCRUEDINT="0.0" />
 <row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" MARKETPRICE="2900" ACCRUEDINT="0.0" />
 <row SECID="TOFZ" SECNAME="БПИФ Т-Капитал ОФЗ" MARKETPRICE="13.5" ACCRUEDINT="0.0" />
-<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="92.74" ACCRUEDINT="0.0" />
+<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="92.89" ACCRUEDINT="0.0" />
 <row SECID="TORS" SECNAME="ао ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.688" ACCRUEDINT="0.0" />
 <row SECID="TORSP" SECNAME="ап ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.53" ACCRUEDINT="0.0" />
 <row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="101.51" ACCRUEDINT="0.0" />
