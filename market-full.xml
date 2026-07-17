@@ -160,7 +160,7 @@
 <row SECID="KCHE" SECNAME="Камчатскэнерго ПАО ао" MARKETPRICE="0.263" ACCRUEDINT="0.0" />
 <row SECID="KCHEP" SECNAME="Камчатскэнерго ПАО ап" MARKETPRICE="0.54" ACCRUEDINT="0.0" />
 <row SECID="KFBA" SECNAME="ИНГРАД ПАО ао" MARKETPRICE="1740" ACCRUEDINT="0.0" />
-<row SECID="KGKC" SECNAME="Курганская генер.комп.ПАО ао" MARKETPRICE="33.2" ACCRUEDINT="0.0" />
+<row SECID="KGKC" SECNAME="Курганская генер.комп.ПАО ао" MARKETPRICE="34.6" ACCRUEDINT="0.0" />
 <row SECID="KGKCP" SECNAME="Курганская генер. комп. ПАО ап" MARKETPRICE="38.8" ACCRUEDINT="0.0" />
 <row SECID="KLSB" SECNAME="ао&quot;Калужская сбыт.комп.&quot;ПАО" MARKETPRICE="18.79" ACCRUEDINT="0.0" />
 <row SECID="KLVZ" SECNAME="Алкогольная Группа Кристалл" MARKETPRICE="1.626" ACCRUEDINT="0.0" />
@@ -384,7 +384,7 @@
 <row SECID="RU000A10EVE8" SECNAME="ЗПИФ ПАРУС-Место встречи" MARKETPRICE="900" ACCRUEDINT="0.0" />
 <row SECID="RU000A10F439" SECNAME="ЗПИФ Альфа Промышленные парки3" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RUAL" SECNAME="РУСАЛ ОК МКПАО ао" MARKETPRICE="21.87" ACCRUEDINT="0.0" />
-<row SECID="RUFO" SECNAME="БПИФ ОЗОН-Валютные облигации" MARKETPRICE="102.16" ACCRUEDINT="0.0" />
+<row SECID="RUFO" SECNAME="БПИФ ОЗОН-Валютные облигации" MARKETPRICE="102.62" ACCRUEDINT="0.0" />
 <row SECID="RUSI" SECNAME="РУСС-ИНВЕСТ ИК ПАО ао" MARKETPRICE="53.9" ACCRUEDINT="0.0" />
 <row SECID="RZSB" SECNAME="&quot;Рязанская энергосб.комп&quot; ПАО" MARKETPRICE="31.6" ACCRUEDINT="0.0" />
 <row SECID="SAFE" SECNAME="БПИФ Первая Консерватив" MARKETPRICE="18.025" ACCRUEDINT="0.0" />
@@ -455,7 +455,7 @@
 <row SECID="TMOS" SECNAME="БПИФ Т-КАПИТАЛ ИНДЕКС МОСБИРЖИ" MARKETPRICE="5" ACCRUEDINT="0.0" />
 <row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" MARKETPRICE="2890" ACCRUEDINT="0.0" />
 <row SECID="TOFZ" SECNAME="БПИФ Т-Капитал ОФЗ" MARKETPRICE="13.3" ACCRUEDINT="0.0" />
-<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="89.88" ACCRUEDINT="0.0" />
+<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="89.02" ACCRUEDINT="0.0" />
 <row SECID="TORS" SECNAME="ао ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.688" ACCRUEDINT="0.0" />
 <row SECID="TORSP" SECNAME="ап ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.516" ACCRUEDINT="0.0" />
 <row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="101.5" ACCRUEDINT="0.0" />
@@ -1196,7 +1196,7 @@
 <row SECID="RU000A104AF5" SECNAME="СберИОС 001Р-506R 5Г GAZP" MARKETPRICE="922.5" ACCRUEDINT="0" />
 <row SECID="RU000A104AH1" SECNAME="СберИОС 001Р-510R 5Г IMOEX" MARKETPRICE="925.7" ACCRUEDINT="0" />
 <row SECID="RU000A104AM1" SECNAME="ДОМ.РФ Ипотечный агент БО 1P17" MARKETPRICE="360.31" ACCRUEDINT="1.84" />
-<row SECID="RU000A104B04" SECNAME="Петербургснаб 001Р-01" MARKETPRICE="119.23" ACCRUEDINT="0.91" />
+<row SECID="RU000A104B04" SECNAME="Петербургснаб 001Р-01" MARKETPRICE="117.81" ACCRUEDINT="0.91" />
 <row SECID="RU000A104B46" SECNAME="ГПБ (АО) БО 001Р-21Р" MARKETPRICE="1020.8" ACCRUEDINT="10.24" />
 <row SECID="RU000A104B79" SECNAME="ДОМ.РФ Ипотечный агент БО 1P16" MARKETPRICE="402.99" ACCRUEDINT="2.05" />
 <row SECID="RU000A104BC0" SECNAME="Калининградская область 35004" MARKETPRICE="703.8" ACCRUEDINT="6.25" />
@@ -3591,7 +3591,7 @@
 <row SECID="RU000A10FNB8" SECNAME="Атомэнергопром АО 001Р-15" MARKETPRICE="998.54" ACCRUEDINT="103.379892" />
 <row SECID="RU000A10FNL7" SECNAME="Ростелеком ПАО 001P-28R" MARKETPRICE="996.0" ACCRUEDINT="1.98" />
 <row SECID="RU000A10FNX2" SECNAME="Совкомбанк Лизинг БО-П22" MARKETPRICE="0.0" ACCRUEDINT="1.48" />
-<row SECID="RU000A10FP83" SECNAME="РЕСО-Лизинг ООО БО-02П-14" MARKETPRICE="1003.9" ACCRUEDINT="1.35" />
+<row SECID="RU000A10FP83" SECNAME="РЕСО-Лизинг ООО БО-02П-14" MARKETPRICE="1021.5" ACCRUEDINT="1.35" />
 <row SECID="RU000A10FP91" SECNAME="Атомэнергопром АО 001Р-17" MARKETPRICE="998.9" ACCRUEDINT="1.29" />
 <row SECID="RU000A10FPA5" SECNAME="Северсталь ПАО 002Р-01" MARKETPRICE="998.9" ACCRUEDINT="1.26" />
 <row SECID="RU000A10FPB3" SECNAME="Нижнекамскнефтехим об. 001Р-04" MARKETPRICE="998.9" ACCRUEDINT="1.27" />
