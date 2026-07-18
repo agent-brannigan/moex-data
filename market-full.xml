@@ -95,7 +95,7 @@
 <row SECID="CNTL" SECNAME="&quot;Центральный Телеграф&quot; ПАО ао" MARKETPRICE="7.26" ACCRUEDINT="0.0" />
 <row SECID="CNTLP" SECNAME="&quot;Центральный Телеграф&quot; ПАО ап" MARKETPRICE="3.77" ACCRUEDINT="0.0" />
 <row SECID="CNYM" SECNAME="Ликвидность. Юань" MARKETPRICE="131.16" ACCRUEDINT="0.0" />
-<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="99.88" ACCRUEDINT="0.0" />
+<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="99.85" ACCRUEDINT="0.0" />
 <row SECID="DATA" SECNAME="Группа Аренадата" MARKETPRICE="63.5" ACCRUEDINT="0.0" />
 <row SECID="DELI" SECNAME="Каршеринг Руссия ао" MARKETPRICE="40.05" ACCRUEDINT="0.0" />
 <row SECID="DIAS" SECNAME="Диасофт ао" MARKETPRICE="931.5" ACCRUEDINT="0.0" />
@@ -237,7 +237,7 @@
 <row SECID="NSVZ" SECNAME="Наука-Связь ПАО ао" MARKETPRICE="194" ACCRUEDINT="0.0" />
 <row SECID="NVTK" SECNAME="ПАО &quot;НОВАТЭК&quot; ао" MARKETPRICE="892.6" ACCRUEDINT="0.0" />
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="203.44" ACCRUEDINT="0.0" />
-<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="98.64" ACCRUEDINT="0.0" />
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.1666" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="39.03" ACCRUEDINT="0.0" />
 <row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.8" ACCRUEDINT="0.0" />
@@ -1895,7 +1895,7 @@
 <row SECID="RU000A1092S9" SECNAME="Элемент Лизинг БО 001P-09" MARKETPRICE="335.0" ACCRUEDINT="1.02" />
 <row SECID="RU000A1092T7" SECNAME="Омега БО-01" MARKETPRICE="407.1" ACCRUEDINT="3.5" />
 <row SECID="RU000A109312" SECNAME="Мобильные ТелеСистемы 002P-06" MARKETPRICE="991.5" ACCRUEDINT="38.51" />
-<row SECID="RU000A1093G2" SECNAME="ДОМ.РФ Ипотечный агент БО 1P46" MARKETPRICE="0.0" ACCRUEDINT="0" />
+<row SECID="RU000A1093G2" SECNAME="ДОМ.РФ Ипотечный агент БО 1P46" MARKETPRICE="587.37" ACCRUEDINT="0" />
 <row SECID="RU000A1093H0" SECNAME="СберИОС 001Р-636R 5Г AC Яндекс" MARKETPRICE="0.0" ACCRUEDINT="0" />
 <row SECID="RU000A1093J6" SECNAME="СберИОС 001Р-637R 5Г AC СБЕР" MARKETPRICE="858.0" ACCRUEDINT="0" />
 <row SECID="RU000A1093K4" SECNAME="СберИОС 001Р-638R 5Г AC MOEXFN" MARKETPRICE="0.0" ACCRUEDINT="0" />
