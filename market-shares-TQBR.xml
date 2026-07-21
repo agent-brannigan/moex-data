@@ -214,7 +214,7 @@
 <row SECID="NSVZ" SECNAME="Наука-Связь ПАО ао" MARKETPRICE="200.5" ACCRUEDINT="0.0" />
 <row SECID="NVTK" SECNAME="ПАО &quot;НОВАТЭК&quot; ао" MARKETPRICE="911" ACCRUEDINT="0.0" />
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="203.2" ACCRUEDINT="0.0" />
-<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="100.95" ACCRUEDINT="0.0" />
+<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="100.67" ACCRUEDINT="0.0" />
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.1706" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="38.74" ACCRUEDINT="0.0" />
 <row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.84" ACCRUEDINT="0.0" />
@@ -432,7 +432,7 @@
 <row SECID="TMOS" SECNAME="БПИФ Т-КАПИТАЛ ИНДЕКС МОСБИРЖИ" MARKETPRICE="4.9" ACCRUEDINT="0.0" />
 <row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" MARKETPRICE="2805" ACCRUEDINT="0.0" />
 <row SECID="TOFZ" SECNAME="БПИФ Т-Капитал ОФЗ" MARKETPRICE="13.26" ACCRUEDINT="0.0" />
-<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="96.65" ACCRUEDINT="0.0" />
+<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="98.53" ACCRUEDINT="0.0" />
 <row SECID="TORS" SECNAME="ао ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.67" ACCRUEDINT="0.0" />
 <row SECID="TORSP" SECNAME="ап ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.481" ACCRUEDINT="0.0" />
 <row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="100.96" ACCRUEDINT="0.0" />
@@ -474,7 +474,7 @@
 <row SECID="X5" SECNAME="Корпоративный центр ИКС 5" MARKETPRICE="1846" ACCRUEDINT="0.0" />
 <row SECID="XACCSK" SECNAME="ЗПИФ Акцент 5" MARKETPRICE="946" ACCRUEDINT="0.0" />
 <row SECID="XAVIUM" SECNAME="ЗПИФ Авиум" MARKETPRICE="850" ACCRUEDINT="0.0" />
-<row SECID="XCREDI" SECNAME="ЗПИФ РЕКОРД Кредитный ресурс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="XCREDI" SECNAME="ЗПИФ РЕКОРД Кредитный ресурс" MARKETPRICE="900" ACCRUEDINT="0.0" />
 <row SECID="XEQTRU" SECNAME="ИПИФ Астра Рос акции 120/80" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XFMAGR" SECNAME="Финам Алгоритм роста" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XFMAGY" SECNAME="Финам Алгоритм роста в юанях" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
