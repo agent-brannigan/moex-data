@@ -95,7 +95,7 @@
 <row SECID="CNTL" SECNAME="&quot;Центральный Телеграф&quot; ПАО ао" MARKETPRICE="7.7" ACCRUEDINT="0.0" />
 <row SECID="CNTLP" SECNAME="&quot;Центральный Телеграф&quot; ПАО ап" MARKETPRICE="4.02" ACCRUEDINT="0.0" />
 <row SECID="CNYM" SECNAME="Ликвидность. Юань" MARKETPRICE="131.19" ACCRUEDINT="0.0" />
-<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="101.51" ACCRUEDINT="0.0" />
+<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="101.02" ACCRUEDINT="0.0" />
 <row SECID="DATA" SECNAME="Группа Аренадата" MARKETPRICE="68.3" ACCRUEDINT="0.0" />
 <row SECID="DELI" SECNAME="Каршеринг Руссия ао" MARKETPRICE="44.6" ACCRUEDINT="0.0" />
 <row SECID="DIAS" SECNAME="Диасофт ао" MARKETPRICE="1029" ACCRUEDINT="0.0" />
@@ -237,7 +237,7 @@
 <row SECID="NSVZ" SECNAME="Наука-Связь ПАО ао" MARKETPRICE="208" ACCRUEDINT="0.0" />
 <row SECID="NVTK" SECNAME="ПАО &quot;НОВАТЭК&quot; ао" MARKETPRICE="1006.1" ACCRUEDINT="0.0" />
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="204.78" ACCRUEDINT="0.0" />
-<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="105.33" ACCRUEDINT="0.0" />
+<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="104.49" ACCRUEDINT="0.0" />
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.1887" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="41.06" ACCRUEDINT="0.0" />
 <row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.97" ACCRUEDINT="0.0" />
@@ -455,7 +455,7 @@
 <row SECID="TMOS" SECNAME="БПИФ Т-КАПИТАЛ ИНДЕКС МОСБИРЖИ" MARKETPRICE="5.3" ACCRUEDINT="0.0" />
 <row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" MARKETPRICE="2910" ACCRUEDINT="0.0" />
 <row SECID="TOFZ" SECNAME="БПИФ Т-Капитал ОФЗ" MARKETPRICE="13.82" ACCRUEDINT="0.0" />
-<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="104.74" ACCRUEDINT="0.0" />
+<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="104.12" ACCRUEDINT="0.0" />
 <row SECID="TORS" SECNAME="ао ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.668" ACCRUEDINT="0.0" />
 <row SECID="TORSP" SECNAME="ап ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.497" ACCRUEDINT="0.0" />
 <row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="101.82" ACCRUEDINT="0.0" />
@@ -3528,7 +3528,7 @@
 <row SECID="RU000A10FEA9" SECNAME="МКПАО ЯНДЕКС 001Р-04" MARKETPRICE="1002.0" ACCRUEDINT="3.82" />
 <row SECID="RU000A10FEB7" SECNAME="МКПАО ЯНДЕКС 001Р-05" MARKETPRICE="993.9" ACCRUEDINT="3.3" />
 <row SECID="RU000A10FED3" SECNAME="Банк ВТБ (ПАО) Б-1-405" MARKETPRICE="0.0" ACCRUEDINT="0" />
-<row SECID="RU000A10FEE1" SECNAME="Банк ВТБ (ПАО) Б-1-406" MARKETPRICE="0.0" ACCRUEDINT="0" />
+<row SECID="RU000A10FEE1" SECNAME="Банк ВТБ (ПАО) Б-1-406" MARKETPRICE="1000.0" ACCRUEDINT="0" />
 <row SECID="RU000A10FEM4" SECNAME="Банк ВТБ (ПАО) Б-1-403" MARKETPRICE="0.0" ACCRUEDINT="0" />
 <row SECID="RU000A10FEN2" SECNAME="СФО СБ Секьюритизация 5 кл.АР1" MARKETPRICE="0.0" ACCRUEDINT="6.06" />
 <row SECID="RU000A10FEP7" SECNAME="СФО СБ Секьюритизация 5 кл.АC" MARKETPRICE="994.8" ACCRUEDINT="6.06" />
