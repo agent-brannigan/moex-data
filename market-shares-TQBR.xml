@@ -483,6 +483,7 @@
 <row SECID="XFMOMB" SECNAME="Финам Омега Баланс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XHEDGE" SECNAME="ИПИФ ГПБ-Тактические решения" MARKETPRICE="262.35" ACCRUEDINT="0.0" />
 <row SECID="XHOUSE" SECNAME="ЗПИФ Инвестиции в недв" MARKETPRICE="809" ACCRUEDINT="0.0" />
+<row SECID="XIPKSV" SECNAME="ИПИФ Стабильные вложения" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XKLUCH" SECNAME="ИПИФ Ключевой актив" MARKETPRICE="10.584" ACCRUEDINT="0.0" />
 <row SECID="XNIRUM" SECNAME="КЗПИФ НИРУМ капитал" MARKETPRICE="1013.2" ACCRUEDINT="0.0" />
 <row SECID="XQUANT" SECNAME="ИПИФ РЕКОРД КАПИТАЛ КВАНТ" MARKETPRICE="1240.3" ACCRUEDINT="0.0" />
