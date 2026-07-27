@@ -72,7 +72,7 @@
 <row SECID="CNTL" SECNAME="&quot;Центральный Телеграф&quot; ПАО ао" MARKETPRICE="7.7" ACCRUEDINT="0.0" />
 <row SECID="CNTLP" SECNAME="&quot;Центральный Телеграф&quot; ПАО ап" MARKETPRICE="4.02" ACCRUEDINT="0.0" />
 <row SECID="CNYM" SECNAME="Ликвидность. Юань" MARKETPRICE="131.19" ACCRUEDINT="0.0" />
-<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="101.02" ACCRUEDINT="0.0" />
+<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="101.49" ACCRUEDINT="0.0" />
 <row SECID="DATA" SECNAME="Группа Аренадата" MARKETPRICE="68.3" ACCRUEDINT="0.0" />
 <row SECID="DELI" SECNAME="Каршеринг Руссия ао" MARKETPRICE="44.6" ACCRUEDINT="0.0" />
 <row SECID="DIAS" SECNAME="Диасофт ао" MARKETPRICE="1029" ACCRUEDINT="0.0" />
@@ -214,7 +214,7 @@
 <row SECID="NSVZ" SECNAME="Наука-Связь ПАО ао" MARKETPRICE="208" ACCRUEDINT="0.0" />
 <row SECID="NVTK" SECNAME="ПАО &quot;НОВАТЭК&quot; ао" MARKETPRICE="1006.1" ACCRUEDINT="0.0" />
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="204.78" ACCRUEDINT="0.0" />
-<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="103.2" ACCRUEDINT="0.0" />
+<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="102.41" ACCRUEDINT="0.0" />
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.1887" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="41.06" ACCRUEDINT="0.0" />
 <row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="100.97" ACCRUEDINT="0.0" />
@@ -280,7 +280,7 @@
 <row SECID="RU000A0ZZ5R2" SECNAME="ПИФ Современ Арендный бизнес 3" MARKETPRICE="898" ACCRUEDINT="0.0" />
 <row SECID="RU000A0ZZCD8" SECNAME="ИПИФ Мировые инвестиции УКАтон" MARKETPRICE="2820" ACCRUEDINT="0.0" />
 <row SECID="RU000A0ZZMD7" SECNAME="ОПИФ РСХБ – Фонд Облигаций" MARKETPRICE="3250" ACCRUEDINT="0.0" />
-<row SECID="RU000A0ZZME5" SECNAME="ОПИФ РСХБ – Казначейский" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="RU000A0ZZME5" SECNAME="ОПИФ РСХБ – Казначейский" MARKETPRICE="3340.5" ACCRUEDINT="0.0" />
 <row SECID="RU000A0ZZML0" SECNAME="ОПИФ РСХБ Сбалансированный" MARKETPRICE="2940" ACCRUEDINT="0.0" />
 <row SECID="RU000A0ZZMN6" SECNAME="ОПИФ РСХБ – Фонд Акций" MARKETPRICE="3730" ACCRUEDINT="0.0" />
 <row SECID="RU000A0ZZVH9" SECNAME="ПИФ Газпромбанк-Еврооблигации" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
@@ -361,7 +361,7 @@
 <row SECID="RU000A10EVE8" SECNAME="ЗПИФ ПАРУС-Место встречи" MARKETPRICE="899" ACCRUEDINT="0.0" />
 <row SECID="RU000A10F439" SECNAME="ЗПИФ Альфа Промышленные парки3" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RUAL" SECNAME="РУСАЛ ОК МКПАО ао" MARKETPRICE="22.67" ACCRUEDINT="0.0" />
-<row SECID="RUFO" SECNAME="БПИФ ОЗОН-Валютные облигации" MARKETPRICE="102.01" ACCRUEDINT="0.0" />
+<row SECID="RUFO" SECNAME="БПИФ ОЗОН-Валютные облигации" MARKETPRICE="102.63" ACCRUEDINT="0.0" />
 <row SECID="RUSI" SECNAME="РУСС-ИНВЕСТ ИК ПАО ао" MARKETPRICE="52.3" ACCRUEDINT="0.0" />
 <row SECID="RZSB" SECNAME="&quot;Рязанская энергосб.комп&quot; ПАО" MARKETPRICE="32.22" ACCRUEDINT="0.0" />
 <row SECID="SAFE" SECNAME="БПИФ Первая Консерватив" MARKETPRICE="18.085" ACCRUEDINT="0.0" />
