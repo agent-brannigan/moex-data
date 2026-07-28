@@ -237,7 +237,7 @@
 <row SECID="NSVZ" SECNAME="Наука-Связь ПАО ао" MARKETPRICE="215" ACCRUEDINT="0.0" />
 <row SECID="NVTK" SECNAME="ПАО &quot;НОВАТЭК&quot; ао" MARKETPRICE="999.9" ACCRUEDINT="0.0" />
 <row SECID="OBLG" SECNAME="БПИФ Российскиеоблигации УКВИМ" MARKETPRICE="206.5" ACCRUEDINT="0.0" />
-<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="103.46" ACCRUEDINT="0.0" />
+<row SECID="OFZS" SECNAME="БПИФ УК ОЗОН-ОФЗ" MARKETPRICE="102.38" ACCRUEDINT="0.0" />
 <row SECID="OGKB" SECNAME="ОГК-2 ПАО ао" MARKETPRICE="0.2089" ACCRUEDINT="0.0" />
 <row SECID="OKEY" SECNAME="ГДР OKEY Group S.A. ORD SHS" MARKETPRICE="42.77" ACCRUEDINT="0.0" />
 <row SECID="OLIQ" SECNAME="БПИФ Озон Денежный рынок" MARKETPRICE="101.09" ACCRUEDINT="0.0" />
@@ -384,7 +384,7 @@
 <row SECID="RU000A10EVE8" SECNAME="ЗПИФ ПАРУС-Место встречи" MARKETPRICE="899" ACCRUEDINT="0.0" />
 <row SECID="RU000A10F439" SECNAME="ЗПИФ Альфа Промышленные парки3" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RUAL" SECNAME="РУСАЛ ОК МКПАО ао" MARKETPRICE="23.63" ACCRUEDINT="0.0" />
-<row SECID="RUFO" SECNAME="БПИФ ОЗОН-Валютные облигации" MARKETPRICE="104.35" ACCRUEDINT="0.0" />
+<row SECID="RUFO" SECNAME="БПИФ ОЗОН-Валютные облигации" MARKETPRICE="104.36" ACCRUEDINT="0.0" />
 <row SECID="RUSI" SECNAME="РУСС-ИНВЕСТ ИК ПАО ао" MARKETPRICE="53.7" ACCRUEDINT="0.0" />
 <row SECID="RZSB" SECNAME="&quot;Рязанская энергосб.комп&quot; ПАО" MARKETPRICE="32.68" ACCRUEDINT="0.0" />
 <row SECID="SAFE" SECNAME="БПИФ Первая Консерватив" MARKETPRICE="18.145" ACCRUEDINT="0.0" />
@@ -1275,7 +1275,7 @@
 <row SECID="RU000A1057D4" SECNAME="МЕТАЛЛОИНВЕСТ 001P-02" MARKETPRICE="949.19" ACCRUEDINT="54.843768" />
 <row SECID="RU000A1057P8" SECNAME="РусГидро (ПАО) БО-П06" MARKETPRICE="991.7" ACCRUEDINT="31.21" />
 <row SECID="RU000A1057S2" SECNAME="ПАО НК Роснефть 002P-12" MARKETPRICE="999.61" ACCRUEDINT="274.910148" />
-<row SECID="RU000A105898" SECNAME="ДОМ.РФ Ипотечный агент БО 1P21" MARKETPRICE="0.0" ACCRUEDINT="0.13" />
+<row SECID="RU000A105898" SECNAME="ДОМ.РФ Ипотечный агент БО 1P21" MARKETPRICE="504.09" ACCRUEDINT="0.13" />
 <row SECID="RU000A1058R2" SECNAME="ДОМ.РФ Ипотечный агент БО 1P22" MARKETPRICE="0.0" ACCRUEDINT="0.26" />
 <row SECID="RU000A1059N9" SECNAME="ПАО &quot;ЛУКОЙЛ&quot; ЗО-26" MARKETPRICE="991.72" ACCRUEDINT="895.637456" />
 <row SECID="RU000A1059P4" SECNAME="ПАО &quot;ЛУКОЙЛ&quot; ЗО-27" MARKETPRICE="970.24" ACCRUEDINT="564.064356" />
