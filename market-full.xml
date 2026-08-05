@@ -95,7 +95,7 @@
 <row SECID="CNTL" SECNAME="&quot;Центральный Телеграф&quot; ПАО ао" MARKETPRICE="8.78" ACCRUEDINT="0.0" />
 <row SECID="CNTLP" SECNAME="&quot;Центральный Телеграф&quot; ПАО ап" MARKETPRICE="4.62" ACCRUEDINT="0.0" />
 <row SECID="CNYM" SECNAME="Ликвидность. Юань" MARKETPRICE="135.94" ACCRUEDINT="0.0" />
-<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="102.16" ACCRUEDINT="0.0" />
 <row SECID="DATA" SECNAME="Группа Аренадата" MARKETPRICE="86.7" ACCRUEDINT="0.0" />
 <row SECID="DELI" SECNAME="Каршеринг Руссия ао" MARKETPRICE="51.25" ACCRUEDINT="0.0" />
 <row SECID="DIAS" SECNAME="Диасофт ао" MARKETPRICE="1094.5" ACCRUEDINT="0.0" />
@@ -455,7 +455,7 @@
 <row SECID="TMOS" SECNAME="БПИФ Т-КАПИТАЛ ИНДЕКС МОСБИРЖИ" MARKETPRICE="5.62" ACCRUEDINT="0.0" />
 <row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" MARKETPRICE="3065" ACCRUEDINT="0.0" />
 <row SECID="TOFZ" SECNAME="БПИФ Т-Капитал ОФЗ" MARKETPRICE="13.99" ACCRUEDINT="0.0" />
-<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="107.54" ACCRUEDINT="0.0" />
 <row SECID="TORS" SECNAME="ао ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.692" ACCRUEDINT="0.0" />
 <row SECID="TORSP" SECNAME="ап ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.582" ACCRUEDINT="0.0" />
 <row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="101.67" ACCRUEDINT="0.0" />
@@ -690,7 +690,7 @@
 <row SECID="RU000A0JXE06" SECNAME="ГосТранспортЛизингКомп 001P-03" MARKETPRICE="984.9" ACCRUEDINT="3.15" />
 <row SECID="RU000A0JXGV0" SECNAME="АКБ ПЕРЕСВЕТ ПАО С01" MARKETPRICE="0.0" ACCRUEDINT="0" />
 <row SECID="RU000A0JXJK7" SECNAME="&quot;Российские ЖД&quot; ОАО БО-11" MARKETPRICE="0.0" ACCRUEDINT="41.71" />
-<row SECID="RU000A0JXK99" SECNAME="ТрансФин-М ПАО 001P-02" MARKETPRICE="0.0" ACCRUEDINT="85.37" />
+<row SECID="RU000A0JXK99" SECNAME="ТрансФин-М ПАО 001P-02" MARKETPRICE="1037.7" ACCRUEDINT="85.37" />
 <row SECID="RU000A0JXLU2" SECNAME="СФО Локосервис финанс ООО 01" MARKETPRICE="0.0" ACCRUEDINT="0" />
 <row SECID="RU000A0JXMP0" SECNAME="Почта России (АО) БО-04" MARKETPRICE="0.0" ACCRUEDINT="52.91" />
 <row SECID="RU000A0JXN05" SECNAME="&quot;Российские ЖД&quot; БО-001P-01R" MARKETPRICE="1047.2" ACCRUEDINT="36.3" />
