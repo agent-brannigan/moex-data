@@ -72,7 +72,7 @@
 <row SECID="CNTL" SECNAME="&quot;Центральный Телеграф&quot; ПАО ао" MARKETPRICE="8.8" ACCRUEDINT="0.0" />
 <row SECID="CNTLP" SECNAME="&quot;Центральный Телеграф&quot; ПАО ап" MARKETPRICE="4.59" ACCRUEDINT="0.0" />
 <row SECID="CNYM" SECNAME="Ликвидность. Юань" MARKETPRICE="136.53" ACCRUEDINT="0.0" />
-<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="102.26" ACCRUEDINT="0.0" />
+<row SECID="CORP" SECNAME="БПИФ ОЗОН-Рублевые облигации" MARKETPRICE="102.28" ACCRUEDINT="0.0" />
 <row SECID="DATA" SECNAME="Группа Аренадата" MARKETPRICE="90.88" ACCRUEDINT="0.0" />
 <row SECID="DELI" SECNAME="Каршеринг Руссия ао" MARKETPRICE="51.25" ACCRUEDINT="0.0" />
 <row SECID="DIAS" SECNAME="Диасофт ао" MARKETPRICE="1156" ACCRUEDINT="0.0" />
@@ -269,7 +269,7 @@
 <row SECID="RU000A0JR2C1" SECNAME="ОПИФ ВИМ Казначейский" MARKETPRICE="111" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JRHC0" SECNAME="ПИФ АТРИУМ УК ВЕЛЕС ТР" MARKETPRICE="2955" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JRUQ3" SECNAME="ОПИФ ТКБИП Сбалансированный" MARKETPRICE="9100" ACCRUEDINT="0.0" />
-<row SECID="RU000A0JUR61" SECNAME="УК ПЕРАМО ИН ПИФ КОНСЕРВАТОРия" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="RU000A0JUR61" SECNAME="УК ПЕРАМО ИН ПИФ КОНСЕРВАТОРия" MARKETPRICE="2600" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JUYB1" SECNAME="ЗПИФ Лофтинвест" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JVJ29" SECNAME="ОПИФ БКС Драгоценные Металлы" MARKETPRICE="295" ACCRUEDINT="0.0" />
 <row SECID="RU000A0JWCE7" SECNAME="ЗПИФ Недвижимости Перловский" MARKETPRICE="1390" ACCRUEDINT="0.0" />
@@ -433,7 +433,7 @@
 <row SECID="TMOS" SECNAME="БПИФ Т-КАПИТАЛ ИНДЕКС МОСБИРЖИ" MARKETPRICE="5.7" ACCRUEDINT="0.0" />
 <row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" MARKETPRICE="3170" ACCRUEDINT="0.0" />
 <row SECID="TOFZ" SECNAME="БПИФ Т-Капитал ОФЗ" MARKETPRICE="13.99" ACCRUEDINT="0.0" />
-<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="109.75" ACCRUEDINT="0.0" />
+<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="109.65" ACCRUEDINT="0.0" />
 <row SECID="TORS" SECNAME="ао ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.692" ACCRUEDINT="0.0" />
 <row SECID="TORSP" SECNAME="ап ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.592" ACCRUEDINT="0.0" />
 <row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="101.77" ACCRUEDINT="0.0" />
@@ -441,7 +441,7 @@
 <row SECID="TRND" SECNAME="БПИФ Т-Капитал Трендовые акции" MARKETPRICE="8.71" ACCRUEDINT="0.0" />
 <row SECID="TRNFP" SECNAME="Транснефть ПАО акц.пр." MARKETPRICE="1111.4" ACCRUEDINT="0.0" />
 <row SECID="TRUR" SECNAME="БПИФ Т-Кап ВЕЧНЫЙ ПОРТФ РУБ" MARKETPRICE="9.86" ACCRUEDINT="0.0" />
-<row SECID="TSAV" SECNAME="Т-Капитал Накопительный" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="TSAV" SECNAME="Т-Капитал Накопительный" MARKETPRICE="5.06" ACCRUEDINT="0.0" />
 <row SECID="TTLK" SECNAME="&quot;Таттелеком&quot; ПАО ао" MARKETPRICE="0.5795" ACCRUEDINT="0.0" />
 <row SECID="TUSD" SECNAME="БПИФ ТКАПИТАЛ ВЕЧНЫЙ ПОРТФ Д" MARKETPRICE="7.04" ACCRUEDINT="0.0" />
 <row SECID="TUZA" SECNAME="Туймаз. завод автобетоновозов" MARKETPRICE="108" ACCRUEDINT="0.0" />
@@ -484,12 +484,12 @@
 <row SECID="XFMOMB" SECNAME="Финам Омега Баланс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XHEDGE" SECNAME="ИПИФ ГПБ-Тактические решения" MARKETPRICE="263.3" ACCRUEDINT="0.0" />
 <row SECID="XHOUSE" SECNAME="ЗПИФ Инвестиции в недв" MARKETPRICE="898" ACCRUEDINT="0.0" />
-<row SECID="XIPKSV" SECNAME="ИПИФ Стабильные вложения" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="XIPKSV" SECNAME="ИПИФ Стабильные вложения" MARKETPRICE="10940" ACCRUEDINT="0.0" />
 <row SECID="XKLUCH" SECNAME="ИПИФ Ключевой актив" MARKETPRICE="10.621" ACCRUEDINT="0.0" />
 <row SECID="XNIRUM" SECNAME="КЗПИФ НИРУМ капитал" MARKETPRICE="1016.2" ACCRUEDINT="0.0" />
 <row SECID="XQUANT" SECNAME="ИПИФ РЕКОРД КАПИТАЛ КВАНТ" MARKETPRICE="1240" ACCRUEDINT="0.0" />
 <row SECID="XSBORA" SECNAME="ЗПИФ Термы Бора-Бора" MARKETPRICE="6520" ACCRUEDINT="0.0" />
-<row SECID="XSECUR" SECNAME="Т-Капитал Обеспеченные Активы" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="XSECUR" SECNAME="Т-Капитал Обеспеченные Активы" MARKETPRICE="10.15" ACCRUEDINT="0.0" />
 <row SECID="XSKLAD" SECNAME="ЗПИФ Современный 10" MARKETPRICE="106.64" ACCRUEDINT="0.0" />
 <row SECID="XTRIUMF" SECNAME="ЗПИФ ПАРУС-ТРИУМФ" MARKETPRICE="841" ACCRUEDINT="0.0" />
 <row SECID="XXRONE" SECNAME="ИПИФ Астра Облигации Р1" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
