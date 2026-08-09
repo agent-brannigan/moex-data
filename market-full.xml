@@ -456,7 +456,7 @@
 <row SECID="TMOS" SECNAME="БПИФ Т-КАПИТАЛ ИНДЕКС МОСБИРЖИ" MARKETPRICE="5.69" ACCRUEDINT="0.0" />
 <row SECID="TNSE" SECNAME="ПАО ГК &quot;ТНС энерго&quot; ао" MARKETPRICE="3200" ACCRUEDINT="0.0" />
 <row SECID="TOFZ" SECNAME="БПИФ Т-Капитал ОФЗ" MARKETPRICE="14.11" ACCRUEDINT="0.0" />
-<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="108.4" ACCRUEDINT="0.0" />
+<row SECID="TOPS" SECNAME="БПИФ ОЗОН-Акции индекса ММВБ" MARKETPRICE="109.77" ACCRUEDINT="0.0" />
 <row SECID="TORS" SECNAME="ао ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.69" ACCRUEDINT="0.0" />
 <row SECID="TORSP" SECNAME="ап ПАО &quot;Россети Томск&quot;" MARKETPRICE="0.603" ACCRUEDINT="0.0" />
 <row SECID="TPAY" SECNAME="Т-Капитал Пассивный Доход" MARKETPRICE="101.77" ACCRUEDINT="0.0" />
@@ -817,7 +817,7 @@
 <row SECID="RU000A0ZZCH9" SECNAME="ДОМ.РФ Ипотечный агент 05-002P" MARKETPRICE="99.46" ACCRUEDINT="0.34" />
 <row SECID="RU000A0ZZCX6" SECNAME="Концерн РОССИУМ ООО 001P-01" MARKETPRICE="0.0" ACCRUEDINT="17.12" />
 <row SECID="RU000A0ZZDB0" SECNAME="ЕАБР БО 001Р-01" MARKETPRICE="0.0" ACCRUEDINT="6.29" />
-<row SECID="RU000A0ZZE87" SECNAME="МОСКОВСКИЙ КРЕДИТНЫЙ БАНК 15" MARKETPRICE="0.0" ACCRUEDINT="11.51" />
+<row SECID="RU000A0ZZE87" SECNAME="МОСКОВСКИЙ КРЕДИТНЫЙ БАНК 15" MARKETPRICE="995.0" ACCRUEDINT="11.51" />
 <row SECID="RU000A0ZZFZ4" SECNAME="ГПБ (АО) 01-АТ1" MARKETPRICE="0.0" ACCRUEDINT="4.22" />
 <row SECID="RU000A0ZZGT5" SECNAME="РЖД ОАО БО 001Р-08R" MARKETPRICE="995.7" ACCRUEDINT="2.19" />
 <row SECID="RU000A0ZZNL8" SECNAME="Сфера финансов БО-01Р-02" MARKETPRICE="999.1" ACCRUEDINT="34.14" />
