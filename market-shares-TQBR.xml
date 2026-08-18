@@ -362,7 +362,7 @@
 <row SECID="RU000A10EVE8" SECNAME="ЗПИФ ПАРУС-Место встречи" MARKETPRICE="898" ACCRUEDINT="0.0" />
 <row SECID="RU000A10F439" SECNAME="ЗПИФ Альфа Промышленные парки3" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="RU000A10FDU9" SECNAME="ОПИФ РСХБ - СмартАгро" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="RU000A10FQ17" SECNAME="БКС Ден рынок с выпл дохода" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="RU000A10FQ17" SECNAME="БКС Ден рынок с выпл дохода" MARKETPRICE="502.3" ACCRUEDINT="0.0" />
 <row SECID="RUAL" SECNAME="РУСАЛ ОК МКПАО ао" MARKETPRICE="24.925" ACCRUEDINT="0.0" />
 <row SECID="RUFO" SECNAME="БПИФ ОЗОН-Валютные облигации" MARKETPRICE="109.56" ACCRUEDINT="0.0" />
 <row SECID="RUSI" SECNAME="РУСС-ИНВЕСТ ИК ПАО ао" MARKETPRICE="55.3" ACCRUEDINT="0.0" />
@@ -443,7 +443,7 @@
 <row SECID="TRND" SECNAME="БПИФ Т-Капитал Трендовые акции" MARKETPRICE="8.38" ACCRUEDINT="0.0" />
 <row SECID="TRNFP" SECNAME="Транснефть ПАО акц.пр." MARKETPRICE="1007.4" ACCRUEDINT="0.0" />
 <row SECID="TRUR" SECNAME="БПИФ Т-Кап ВЕЧНЫЙ ПОРТФ РУБ" MARKETPRICE="9.9" ACCRUEDINT="0.0" />
-<row SECID="TSAV" SECNAME="Т-Капитал Накопительный" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="TSAV" SECNAME="Т-Капитал Накопительный" MARKETPRICE="5.09" ACCRUEDINT="0.0" />
 <row SECID="TTLK" SECNAME="&quot;Таттелеком&quot; ПАО ао" MARKETPRICE="0.5435" ACCRUEDINT="0.0" />
 <row SECID="TUSD" SECNAME="БПИФ ТКАПИТАЛ ВЕЧНЫЙ ПОРТФ Д" MARKETPRICE="7.07" ACCRUEDINT="0.0" />
 <row SECID="TUZA" SECNAME="Туймаз. завод автобетоновозов" MARKETPRICE="86.2" ACCRUEDINT="0.0" />
