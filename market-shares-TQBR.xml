@@ -443,7 +443,7 @@
 <row SECID="TRND" SECNAME="БПИФ Т-Капитал Трендовые акции" MARKETPRICE="8.26" ACCRUEDINT="0.0" />
 <row SECID="TRNFP" SECNAME="Транснефть ПАО акц.пр." MARKETPRICE="1020.6" ACCRUEDINT="0.0" />
 <row SECID="TRUR" SECNAME="БПИФ Т-Кап ВЕЧНЫЙ ПОРТФ РУБ" MARKETPRICE="9.91" ACCRUEDINT="0.0" />
-<row SECID="TSAV" SECNAME="Т-Капитал Накопительный" MARKETPRICE="5.09" ACCRUEDINT="0.0" />
+<row SECID="TSAV" SECNAME="Т-Капитал Накопительный" MARKETPRICE="5.1" ACCRUEDINT="0.0" />
 <row SECID="TTLK" SECNAME="&quot;Таттелеком&quot; ПАО ао" MARKETPRICE="0.563" ACCRUEDINT="0.0" />
 <row SECID="TUSD" SECNAME="БПИФ ТКАПИТАЛ ВЕЧНЫЙ ПОРТФ Д" MARKETPRICE="7.08" ACCRUEDINT="0.0" />
 <row SECID="TUZA" SECNAME="Туймаз. завод автобетоновозов" MARKETPRICE="91" ACCRUEDINT="0.0" />
@@ -482,7 +482,7 @@
 <row SECID="XEQTRU" SECNAME="ИПИФ Астра Рос акции 120/80" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XFMAGR" SECNAME="Финам Алгоритм роста" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XFMAGY" SECNAME="Финам Алгоритм роста в юанях" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-<row SECID="XFMAIN" SECNAME="Финам Абсолютный доход" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+<row SECID="XFMAIN" SECNAME="Финам Абсолютный доход" MARKETPRICE="2160000" ACCRUEDINT="0.0" />
 <row SECID="XFMOMB" SECNAME="Финам Омега Баланс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
 <row SECID="XHEDGE" SECNAME="ИПИФ ГПБ-Тактические решения" MARKETPRICE="264.9" ACCRUEDINT="0.0" />
 <row SECID="XHOUSE" SECNAME="ЗПИФ Инвестиции в недв" MARKETPRICE="959" ACCRUEDINT="0.0" />
