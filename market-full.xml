@@ -604,8 +604,8 @@
       <row SECID="RU000A0JR4U9" SECNAME="Главная дорога АО об.сер. 03" MARKETPRICE="0.00" ACCRUEDINT="34.87" />
       <row SECID="RU000A0JRJB8" SECNAME="Запад.скор.диаметр АО об.01" MARKETPRICE="0.00" ACCRUEDINT="34.04" />
       <row SECID="RU000A0JRJL7" SECNAME="Запад.скор.диаметр АО об.02" MARKETPRICE="966.70" ACCRUEDINT="34.04" />
-      <row SECID="RU000A0JRU20" SECNAME="Северо-Зап.концес.комп. сер.03" MARKETPRICE="547.21" ACCRUEDINT="22.84" />
-      <row SECID="RU000A0JRU46" SECNAME="Северо-Зап.концес.комп. сер.04" MARKETPRICE="0.00" ACCRUEDINT="22.84" />
+      <row SECID="RU000A0JRU20" SECNAME="Северо-Зап.концес.комп. сер.03" MARKETPRICE="542.17" ACCRUEDINT="22.84" />
+      <row SECID="RU000A0JRU46" SECNAME="Северо-Зап.концес.комп. сер.04" MARKETPRICE="547.21" ACCRUEDINT="22.84" />
       <row SECID="RU000A0JS4J1" SECNAME="Запад.скор.диаметр АО об.03" MARKETPRICE="0.00" ACCRUEDINT="8.63" />
       <row SECID="RU000A0JS4K9" SECNAME="Запад.скор.диаметр АО об.04" MARKETPRICE="0.00" ACCRUEDINT="8.63" />
       <row SECID="RU000A0JS4L7" SECNAME="Запад.скор.диаметр АО об.05" MARKETPRICE="0.00" ACCRUEDINT="8.63" />
@@ -3508,7 +3508,7 @@
       <row SECID="RU000A10FPB3" SECNAME="Нижнекамскнефтехим об. 001Р-04" MARKETPRICE="998.10" ACCRUEDINT="0" />
       <row SECID="RU000A10FPC1" SECNAME="Совкомбанк БО-И21" MARKETPRICE="0.00" ACCRUEDINT="0.01" />
       <row SECID="RU000A10FPD9" SECNAME="Банк ВТБ (ПАО) Б-1-414" MARKETPRICE="840.10" ACCRUEDINT="0" />
-      <row SECID="RU000A10FPE7" SECNAME="Банк ВТБ (ПАО) Б-1-415" MARKETPRICE="0.00" ACCRUEDINT="0" />
+      <row SECID="RU000A10FPE7" SECNAME="Банк ВТБ (ПАО) Б-1-415" MARKETPRICE="911.50" ACCRUEDINT="0" />
       <row SECID="RU000A10FPF4" SECNAME="Банк ВТБ (ПАО) Б-1-416" MARKETPRICE="0.00" ACCRUEDINT="0" />
       <row SECID="RU000A10FPG2" SECNAME="Банк ВТБ (ПАО) Б-1-417" MARKETPRICE="0.00" ACCRUEDINT="0" />
       <row SECID="RU000A10FPN8" SECNAME="ТАЛК003P-01" MARKETPRICE="1000.70" ACCRUEDINT="15.76" />
