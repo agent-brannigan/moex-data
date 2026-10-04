@@ -14,7 +14,7 @@
       <row SECID="RU000A0JRJB8" SECNAME="Запад.скор.диаметр АО об.01" MARKETPRICE="0.00" ACCRUEDINT="40.04" />
       <row SECID="RU000A0JRJL7" SECNAME="Запад.скор.диаметр АО об.02" MARKETPRICE="0.00" ACCRUEDINT="40.04" />
       <row SECID="RU000A0JRU20" SECNAME="Северо-Зап.концес.комп. сер.03" MARKETPRICE="488.35" ACCRUEDINT="0.54" />
-      <row SECID="RU000A0JRU46" SECNAME="Северо-Зап.концес.комп. сер.04" MARKETPRICE="511.47" ACCRUEDINT="0.54" />
+      <row SECID="RU000A0JRU46" SECNAME="Северо-Зап.концес.комп. сер.04" MARKETPRICE="511.10" ACCRUEDINT="0.54" />
       <row SECID="RU000A0JS4J1" SECNAME="Запад.скор.диаметр АО об.03" MARKETPRICE="0.00" ACCRUEDINT="14.29" />
       <row SECID="RU000A0JS4K9" SECNAME="Запад.скор.диаметр АО об.04" MARKETPRICE="0.00" ACCRUEDINT="14.29" />
       <row SECID="RU000A0JS4L7" SECNAME="Запад.скор.диаметр АО об.05" MARKETPRICE="0.00" ACCRUEDINT="14.29" />
@@ -2795,7 +2795,7 @@
       <row SECID="RU000A10FED3" SECNAME="Банк ВТБ (ПАО) Б-1-405" MARKETPRICE="887.60" ACCRUEDINT="0" />
       <row SECID="RU000A10FEE1" SECNAME="Банк ВТБ (ПАО) Б-1-406" MARKETPRICE="863.90" ACCRUEDINT="0" />
       <row SECID="RU000A10FEF8" SECNAME="Банк ВТБ (ПАО) Б-1-407" MARKETPRICE="0.00" ACCRUEDINT="0" />
-      <row SECID="RU000A10FEG6" SECNAME="Банк ВТБ (ПАО) Б-1-408" MARKETPRICE="0.00" ACCRUEDINT="0" />
+      <row SECID="RU000A10FEG6" SECNAME="Банк ВТБ (ПАО) Б-1-408" MARKETPRICE="931.20" ACCRUEDINT="0" />
       <row SECID="RU000A10FEH4" SECNAME="Банк ВТБ (ПАО) Б-1-409" MARKETPRICE="0.00" ACCRUEDINT="0" />
       <row SECID="RU000A10FEJ0" SECNAME="Банк ВТБ (ПАО) Б-1-410" MARKETPRICE="0.00" ACCRUEDINT="0" />
       <row SECID="RU000A10FEK8" SECNAME="Банк ВТБ (ПАО) Б-1-411" MARKETPRICE="841.00" ACCRUEDINT="0" />
