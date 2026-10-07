@@ -6,7 +6,7 @@
       <row SECID="ABRD" SECNAME="Абрау-Дюрсо ПАО ао" MARKETPRICE="113.8" ACCRUEDINT="0.0" />
       <row SECID="AFKS" SECNAME="АФК &quot;Система&quot; ПАО ао" MARKETPRICE="7.03" ACCRUEDINT="0.0" />
       <row SECID="AFLT" SECNAME="Аэрофлот-росс.авиалин(ПАО)ао" MARKETPRICE="33.4" ACCRUEDINT="0.0" />
-      <row SECID="AIIQ" SECNAME="БПИФ Первая ИИнтеллект" MARKETPRICE="11.066" ACCRUEDINT="0.0" />
+      <row SECID="AIIQ" SECNAME="БПИФ Первая ИИнтеллект" MARKETPRICE="11.077" ACCRUEDINT="0.0" />
       <row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="96.24" ACCRUEDINT="0.0" />
       <row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="89.6" ACCRUEDINT="0.0" />
       <row SECID="AKCN" SECNAME="БПИФ Альфа Индекс потреб сект" MARKETPRICE="73.1" ACCRUEDINT="0.0" />
@@ -480,7 +480,7 @@
       <row SECID="X5" SECNAME="Корпоративный центр ИКС 5" MARKETPRICE="2010.5" ACCRUEDINT="0.0" />
       <row SECID="XACCSK" SECNAME="ЗПИФ Акцент 5" MARKETPRICE="825" ACCRUEDINT="0.0" />
       <row SECID="XAVIUM" SECNAME="ЗПИФ Авиум" MARKETPRICE="999" ACCRUEDINT="0.0" />
-      <row SECID="XCREDI" SECNAME="ЗПИФ РЕКОРД Кредитный ресурс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+      <row SECID="XCREDI" SECNAME="ЗПИФ РЕКОРД Кредитный ресурс" MARKETPRICE="900" ACCRUEDINT="0.0" />
       <row SECID="XEQTRU" SECNAME="ИПИФ Астра Рос акции 120/80" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
       <row SECID="XFMAGR" SECNAME="Финам Алгоритм роста" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
       <row SECID="XFMAGY" SECNAME="Финам Алгоритм роста в юанях" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
