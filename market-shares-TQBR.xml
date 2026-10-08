@@ -6,7 +6,7 @@
       <row SECID="ABRD" SECNAME="Абрау-Дюрсо ПАО ао" MARKETPRICE="115.4" ACCRUEDINT="0.0" />
       <row SECID="AFKS" SECNAME="АФК &quot;Система&quot; ПАО ао" MARKETPRICE="7.182" ACCRUEDINT="0.0" />
       <row SECID="AFLT" SECNAME="Аэрофлот-росс.авиалин(ПАО)ао" MARKETPRICE="33.7" ACCRUEDINT="0.0" />
-      <row SECID="AIIQ" SECNAME="БПИФ Первая ИИнтеллект" MARKETPRICE="10.892" ACCRUEDINT="0.0" />
+      <row SECID="AIIQ" SECNAME="БПИФ Первая ИИнтеллект" MARKETPRICE="10.893" ACCRUEDINT="0.0" />
       <row SECID="AKAI" SECNAME="БПИФ Антиинфляционный" MARKETPRICE="96.27" ACCRUEDINT="0.0" />
       <row SECID="AKBC" SECNAME="БПИФ Альфа Индекс голуб фишек" MARKETPRICE="90.4" ACCRUEDINT="0.0" />
       <row SECID="AKCN" SECNAME="БПИФ Альфа Индекс потреб сект" MARKETPRICE="73.3" ACCRUEDINT="0.0" />
@@ -282,7 +282,7 @@
       <row SECID="RU000A0ZZ5R2" SECNAME="ПИФ Современ Арендный бизнес 3" MARKETPRICE="866" ACCRUEDINT="0.0" />
       <row SECID="RU000A0ZZCD8" SECNAME="ИПИФ Мировые инвестиции УКАтон" MARKETPRICE="3100" ACCRUEDINT="0.0" />
       <row SECID="RU000A0ZZMD7" SECNAME="ОПИФ РСХБ – Фонд Облигаций" MARKETPRICE="3275" ACCRUEDINT="0.0" />
-      <row SECID="RU000A0ZZME5" SECNAME="ОПИФ РСХБ – Казначейский" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+      <row SECID="RU000A0ZZME5" SECNAME="ОПИФ РСХБ – Казначейский" MARKETPRICE="3440.62" ACCRUEDINT="0.0" />
       <row SECID="RU000A0ZZML0" SECNAME="ОПИФ РСХБ Сбалансированный" MARKETPRICE="3160" ACCRUEDINT="0.0" />
       <row SECID="RU000A0ZZMN6" SECNAME="ОПИФ РСХБ – Фонд Акций" MARKETPRICE="4020" ACCRUEDINT="0.0" />
       <row SECID="RU000A0ZZVH9" SECNAME="ПИФ Газпромбанк-Еврооблигации" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
