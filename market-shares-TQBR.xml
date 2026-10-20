@@ -230,7 +230,7 @@
       <row SECID="PMSBP" SECNAME="&quot;Пермэнергосбыт&quot; ПАО ап" MARKETPRICE="506.8" ACCRUEDINT="0.0" />
       <row SECID="POSI" SECNAME="Группа Позитив ао" MARKETPRICE="1125" ACCRUEDINT="0.0" />
       <row SECID="PRFN" SECNAME="ТЕПЛАНТ восток (ПАО) ао" MARKETPRICE="3.11" ACCRUEDINT="0.0" />
-      <row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+      <row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="929" ACCRUEDINT="0.0" />
       <row SECID="PRMB" SECNAME="АКБ &quot;Приморье&quot; ао" MARKETPRICE="18000" ACCRUEDINT="0.0" />
       <row SECID="PRMD" SECNAME="ПРОМОМЕД" MARKETPRICE="409.15" ACCRUEDINT="0.0" />
       <row SECID="PSGM" SECNAME="БПИФ ПСБ Золотой рынок" MARKETPRICE="12.963" ACCRUEDINT="0.0" />
@@ -492,7 +492,7 @@
       <row SECID="XHOUSE" SECNAME="ЗПИФ Инвестиции в недв" MARKETPRICE="1111" ACCRUEDINT="0.0" />
       <row SECID="XIPKSV" SECNAME="ИПИФ Стабильные вложения" MARKETPRICE="10484" ACCRUEDINT="0.0" />
       <row SECID="XKLUCH" SECNAME="ИПИФ Ключевой актив" MARKETPRICE="10.923" ACCRUEDINT="0.0" />
-      <row SECID="XLAMIX" SECNAME="ИПИФ АТОН - Индекс МосБиржи x2" MARKETPRICE="1110" ACCRUEDINT="0.0" />
+      <row SECID="XLAMIX" SECNAME="ИПИФ АТОН - Индекс МосБиржи x2" MARKETPRICE="1113" ACCRUEDINT="0.0" />
       <row SECID="XNIRUM" SECNAME="КЗПИФ НИРУМ капитал" MARKETPRICE="1036" ACCRUEDINT="0.0" />
       <row SECID="XQUANT" SECNAME="ИПИФ РЕКОРД КАПИТАЛ КВАНТ" MARKETPRICE="1285" ACCRUEDINT="0.0" />
       <row SECID="XSBORA" SECNAME="ЗПИФ Термы Бора-Бора" MARKETPRICE="6960" ACCRUEDINT="0.0" />
