@@ -348,7 +348,7 @@
       <row SECID="RU000A10BBS6" SECNAME="ЗПИФ ПАРУС-ОЗН Новгород" MARKETPRICE="733" ACCRUEDINT="0.0" />
       <row SECID="RU000A10BM31" SECNAME="ВИМ Инвестиции Валютное плечо" MARKETPRICE="10050" ACCRUEDINT="0.0" />
       <row SECID="RU000A10BQP0" SECNAME="БКС ОФЗ с выплатой дохода" MARKETPRICE="96.28" ACCRUEDINT="0.0" />
-      <row SECID="RU000A10BQQ8" SECNAME="ЗПИФ ГРИН ФЛОУ ЛАХТА ПАРК" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+      <row SECID="RU000A10BQQ8" SECNAME="ЗПИФ ГРИН ФЛОУ ЛАХТА ПАРК" MARKETPRICE="1445" ACCRUEDINT="0.0" />
       <row SECID="RU000A10BT26" SECNAME="ЗПИФ Альфа-К Туризм" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
       <row SECID="RU000A10BT42" SECNAME="ЗПИФ ДОМ.РФ ФЖН-1" MARKETPRICE="1258.5" ACCRUEDINT="0.0" />
       <row SECID="RU000A10CFM8" SECNAME="ЗПИФ ПАРУС-ЗОЛЯ" MARKETPRICE="809" ACCRUEDINT="0.0" />
@@ -486,7 +486,7 @@
       <row SECID="XEQTRU" SECNAME="ИПИФ Астра Рос акции 120/80" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
       <row SECID="XFMAGR" SECNAME="Финам Алгоритм роста" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
       <row SECID="XFMAGY" SECNAME="Финам Алгоритм роста в юанях" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
-      <row SECID="XFMAIN" SECNAME="Финам Абсолютный доход" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+      <row SECID="XFMAIN" SECNAME="Финам Абсолютный доход" MARKETPRICE="2250000" ACCRUEDINT="0.0" />
       <row SECID="XFMOMB" SECNAME="Финам Омега Баланс" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
       <row SECID="XHEDGE" SECNAME="ИПИФ ГПБ-Тактические решения" MARKETPRICE="271.95" ACCRUEDINT="0.0" />
       <row SECID="XHOUSE" SECNAME="ЗПИФ Инвестиции в недв" MARKETPRICE="1142" ACCRUEDINT="0.0" />
