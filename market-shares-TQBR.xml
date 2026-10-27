@@ -230,7 +230,7 @@
       <row SECID="PMSBP" SECNAME="&quot;Пермэнергосбыт&quot; ПАО ап" MARKETPRICE="494.6" ACCRUEDINT="0.0" />
       <row SECID="POSI" SECNAME="Группа Позитив ао" MARKETPRICE="1189.8" ACCRUEDINT="0.0" />
       <row SECID="PRFN" SECNAME="ТЕПЛАНТ восток (ПАО) ао" MARKETPRICE="3.148" ACCRUEDINT="0.0" />
-      <row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+      <row SECID="PRIE" SECNAME="БПИФ РСХБ-Облигации ИЭсДжи" MARKETPRICE="909" ACCRUEDINT="0.0" />
       <row SECID="PRMB" SECNAME="АКБ &quot;Приморье&quot; ао" MARKETPRICE="17800" ACCRUEDINT="0.0" />
       <row SECID="PRMD" SECNAME="ПРОМОМЕД" MARKETPRICE="411" ACCRUEDINT="0.0" />
       <row SECID="PSGM" SECNAME="БПИФ ПСБ Золотой рынок" MARKETPRICE="12.12" ACCRUEDINT="0.0" />
@@ -348,7 +348,7 @@
       <row SECID="RU000A10BBS6" SECNAME="ЗПИФ ПАРУС-ОЗН Новгород" MARKETPRICE="725" ACCRUEDINT="0.0" />
       <row SECID="RU000A10BM31" SECNAME="ВИМ Инвестиции Валютное плечо" MARKETPRICE="10050" ACCRUEDINT="0.0" />
       <row SECID="RU000A10BQP0" SECNAME="БКС ОФЗ с выплатой дохода" MARKETPRICE="96.21" ACCRUEDINT="0.0" />
-      <row SECID="RU000A10BQQ8" SECNAME="ЗПИФ ГРИН ФЛОУ ЛАХТА ПАРК" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+      <row SECID="RU000A10BQQ8" SECNAME="ЗПИФ ГРИН ФЛОУ ЛАХТА ПАРК" MARKETPRICE="1305" ACCRUEDINT="0.0" />
       <row SECID="RU000A10BT26" SECNAME="ЗПИФ Альфа-К Туризм" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
       <row SECID="RU000A10BT42" SECNAME="ЗПИФ ДОМ.РФ ФЖН-1" MARKETPRICE="1260.8" ACCRUEDINT="0.0" />
       <row SECID="RU000A10CFM8" SECNAME="ЗПИФ ПАРУС-ЗОЛЯ" MARKETPRICE="810" ACCRUEDINT="0.0" />
@@ -393,7 +393,7 @@
       <row SECID="SBSC" SECNAME="БПИФ Первая Акции ср.и мал.кап" MARKETPRICE="7.034" ACCRUEDINT="0.0" />
       <row SECID="SCFT" SECNAME="БПИФ Технологии будущего" MARKETPRICE="4.076" ACCRUEDINT="0.0" />
       <row SECID="SCLI" SECNAME="БПИФ Ликвидный" MARKETPRICE="7.294" ACCRUEDINT="0.0" />
-      <row SECID="SECR" SECNAME="БПИФ Первая Разумный капитал" MARKETPRICE="0.0" ACCRUEDINT="0.0" />
+      <row SECID="SECR" SECNAME="БПИФ Первая Разумный капитал" MARKETPRICE="10.038" ACCRUEDINT="0.0" />
       <row SECID="SELG" SECNAME="ПАО &quot;Селигдар&quot;  ао" MARKETPRICE="41.43" ACCRUEDINT="0.0" />
       <row SECID="SFIN" SECNAME="ЭсЭфАй ПАО ао" MARKETPRICE="628.6" ACCRUEDINT="0.0" />
       <row SECID="SGZH" SECNAME="Сегежа ао" MARKETPRICE="0.744" ACCRUEDINT="0.0" />
